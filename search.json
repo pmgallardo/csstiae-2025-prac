@@ -1,0 +1,353 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ejercicio práctico del CSSTIAE 2025",
+    "section": "",
+    "text": "Introducción\nEste documento es una guía de preparación para el ejercicio práctico del proceso selectivo de la convocatoria de 2025 (proceso XXXI) para ingreso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) de la Administración General del Estado (AGE) del sector público español.",
+    "crumbs": [
+      "Introducción"
+    ]
+  },
+  {
+    "objectID": "00-presentacion/index.html",
+    "href": "00-presentacion/index.html",
+    "title": "1  Estructura",
+    "section": "",
+    "text": "El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:\n\nSupuesto práctico\nAnálisis pormenorizado\nVolcado\nLectura\n\nEn las siguientes partes se analiza cada una de ellas.",
+    "crumbs": [
+      "Presentación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Estructura</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html",
+    "href": "01-supuesto/index.html",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "",
+    "text": "Este documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-electr.html",
+    "href": "01-supuesto/serv-electr.html",
+    "title": "3  Servicios electrónicos comunes",
+    "section": "",
+    "text": "3.1 FACe\nEste capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.\nLos servicios electrónicos aparecen listados en el catálogo de servicios de Administración digital del Portal de la Administración Electrónica.\nFACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-electr.html#dir3",
+    "href": "01-supuesto/serv-electr.html#dir3",
+    "title": "3  Servicios electrónicos comunes",
+    "section": "3.2 DIR3",
+    "text": "3.2 DIR3\nDIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/estimacion.html",
+    "href": "01-supuesto/estimacion.html",
+    "title": "4  Estimaciones",
+    "section": "",
+    "text": "Este capítulo resume métodos de estimación de esfuerzo de software, que es una tarea habitual en el supuesto práctico.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estimaciones</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/index.html",
+    "href": "02-analisis/index.html",
+    "title": "5  Introducción al análisis pormenorizado",
+    "section": "",
+    "text": "5.1 Fuentes Estadísticas\nEste documento es un resumen de información relevante para la preparación del ejercicio práctico",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/index.html#fuentes-estadísticas",
+    "href": "02-analisis/index.html#fuentes-estadísticas",
+    "title": "5  Introducción al análisis pormenorizado",
+    "section": "",
+    "text": "INE (Instituto Nacional de Estadística)\n\nEVGVD (Empleo)\nEPA (Empleo)\n\nDESI",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/organismos.html",
+    "href": "02-analisis/organismos.html",
+    "title": "6  Organismos",
+    "section": "",
+    "text": "6.1 Organismos internacionales",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/organismos.html#organismos-europeos",
+    "href": "02-analisis/organismos.html#organismos-europeos",
+    "title": "6  Organismos",
+    "section": "6.2 Organismos europeos",
+    "text": "6.2 Organismos europeos",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/organismos.html#organismos-españoles",
+    "href": "02-analisis/organismos.html#organismos-españoles",
+    "title": "6  Organismos",
+    "section": "6.3 Organismos españoles",
+    "text": "6.3 Organismos españoles\n\n6.3.1 Organismo 1\n\n\n6.3.2 Organismo 2",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/regulaciones.html",
+    "href": "02-analisis/regulaciones.html",
+    "title": "7  Regulaciones",
+    "section": "",
+    "text": "7.1 Regulaciones europeas\nIncluye regulaciones europeas y españolas.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regulaciones</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/regulaciones.html#regulaciones-españolas",
+    "href": "02-analisis/regulaciones.html#regulaciones-españolas",
+    "title": "7  Regulaciones",
+    "section": "7.2 Regulaciones españolas",
+    "text": "7.2 Regulaciones españolas\n\n7.2.1 Regulación 1\n\n\n7.2.2 Regulación 2",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regulaciones</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/iniciativas.html",
+    "href": "02-analisis/iniciativas.html",
+    "title": "8  Iniciativas",
+    "section": "",
+    "text": "8.1 Iniciativas internacionales\nIniciativas internacionales:",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/iniciativas.html#iniciativas-internacionales",
+    "href": "02-analisis/iniciativas.html#iniciativas-internacionales",
+    "title": "8  Iniciativas",
+    "section": "",
+    "text": "Agenda 2030\n\n\n8.1.1 Agenda 2030\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/iniciativas.html#iniciativas-europeas",
+    "href": "02-analisis/iniciativas.html#iniciativas-europeas",
+    "title": "8  Iniciativas",
+    "section": "8.2 Iniciativas europeas",
+    "text": "8.2 Iniciativas europeas",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/iniciativas.html#iniciativas-españolas",
+    "href": "02-analisis/iniciativas.html#iniciativas-españolas",
+    "title": "8  Iniciativas",
+    "section": "8.3 Iniciativas españolas",
+    "text": "8.3 Iniciativas españolas\nIniciativas españolas:\n\nPlan España Digital / España Digital 2026\n\n\n8.3.1 Plan España Digital\nhttps://runmodule.com/2027/07/27/plan-espana-digital/",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html",
+    "href": "02-analisis/tematicas.html",
+    "title": "9  Temáticas",
+    "section": "",
+    "text": "9.0.1 Relevantes para el práctico\nLos temas que se ven aquí son:\nEn los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) se encuentran los siguientes temas:\nTemas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#relación-con-las-aapp",
+    "href": "02-analisis/tematicas.html#relación-con-las-aapp",
+    "title": "9  Temáticas",
+    "section": "9.1 Relación con las AAPP",
+    "text": "9.1 Relación con las AAPP\n\nRegulaciones\n\nL 39/2015. Procedimiento Administrativo Común AAPP (PACAP).\nRD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.\nL 29/1999. Contencioso-administrativo.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#funcionamiento-de-las-aapp",
+    "href": "02-analisis/tematicas.html#funcionamiento-de-las-aapp",
+    "title": "9  Temáticas",
+    "section": "9.2 Funcionamiento de las AAPP",
+    "text": "9.2 Funcionamiento de las AAPP\n\nRegulaciones\n\nL 40/2015. Régimen Jurídico del Sector Público (RJSP).",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#interoperabilidad",
+    "href": "02-analisis/tematicas.html#interoperabilidad",
+    "title": "9  Temáticas",
+    "section": "9.3 Interoperabilidad",
+    "text": "9.3 Interoperabilidad\n\nTemario\n\nASTIC\n\nTema 51\nTema 21\n\n\nRegulaciones\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#transparencia",
+    "href": "02-analisis/tematicas.html#transparencia",
+    "title": "9  Temáticas",
+    "section": "9.4 Transparencia",
+    "text": "9.4 Transparencia\n\nRegulaciones\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#justicia",
+    "href": "02-analisis/tematicas.html#justicia",
+    "title": "9  Temáticas",
+    "section": "9.5 Justicia",
+    "text": "9.5 Justicia\n\nRegulaciones\n\nLO 1995/40. Código penal",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#hacienda",
+    "href": "02-analisis/tematicas.html#hacienda",
+    "title": "9  Temáticas",
+    "section": "9.6 Hacienda",
+    "text": "9.6 Hacienda\n\n9.6.1 Recaudación",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#casa-real",
+    "href": "02-analisis/tematicas.html#casa-real",
+    "title": "9  Temáticas",
+    "section": "9.7 Casa Real",
+    "text": "9.7 Casa Real",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#demografía",
+    "href": "02-analisis/tematicas.html#demografía",
+    "title": "9  Temáticas",
+    "section": "9.8 Demografía",
+    "text": "9.8 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\n\nEstadísticas:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#inteligencia-artificial",
+    "href": "02-analisis/tematicas.html#inteligencia-artificial",
+    "title": "9  Temáticas",
+    "section": "9.9 Inteligencia artificial",
+    "text": "9.9 Inteligencia artificial",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#igualdad",
+    "href": "02-analisis/tematicas.html#igualdad",
+    "title": "9  Temáticas",
+    "section": "9.10 Igualdad",
+    "text": "9.10 Igualdad",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#subvenciones",
+    "href": "02-analisis/tematicas.html#subvenciones",
+    "title": "9  Temáticas",
+    "section": "9.11 Subvenciones",
+    "text": "9.11 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/tematicas.html#cnmc",
+    "href": "02-analisis/tematicas.html#cnmc",
+    "title": "9  Temáticas",
+    "section": "9.12 CNMC",
+    "text": "9.12 CNMC",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+    ]
+  },
+  {
+    "objectID": "03-volcado/index.html",
+    "href": "03-volcado/index.html",
+    "title": "10  Volcado",
+    "section": "",
+    "text": "Este capítulo incluye consejos sobre el volcado.",
+    "crumbs": [
+      "Volcado",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Volcado</span>"
+    ]
+  },
+  {
+    "objectID": "04-lectura/index.html",
+    "href": "04-lectura/index.html",
+    "title": "11  Lectura",
+    "section": "",
+    "text": "Este capítulo incluye consejos sobre la lectura.",
+    "crumbs": [
+      "Lectura",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectura</span>"
+    ]
+  }
+]
