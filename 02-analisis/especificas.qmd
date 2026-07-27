@@ -1,17 +1,15 @@
-# Temáticas
+# Temáticas específicas
 
 Los temas que se ven aquí son:
 
-- Relaciones con las AAPP
-- Funcionamiento de las AAPP
 - Justicia
 - Empleo
-- Interoperabilidad
-- Transparencia
 - Subvenciones
 - Igualdad
 - Presupuestación
 - Demografía
+
+## Temas relacionados con el Tribunal
 
 En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) se encuentran los siguientes temas:
 
@@ -20,13 +18,6 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 - Gestión del Cambio. AEAD
 - CNMC
 - Presupuestación
-
-### Relevantes para el práctico
-
-Temas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
-
-### Temas relacionados con el Tribunal
-
 - INAP
 - Casa Real
 - Turismo
@@ -35,37 +26,14 @@ Temas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
 - Infraestructuras TIC
 - Hacienda. Recaudación
 
-## Relación con las AAPP
-
-- Regulaciones
-  - L 39/2015. Procedimiento Administrativo Común AAPP (PACAP).
-  - RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.
-  - L 29/1999. Contencioso-administrativo.
-
-## Funcionamiento de las AAPP
-
-- Regulaciones
-  - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
-
-## Interoperabilidad
-
-- Temario
-    - ASTIC
-        - Tema 51
-        - Tema 21
-- Regulaciones
-  - RD 4/2010. Esquema Nacional de Interoperabilidad
-  - L 37/2007. Reutilización de datos en Sector Público.
-
-## Transparencia
-
-- Regulaciones
-  - L 19/2013. Transparencia, acceso a la información pública y buen gobierno.
-
 ## Justicia
 
 - Regulaciones
   - LO 1995/40. Código penal
+
+## Seguridad Social
+
+## Atención al usuario
 
 ## Hacienda
 
@@ -90,8 +58,6 @@ Estadísticas:
 | Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
 | Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
 
-## Inteligencia artificial
-
 ## Igualdad
 
 ## Subvenciones
@@ -100,4 +66,3 @@ Estadísticas:
   - L 38/2003. General de Subvenciones. 
 
 ## CNMC
-

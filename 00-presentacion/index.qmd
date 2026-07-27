@@ -1,4 +1,6 @@
-# Estructura
+# Presentación
+
+## Estructura
 
 El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:
 
@@ -8,4 +10,8 @@ El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, s
 4. Lectura
 
 En las siguientes partes se analiza cada una de ellas.
+
+## Temas relevantes para el práctico
+
+Temas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
 

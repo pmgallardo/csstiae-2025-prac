@@ -2,3 +2,20 @@
 
 Este documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE). 
 
+## Seguridad
+
+Niveles de seguridad del ENS.
+
+CCN-STIC. Aprender.
+
+## Planificación
+
+## Interoperabilidad
+
+## IA
+
+## Contratación pública
+
+## Certificados electrónicos
+
+## Protección de datos

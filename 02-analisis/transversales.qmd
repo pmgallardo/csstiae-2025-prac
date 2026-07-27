@@ -1,0 +1,74 @@
+# Temáticas transversales
+
+Los temas que se ven aquí son:
+
+- Relaciones con las AAPP
+- Funcionamiento de las AAPP
+- Administración digital
+- ...
+
+## Relación con las AAPP
+
+- Regulaciones
+  - L 39/2015. Procedimiento Administrativo Común AAPP (PACAP).
+  - RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.
+  - L 29/1999. Contencioso-administrativo.
+
+## Funcionamiento de las AAPP
+
+- Regulaciones
+  - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
+
+## Seguridad de la información
+
+- Temario
+  - ASTIC
+    - Tema 48 (incluye ENS, CCN-STIC)
+- Regulaciones
+  - RD 311/2022, Esquema Nacional de Seguridad
+  - L 6/2020, de servicios electrónicos de confianza
+  - RD 43/2021, seguridad de redes y SI
+  - RDL 7/2022, seguridad 5G
+- Iniciativas
+  - Estrategia de Seguridad Nacional
+  - Estrategia Nacional de Ciberseguridad
+  - Esquema Nacional de Seguridad (ENS)
+  - Guías CCN-STIC
+
+<https://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/>
+
+## Protección de datos
+
+## Interoperabilidad
+
+- Temario
+    - ASTIC
+        - Tema 51
+        - Tema 21
+- Regulaciones
+  - RD 4/2010. Esquema Nacional de Interoperabilidad
+  - L 37/2007. Reutilización de datos en Sector Público.
+
+Esquema Nacional de Interoperabilidad (ENI).
+
+## Transparencia
+
+- Regulaciones
+  - L 19/2013. Transparencia, acceso a la información pública y buen gobierno.
+
+## Accesibilidad
+
+
+## Inteligencia artificial
+
+## Nube
+
+## Gobernanza digital
+
+## Gobierno del dato
+
+## Certificados electrónicos
+
+- Regulaciones
+    - UE
+        - eIDAS

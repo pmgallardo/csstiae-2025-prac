@@ -27,13 +27,15 @@ book:
         - 01-supuesto/index.qmd
         - 01-supuesto/serv-electr.qmd
         - 01-supuesto/estimacion.qmd
+        - 01-supuesto/redes.qmd
     - part: "Análisis pormenorizado"
       chapters:
         - 02-analisis/index.qmd
         - 02-analisis/organismos.qmd
         - 02-analisis/regulaciones.qmd
         - 02-analisis/iniciativas.qmd
-        - 02-analisis/tematicas.qmd
+        - 02-analisis/transversales.qmd
+        - 02-analisis/especificas.qmd
     - part: "Volcado"
       chapters:
         - 03-volcado/index.qmd
