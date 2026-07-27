@@ -256,7 +256,7 @@
     "href": "02-analisis/iniciativas.html#iniciativas-internacionales",
     "title": "9  Iniciativas",
     "section": "",
-    "text": "Agenda 2030\n\n\n9.1.1 Agenda 2030\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:",
+    "text": "Agenda 2030\n\n\n9.1.1 Agenda 2030\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\nEstá compuesta por 5 dimensiones (5 P’s):\n\nPersonas\nPlaneta\nProsperidad\nPaz\nAlianzas (partnerships)\n\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:\n\nFin de la pobreza\nHambre cero\nSalud y bienestar\nEducación de calidad\nIgualdad de género\nAgua limpia y saneamiento\nEnergía asequible y no contaminante\nTrabajo decente y crecimiento económico\nIndustria, innovación e infraestructura\nReducción de las desigualdades\nCiudades y comunidades sostenibles\nProducción y consumo responsables\nAcción por el clima\nVida submarina\nVida de ecosistemas terrestres\nPaz, justicia e instituciones solidarias\nAlianzas para lograr los objetivos\n\n\n\n\nObjetivos de desarrollo sostenible",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Iniciativas</span>"
@@ -454,7 +454,7 @@
     "href": "02-analisis/especificas.html#justicia",
     "title": "11  Temáticas específicas",
     "section": "11.2 Justicia",
-    "text": "11.2 Justicia\n\nRegulaciones\n\nLO 1995/40. Código penal",
+    "text": "11.2 Justicia\n\nRegulaciones\n\nLO 1995/40. Código penal\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\nTítulo IV del Poder Judicial\n\nODS\n\n\nPaz, justicia e instituciones sólidas",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -520,7 +520,18 @@
     "href": "02-analisis/especificas.html#igualdad",
     "title": "11  Temáticas específicas",
     "section": "11.8 Igualdad",
-    "text": "11.8 Igualdad",
+    "text": "11.8 Igualdad\n\nODS\n\n\nIgualdad de género",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#educación",
+    "href": "02-analisis/especificas.html#educación",
+    "title": "11  Temáticas específicas",
+    "section": "11.9 Educación",
+    "text": "11.9 Educación\n\nODS\n\n\nEducación de calidad",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -530,8 +541,8 @@
     "objectID": "02-analisis/especificas.html#subvenciones",
     "href": "02-analisis/especificas.html#subvenciones",
     "title": "11  Temáticas específicas",
-    "section": "11.9 Subvenciones",
-    "text": "11.9 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "section": "11.10 Subvenciones",
+    "text": "11.10 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -541,8 +552,8 @@
     "objectID": "02-analisis/especificas.html#cnmc",
     "href": "02-analisis/especificas.html#cnmc",
     "title": "11  Temáticas específicas",
-    "section": "11.10 CNMC",
-    "text": "11.10 CNMC",
+    "section": "11.11 CNMC",
+    "text": "11.11 CNMC",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
