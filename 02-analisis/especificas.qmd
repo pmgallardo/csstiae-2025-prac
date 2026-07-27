@@ -30,6 +30,11 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 
 - Regulaciones
   - LO 1995/40. Código penal
+- Constitución
+  - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
+  - Título IV del Poder Judicial
+- ODS
+  - 8. Paz, justicia e instituciones sólidas 
 
 ## Seguridad Social
 
@@ -59,6 +64,14 @@ Estadísticas:
 | Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
 
 ## Igualdad
+
+- ODS
+  - 5. Igualdad de género
+
+## Educación
+
+- ODS
+  - 4. Educación de calidad
 
 ## Subvenciones
 

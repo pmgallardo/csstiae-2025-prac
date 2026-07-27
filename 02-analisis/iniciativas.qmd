@@ -10,7 +10,35 @@ Iniciativas internacionales:
 
 <https://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/>
 
+Está compuesta por 5 dimensiones (5 P's):
+
+- Personas
+- Planeta
+- Prosperidad
+- Paz
+- Alianzas (*partnerships*)
+
 Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
+
+1. Fin de la pobreza
+2. Hambre cero
+3. Salud y bienestar
+4. Educación de calidad
+5. Igualdad de género
+6. Agua limpia y saneamiento
+7. Energía asequible y no contaminante
+8. Trabajo decente y crecimiento económico
+9. Industria, innovación e infraestructura
+10. Reducción de las desigualdades
+11. Ciudades y comunidades sostenibles
+12. Producción y consumo responsables
+13. Acción por el clima
+14. Vida submarina
+15. Vida de ecosistemas terrestres
+16. Paz, justicia e instituciones solidarias
+17. Alianzas para lograr los objetivos
+
+![Objetivos de desarrollo sostenible](https://www.un.org/sustainabledevelopment/wp-content/uploads/sites/3/2015/01/S-SDG-Poster_-Letter.jpg)
 
 ## Iniciativas europeas
 
