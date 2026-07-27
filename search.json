@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Ejercicio práctico del CSSTIAE 2025",
     "section": "",
-    "text": "Introducción\nEste documento es una guía de preparación para el ejercicio práctico del proceso selectivo de la convocatoria de 2025 (proceso XXXI) para ingreso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) de la Administración General del Estado (AGE) del sector público español.",
+    "text": "Introducción\nEsta es una guía de preparación para el ejercicio práctico del proceso selectivo de la convocatoria de 2025 (proceso XXXI) de ingreso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) de la Administración General del Estado (AGE) del sector público español.",
     "crumbs": [
       "Introducción"
     ]
@@ -12,12 +12,34 @@
   {
     "objectID": "00-presentacion/index.html",
     "href": "00-presentacion/index.html",
-    "title": "1  Estructura",
+    "title": "1  Presentación",
     "section": "",
-    "text": "El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:\n\nSupuesto práctico\nAnálisis pormenorizado\nVolcado\nLectura\n\nEn las siguientes partes se analiza cada una de ellas.",
+    "text": "1.1 Estructura\nEl ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:\nEn las siguientes partes se analiza cada una de ellas.",
     "crumbs": [
       "Presentación",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Estructura</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Presentación</span>"
+    ]
+  },
+  {
+    "objectID": "00-presentacion/index.html#estructura",
+    "href": "00-presentacion/index.html#estructura",
+    "title": "1  Presentación",
+    "section": "",
+    "text": "Supuesto práctico\nAnálisis pormenorizado\nVolcado\nLectura",
+    "crumbs": [
+      "Presentación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Presentación</span>"
+    ]
+  },
+  {
+    "objectID": "00-presentacion/index.html#temas-relevantes-para-el-práctico",
+    "href": "00-presentacion/index.html#temas-relevantes-para-el-práctico",
+    "title": "1  Presentación",
+    "section": "1.2 Temas relevantes para el práctico",
+    "text": "1.2 Temas relevantes para el práctico\nTemas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:",
+    "crumbs": [
+      "Presentación",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Presentación</span>"
     ]
   },
   {
@@ -25,7 +47,73 @@
     "href": "01-supuesto/index.html",
     "title": "2  Introducción al supuesto práctico",
     "section": "",
-    "text": "Este documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).",
+    "text": "2.1 Seguridad\nEste documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#planificación",
+    "href": "01-supuesto/index.html#planificación",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.2 Planificación",
+    "text": "2.2 Planificación",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#interoperabilidad",
+    "href": "01-supuesto/index.html#interoperabilidad",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.3 Interoperabilidad",
+    "text": "2.3 Interoperabilidad",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#ia",
+    "href": "01-supuesto/index.html#ia",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.4 IA",
+    "text": "2.4 IA",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#contratación-pública",
+    "href": "01-supuesto/index.html#contratación-pública",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.5 Contratación pública",
+    "text": "2.5 Contratación pública",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#certificados-electrónicos",
+    "href": "01-supuesto/index.html#certificados-electrónicos",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.6 Certificados electrónicos",
+    "text": "2.6 Certificados electrónicos",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#protección-de-datos",
+    "href": "01-supuesto/index.html#protección-de-datos",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.7 Protección de datos",
+    "text": "2.7 Protección de datos",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -58,296 +146,428 @@
     "href": "01-supuesto/estimacion.html",
     "title": "4  Estimaciones",
     "section": "",
-    "text": "Este capítulo resume métodos de estimación de esfuerzo de software, que es una tarea habitual en el supuesto práctico.",
+    "text": "Este capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Estimaciones</span>"
     ]
   },
   {
+    "objectID": "01-supuesto/redes.html",
+    "href": "01-supuesto/redes.html",
+    "title": "5  Redes",
+    "section": "",
+    "text": "RedSARA (Sistemas de Aplicaciones y Redes para las administraciones)\nNube. Nube de la AGE.\nsTESTA es una red transeuropea que incluye a las instituciones públicas europeas y de los estados europeos. RedSARA enlaza con la red sTESTA.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Redes</span>"
+    ]
+  },
+  {
     "objectID": "02-analisis/index.html",
     "href": "02-analisis/index.html",
-    "title": "5  Introducción al análisis pormenorizado",
+    "title": "6  Introducción al análisis pormenorizado",
     "section": "",
-    "text": "5.1 Fuentes Estadísticas\nEste documento es un resumen de información relevante para la preparación del ejercicio práctico",
+    "text": "6.1 Fuentes Estadísticas\nEste documento es un resumen de información relevante para la preparación del ejercicio práctico",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
     ]
   },
   {
     "objectID": "02-analisis/index.html#fuentes-estadísticas",
     "href": "02-analisis/index.html#fuentes-estadísticas",
-    "title": "5  Introducción al análisis pormenorizado",
+    "title": "6  Introducción al análisis pormenorizado",
     "section": "",
     "text": "INE (Instituto Nacional de Estadística)\n\nEVGVD (Empleo)\nEPA (Empleo)\n\nDESI",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
     ]
   },
   {
     "objectID": "02-analisis/organismos.html",
     "href": "02-analisis/organismos.html",
-    "title": "6  Organismos",
+    "title": "7  Organismos",
     "section": "",
-    "text": "6.1 Organismos internacionales",
+    "text": "7.1 Organismos internacionales",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Organismos</span>"
     ]
   },
   {
     "objectID": "02-analisis/organismos.html#organismos-europeos",
     "href": "02-analisis/organismos.html#organismos-europeos",
-    "title": "6  Organismos",
-    "section": "6.2 Organismos europeos",
-    "text": "6.2 Organismos europeos",
+    "title": "7  Organismos",
+    "section": "7.2 Organismos europeos",
+    "text": "7.2 Organismos europeos",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Organismos</span>"
     ]
   },
   {
     "objectID": "02-analisis/organismos.html#organismos-españoles",
     "href": "02-analisis/organismos.html#organismos-españoles",
-    "title": "6  Organismos",
-    "section": "6.3 Organismos españoles",
-    "text": "6.3 Organismos españoles\n\n6.3.1 Organismo 1\n\n\n6.3.2 Organismo 2",
+    "title": "7  Organismos",
+    "section": "7.3 Organismos españoles",
+    "text": "7.3 Organismos españoles\n\n7.3.1 Organismo 1\n\n\n7.3.2 Organismo 2",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Organismos</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Organismos</span>"
     ]
   },
   {
     "objectID": "02-analisis/regulaciones.html",
     "href": "02-analisis/regulaciones.html",
-    "title": "7  Regulaciones",
+    "title": "8  Regulaciones",
     "section": "",
-    "text": "7.1 Regulaciones europeas\nIncluye regulaciones europeas y españolas.",
+    "text": "8.1 Regulaciones europeas\nIncluye regulaciones europeas y españolas.",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regulaciones</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Regulaciones</span>"
     ]
   },
   {
     "objectID": "02-analisis/regulaciones.html#regulaciones-españolas",
     "href": "02-analisis/regulaciones.html#regulaciones-españolas",
-    "title": "7  Regulaciones",
-    "section": "7.2 Regulaciones españolas",
-    "text": "7.2 Regulaciones españolas\n\n7.2.1 Regulación 1\n\n\n7.2.2 Regulación 2",
+    "title": "8  Regulaciones",
+    "section": "8.2 Regulaciones españolas",
+    "text": "8.2 Regulaciones españolas\n\n8.2.1 Regulación 1\n\n\n8.2.2 Regulación 2",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Regulaciones</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Regulaciones</span>"
     ]
   },
   {
     "objectID": "02-analisis/iniciativas.html",
     "href": "02-analisis/iniciativas.html",
-    "title": "8  Iniciativas",
+    "title": "9  Iniciativas",
     "section": "",
-    "text": "8.1 Iniciativas internacionales\nIniciativas internacionales:",
+    "text": "9.1 Iniciativas internacionales\nIniciativas internacionales:",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Iniciativas</span>"
     ]
   },
   {
     "objectID": "02-analisis/iniciativas.html#iniciativas-internacionales",
     "href": "02-analisis/iniciativas.html#iniciativas-internacionales",
-    "title": "8  Iniciativas",
+    "title": "9  Iniciativas",
     "section": "",
-    "text": "Agenda 2030\n\n\n8.1.1 Agenda 2030\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:",
+    "text": "Agenda 2030\n\n\n9.1.1 Agenda 2030\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Iniciativas</span>"
     ]
   },
   {
     "objectID": "02-analisis/iniciativas.html#iniciativas-europeas",
     "href": "02-analisis/iniciativas.html#iniciativas-europeas",
-    "title": "8  Iniciativas",
-    "section": "8.2 Iniciativas europeas",
-    "text": "8.2 Iniciativas europeas",
+    "title": "9  Iniciativas",
+    "section": "9.2 Iniciativas europeas",
+    "text": "9.2 Iniciativas europeas",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Iniciativas</span>"
     ]
   },
   {
     "objectID": "02-analisis/iniciativas.html#iniciativas-españolas",
     "href": "02-analisis/iniciativas.html#iniciativas-españolas",
-    "title": "8  Iniciativas",
-    "section": "8.3 Iniciativas españolas",
-    "text": "8.3 Iniciativas españolas\nIniciativas españolas:\n\nPlan España Digital / España Digital 2026\n\n\n8.3.1 Plan España Digital\nhttps://runmodule.com/2027/07/27/plan-espana-digital/",
+    "title": "9  Iniciativas",
+    "section": "9.3 Iniciativas españolas",
+    "text": "9.3 Iniciativas españolas\nIniciativas españolas:\n\nPlan España Digital / España Digital 2026\nEstrategia Nacional de Seguridad\n\n\n9.3.1 Plan España Digital\nhttps://runmodule.com/2027/07/27/plan-espana-digital/\n\n\n9.3.2 Estrategia Nacional de Seguridad",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Iniciativas</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Iniciativas</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html",
-    "href": "02-analisis/tematicas.html",
-    "title": "9  Temáticas",
+    "objectID": "02-analisis/transversales.html",
+    "href": "02-analisis/transversales.html",
+    "title": "10  Temáticas transversales",
     "section": "",
-    "text": "9.0.1 Relevantes para el práctico\nLos temas que se ven aquí son:\nEn los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) se encuentran los siguientes temas:\nTemas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:",
+    "text": "10.1 Relación con las AAPP\nLos temas que se ven aquí son:",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#relación-con-las-aapp",
-    "href": "02-analisis/tematicas.html#relación-con-las-aapp",
-    "title": "9  Temáticas",
-    "section": "9.1 Relación con las AAPP",
-    "text": "9.1 Relación con las AAPP\n\nRegulaciones\n\nL 39/2015. Procedimiento Administrativo Común AAPP (PACAP).\nRD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.\nL 29/1999. Contencioso-administrativo.",
+    "objectID": "02-analisis/transversales.html#relación-con-las-aapp",
+    "href": "02-analisis/transversales.html#relación-con-las-aapp",
+    "title": "10  Temáticas transversales",
+    "section": "",
+    "text": "Regulaciones\n\nL 39/2015. Procedimiento Administrativo Común AAPP (PACAP).\nRD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.\nL 29/1999. Contencioso-administrativo.",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#funcionamiento-de-las-aapp",
-    "href": "02-analisis/tematicas.html#funcionamiento-de-las-aapp",
-    "title": "9  Temáticas",
-    "section": "9.2 Funcionamiento de las AAPP",
-    "text": "9.2 Funcionamiento de las AAPP\n\nRegulaciones\n\nL 40/2015. Régimen Jurídico del Sector Público (RJSP).",
+    "objectID": "02-analisis/transversales.html#funcionamiento-de-las-aapp",
+    "href": "02-analisis/transversales.html#funcionamiento-de-las-aapp",
+    "title": "10  Temáticas transversales",
+    "section": "10.2 Funcionamiento de las AAPP",
+    "text": "10.2 Funcionamiento de las AAPP\n\nRegulaciones\n\nL 40/2015. Régimen Jurídico del Sector Público (RJSP).",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#interoperabilidad",
-    "href": "02-analisis/tematicas.html#interoperabilidad",
-    "title": "9  Temáticas",
-    "section": "9.3 Interoperabilidad",
-    "text": "9.3 Interoperabilidad\n\nTemario\n\nASTIC\n\nTema 51\nTema 21\n\n\nRegulaciones\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.",
+    "objectID": "02-analisis/transversales.html#seguridad-de-la-información",
+    "href": "02-analisis/transversales.html#seguridad-de-la-información",
+    "title": "10  Temáticas transversales",
+    "section": "10.3 Seguridad de la información",
+    "text": "10.3 Seguridad de la información\n\nTemario\n\nASTIC\n\nTema 48 (incluye ENS, CCN-STIC)\n\n\nRegulaciones\n\nRD 311/2022, Esquema Nacional de Seguridad\nL 6/2020, de servicios electrónicos de confianza\nRD 43/2021, seguridad de redes y SI\nRDL 7/2022, seguridad 5G\n\nIniciativas\n\nEstrategia de Seguridad Nacional\nEstrategia Nacional de Ciberseguridad\nEsquema Nacional de Seguridad (ENS)\nGuías CCN-STIC\n\n\nhttps://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#transparencia",
-    "href": "02-analisis/tematicas.html#transparencia",
-    "title": "9  Temáticas",
-    "section": "9.4 Transparencia",
-    "text": "9.4 Transparencia\n\nRegulaciones\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
+    "objectID": "02-analisis/transversales.html#protección-de-datos",
+    "href": "02-analisis/transversales.html#protección-de-datos",
+    "title": "10  Temáticas transversales",
+    "section": "10.4 Protección de datos",
+    "text": "10.4 Protección de datos",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#justicia",
-    "href": "02-analisis/tematicas.html#justicia",
-    "title": "9  Temáticas",
-    "section": "9.5 Justicia",
-    "text": "9.5 Justicia\n\nRegulaciones\n\nLO 1995/40. Código penal",
+    "objectID": "02-analisis/transversales.html#interoperabilidad",
+    "href": "02-analisis/transversales.html#interoperabilidad",
+    "title": "10  Temáticas transversales",
+    "section": "10.5 Interoperabilidad",
+    "text": "10.5 Interoperabilidad\n\nTemario\n\nASTIC\n\nTema 51\nTema 21\n\n\nRegulaciones\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.\n\n\nEsquema Nacional de Interoperabilidad (ENI).",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#hacienda",
-    "href": "02-analisis/tematicas.html#hacienda",
-    "title": "9  Temáticas",
-    "section": "9.6 Hacienda",
-    "text": "9.6 Hacienda\n\n9.6.1 Recaudación",
+    "objectID": "02-analisis/transversales.html#transparencia",
+    "href": "02-analisis/transversales.html#transparencia",
+    "title": "10  Temáticas transversales",
+    "section": "10.6 Transparencia",
+    "text": "10.6 Transparencia\n\nRegulaciones\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#casa-real",
-    "href": "02-analisis/tematicas.html#casa-real",
-    "title": "9  Temáticas",
-    "section": "9.7 Casa Real",
-    "text": "9.7 Casa Real",
+    "objectID": "02-analisis/transversales.html#accesibilidad",
+    "href": "02-analisis/transversales.html#accesibilidad",
+    "title": "10  Temáticas transversales",
+    "section": "10.7 Accesibilidad",
+    "text": "10.7 Accesibilidad",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#demografía",
-    "href": "02-analisis/tematicas.html#demografía",
-    "title": "9  Temáticas",
-    "section": "9.8 Demografía",
-    "text": "9.8 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\n\nEstadísticas:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
+    "objectID": "02-analisis/transversales.html#inteligencia-artificial",
+    "href": "02-analisis/transversales.html#inteligencia-artificial",
+    "title": "10  Temáticas transversales",
+    "section": "10.8 Inteligencia artificial",
+    "text": "10.8 Inteligencia artificial",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#inteligencia-artificial",
-    "href": "02-analisis/tematicas.html#inteligencia-artificial",
-    "title": "9  Temáticas",
-    "section": "9.9 Inteligencia artificial",
-    "text": "9.9 Inteligencia artificial",
+    "objectID": "02-analisis/transversales.html#nube",
+    "href": "02-analisis/transversales.html#nube",
+    "title": "10  Temáticas transversales",
+    "section": "10.9 Nube",
+    "text": "10.9 Nube",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#igualdad",
-    "href": "02-analisis/tematicas.html#igualdad",
-    "title": "9  Temáticas",
-    "section": "9.10 Igualdad",
-    "text": "9.10 Igualdad",
+    "objectID": "02-analisis/transversales.html#gobernanza-digital",
+    "href": "02-analisis/transversales.html#gobernanza-digital",
+    "title": "10  Temáticas transversales",
+    "section": "10.10 Gobernanza digital",
+    "text": "10.10 Gobernanza digital",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#subvenciones",
-    "href": "02-analisis/tematicas.html#subvenciones",
-    "title": "9  Temáticas",
-    "section": "9.11 Subvenciones",
-    "text": "9.11 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "objectID": "02-analisis/transversales.html#gobierno-del-dato",
+    "href": "02-analisis/transversales.html#gobierno-del-dato",
+    "title": "10  Temáticas transversales",
+    "section": "10.11 Gobierno del dato",
+    "text": "10.11 Gobierno del dato",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/tematicas.html#cnmc",
-    "href": "02-analisis/tematicas.html#cnmc",
-    "title": "9  Temáticas",
-    "section": "9.12 CNMC",
-    "text": "9.12 CNMC",
+    "objectID": "02-analisis/transversales.html#certificados-electrónicos",
+    "href": "02-analisis/transversales.html#certificados-electrónicos",
+    "title": "10  Temáticas transversales",
+    "section": "10.12 Certificados electrónicos",
+    "text": "10.12 Certificados electrónicos\n\nRegulaciones\n\nUE\n\neIDAS",
     "crumbs": [
       "Análisis pormenorizado",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Temáticas</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html",
+    "href": "02-analisis/especificas.html",
+    "title": "11  Temáticas específicas",
+    "section": "",
+    "text": "11.1 Temas relacionados con el Tribunal\nLos temas que se ven aquí son:\nEn los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) se encuentran los siguientes temas:",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#temas-relacionados-con-el-tribunal",
+    "href": "02-analisis/especificas.html#temas-relacionados-con-el-tribunal",
+    "title": "11  Temáticas específicas",
+    "section": "",
+    "text": "Calidad de Servicios Digitales, Ciberseguridad y Administraciones\nJusticia\nGestión del Cambio. AEAD\nCNMC\nPresupuestación\nINAP\nCasa Real\nTurismo\nGISS\nAtención al usuario\nInfraestructuras TIC\nHacienda. Recaudación",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#justicia",
+    "href": "02-analisis/especificas.html#justicia",
+    "title": "11  Temáticas específicas",
+    "section": "11.2 Justicia",
+    "text": "11.2 Justicia\n\nRegulaciones\n\nLO 1995/40. Código penal",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#seguridad-social",
+    "href": "02-analisis/especificas.html#seguridad-social",
+    "title": "11  Temáticas específicas",
+    "section": "11.3 Seguridad Social",
+    "text": "11.3 Seguridad Social",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#atención-al-usuario",
+    "href": "02-analisis/especificas.html#atención-al-usuario",
+    "title": "11  Temáticas específicas",
+    "section": "11.4 Atención al usuario",
+    "text": "11.4 Atención al usuario",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#hacienda",
+    "href": "02-analisis/especificas.html#hacienda",
+    "title": "11  Temáticas específicas",
+    "section": "11.5 Hacienda",
+    "text": "11.5 Hacienda\n\n11.5.1 Recaudación",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#casa-real",
+    "href": "02-analisis/especificas.html#casa-real",
+    "title": "11  Temáticas específicas",
+    "section": "11.6 Casa Real",
+    "text": "11.6 Casa Real",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#demografía",
+    "href": "02-analisis/especificas.html#demografía",
+    "title": "11  Temáticas específicas",
+    "section": "11.7 Demografía",
+    "text": "11.7 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\n\nEstadísticas:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#igualdad",
+    "href": "02-analisis/especificas.html#igualdad",
+    "title": "11  Temáticas específicas",
+    "section": "11.8 Igualdad",
+    "text": "11.8 Igualdad",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#subvenciones",
+    "href": "02-analisis/especificas.html#subvenciones",
+    "title": "11  Temáticas específicas",
+    "section": "11.9 Subvenciones",
+    "text": "11.9 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#cnmc",
+    "href": "02-analisis/especificas.html#cnmc",
+    "title": "11  Temáticas específicas",
+    "section": "11.10 CNMC",
+    "text": "11.10 CNMC",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Temáticas específicas</span>"
     ]
   },
   {
     "objectID": "03-volcado/index.html",
     "href": "03-volcado/index.html",
-    "title": "10  Volcado",
+    "title": "12  Volcado",
     "section": "",
     "text": "Este capítulo incluye consejos sobre el volcado.",
     "crumbs": [
       "Volcado",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Volcado</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Volcado</span>"
     ]
   },
   {
     "objectID": "04-lectura/index.html",
     "href": "04-lectura/index.html",
-    "title": "11  Lectura",
+    "title": "13  Lectura",
     "section": "",
     "text": "Este capítulo incluye consejos sobre la lectura.",
     "crumbs": [
       "Lectura",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Lectura</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Lectura</span>"
     ]
   }
 ]
