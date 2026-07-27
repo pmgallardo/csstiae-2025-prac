@@ -1,0 +1,11 @@
+# Introducción al análisis pormenorizado
+
+Este documento es un resumen de información relevante para la preparación del ejercicio práctico
+
+## Fuentes Estadísticas
+
+- INE (Instituto Nacional de Estadística) 
+    - EVGVD (Empleo)
+    - EPA (Empleo)
+- DESI
+

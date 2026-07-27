@@ -1,0 +1,3 @@
+# Estimaciones
+
+Este capítulo resume métodos de estimación de esfuerzo de software, que es una tarea habitual en el supuesto práctico.

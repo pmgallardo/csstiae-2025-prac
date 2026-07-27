@@ -1,0 +1,103 @@
+# Temáticas
+
+Los temas que se ven aquí son:
+
+- Relaciones con las AAPP
+- Funcionamiento de las AAPP
+- Justicia
+- Empleo
+- Interoperabilidad
+- Transparencia
+- Subvenciones
+- Igualdad
+- Presupuestación
+- Demografía
+
+En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) se encuentran los siguientes temas:
+
+- Calidad de Servicios Digitales, Ciberseguridad y Administraciones
+- Justicia
+- Gestión del Cambio. AEAD
+- CNMC
+- Presupuestación
+
+### Relevantes para el práctico
+
+Temas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
+
+### Temas relacionados con el Tribunal
+
+- INAP
+- Casa Real
+- Turismo
+- GISS
+- Atención al usuario
+- Infraestructuras TIC
+- Hacienda. Recaudación
+
+## Relación con las AAPP
+
+- Regulaciones
+  - L 39/2015. Procedimiento Administrativo Común AAPP (PACAP).
+  - RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.
+  - L 29/1999. Contencioso-administrativo.
+
+## Funcionamiento de las AAPP
+
+- Regulaciones
+  - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
+
+## Interoperabilidad
+
+- Temario
+    - ASTIC
+        - Tema 51
+        - Tema 21
+- Regulaciones
+  - RD 4/2010. Esquema Nacional de Interoperabilidad
+  - L 37/2007. Reutilización de datos en Sector Público.
+
+## Transparencia
+
+- Regulaciones
+  - L 19/2013. Transparencia, acceso a la información pública y buen gobierno.
+
+## Justicia
+
+- Regulaciones
+  - LO 1995/40. Código penal
+
+## Hacienda
+
+### Recaudación
+
+## Casa Real
+
+## Demografía
+
+- Organismos
+    - Ministerio para la Transición Ecológica y Reto Demográfico
+
+Estadísticas:
+
+| Estadística | Fecha | Valor aprox. | Valor exacto | Fuente |
+| - | - | - | - | - |
+| Población total | 01/01/2025 | 41M | 49128297 | [Censo Anual de Población (CAP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
+| Españoles | 01/01/2025 | 42M | 42216326 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
+| Extranjeros | 01/01/2025 | 7M | 6911971 |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
+| Españoles | 01/01/2025 | 40M | 39.664.087 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
+| Extranjeros | 01/01/2025 | 9M  | 9.464.210  |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
+| Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
+| Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
+
+## Inteligencia artificial
+
+## Igualdad
+
+## Subvenciones
+
+- Regulaciones
+  - L 38/2003. General de Subvenciones. 
+
+## CNMC
+

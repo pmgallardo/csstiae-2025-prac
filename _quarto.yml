@@ -1,0 +1,53 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "Ejercicio práctico del CSSTIAE 2025"
+  subtitle: "Guía de preparación"
+  author: "Pablo Gallardo"
+  date: today
+  language: es
+  
+  site-url: https://pmgallardo.github.io/csstiae-2025-prac/
+  repo-url: https://github.com/pmgallardo/csstiae-2025-prac
+  repo-actions: [edit, issue, source]
+
+  sidebar:
+    style: "docked"
+    search: true
+    
+  chapters:
+    - index.qmd
+    - part: "Presentación"
+      chapters:
+        - 00-presentacion/index.qmd
+    - part: "Supuesto práctico"
+      chapters:
+        - 01-supuesto/index.qmd
+        - 01-supuesto/serv-electr.qmd
+        - 01-supuesto/estimacion.qmd
+    - part: "Análisis pormenorizado"
+      chapters:
+        - 02-analisis/index.qmd
+        - 02-analisis/organismos.qmd
+        - 02-analisis/regulaciones.qmd
+        - 02-analisis/iniciativas.qmd
+        - 02-analisis/tematicas.qmd
+    - part: "Volcado"
+      chapters:
+        - 03-volcado/index.qmd
+    - part: "Lectura"
+      chapters:
+        - 04-lectura/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+  pdf:
+    documentclass: scrreprt
+    number-sections: true
+    toc: true

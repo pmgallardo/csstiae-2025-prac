@@ -1,0 +1,11 @@
+# Estructura
+
+El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:
+
+1. Supuesto práctico
+2. Análisis pormenorizado
+3. Volcado
+4. Lectura
+
+En las siguientes partes se analiza cada una de ellas.
+
