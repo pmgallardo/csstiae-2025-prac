@@ -2,6 +2,8 @@
 
 Este repositorio contiene los ficheros fuentes para una guía de preparación del ejercicio práctico de las pruebas selectivas del Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) del sector público español.
 
+<https://pmgallardo.github.io/csstiae-2025-prac>
+
 ## Construcción
 
 Requisitos en el sistema para construir el código:
