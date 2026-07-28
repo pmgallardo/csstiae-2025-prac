@@ -26,9 +26,9 @@ book:
     - part: "Supuesto práctico"
       chapters:
         - 01-supuesto/index.qmd
-        - 01-supuesto/serv-electr.qmd
+        - 01-supuesto/infr-comunes.qmd
+        - 01-supuesto/serv-comunes.qmd
         - 01-supuesto/estimacion.qmd
-        - 01-supuesto/redes.qmd
     - part: "Análisis pormenorizado"
       chapters:
         - 02-analisis/index.qmd

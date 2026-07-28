@@ -33,12 +33,12 @@ Ministerios de España en el año 2026:
 - Ministerio para la Transformación Digital y de la Función Pública
 - Ministerio para la Transición Ecológica y el Reto Demográfico
 
-### AEAD
+### AEAD (Agencia Española de Administración Digital)
 
 La Agencia Española de Administración Digital (AEAD).
 
 Precede de la Secretaría General de la Administración (SGAD).
 
-### Organismo 2
+### CTT (Centro de Transferencia de Tecnología)
 
-
+### CISE (Centro de Interoperabilidad Semántica)

@@ -11,7 +11,42 @@ El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, s
 
 En las siguientes partes se analiza cada una de ellas.
 
-## Temas relevantes para el práctico
+## Temas más relevantes para el ejercicio práctico
 
-Temas relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
+Temas más relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
+
+- 1. Constitución Española (I)
+- 2. Constitución Española (II). Poder Judicial
+- 3. Constitución Española (III). Organización Territorial
+- 4. Constitución Española (IV). Administración
+- 5. Unión Europea
+- 6. Organización territorial de la AGE
+- 7. Fuentes del Derecho Administrativo
+- 8. Régimen jurídico de las AAPP. Procedimiento administrativo
+- 9. Revisión de los actos en vía administrativa. Recursos
+- 10. La responsabilidad patrimonial de las Administraciones Públicas
+- 11. Los contratos de las Administraciones Públicas
+- 12. Los presupuestos generales del Estado
+- 14. El modelo económico español
+- 15. Los sectores de la economía
+- 16. Estructura social y políticas de igualdad
+- 17. El mercado de trabajo
+- 18. TIC y sociedad
+- 19. TIC, economía y mercado de trabajo
+- 20. La función gerencial de las AAPP
+- 24. Empleo Público
+- 25. Gobernanza, Gobierno Abierto y Transparencia
+- 27. Protección de Datos
+- 39. Ley de contratos
+- 44. Accesibilidad y usabilidad
+- 45. ENI
+- 46. NTI
+- 49. Infraestructuras y servicios comunes
+- 51. Agenda Digital para España. Mercado Único Digital
+- 70. Inteligencia artificial
+- 78. Comercio electrónico
+- 80. Identificación y firma electrónica I
+- 81. Identificación y firma electrónica II
+- 82. Adaptación LOPD
+- 95. Métrica
 

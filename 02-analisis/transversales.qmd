@@ -16,6 +16,8 @@ Los temas que se ven aquí son:
 
 ## Funcionamiento de las AAPP
 
+- Temas
+  - 8. Régimen jurídico de las AAPP. Procedimiento administrativo
 - Regulaciones
   - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
 
@@ -55,13 +57,15 @@ Los temas que se ven aquí son:
 
 ## Interoperabilidad
 
-- Temario
-    - ASTIC
-        - Tema 51
-        - Tema 21
+- Temas
+  - Tema 45. ENI
+  - Tema 46. NTI
 - Regulaciones
   - RD 4/2010. Esquema Nacional de Interoperabilidad
   - L 37/2007. Reutilización de datos en Sector Público.
+- Organismos
+  - CTT (Centro de Transferencia de Tecnología)
+  - CISE (Centro de Interoperabilidad Semántica)
 
 Esquema Nacional de Interoperabilidad (ENI).
 
@@ -79,6 +83,8 @@ Esquema Nacional de Interoperabilidad (ENI).
   - España
     - RD 1494/2007. Accesibilidad a la sociedad de la información y medios
     - RD 1112/2018. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público
+- Organismos
+  - Observatorio de Accesibilidad
 - Estándares
   - EN 301 549
 - Referencias
@@ -88,7 +94,12 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 
 ## Inteligencia artificial
 
+- Temas
+  - 70. Inteligencia artificial
+
 ## Nube
+
+- 
 
 ## Gobernanza digital
 
