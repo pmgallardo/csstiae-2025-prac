@@ -12,6 +12,9 @@ CCN-STIC. Aprender.
 
 ## Interoperabilidad
 
+- Iniciativas
+  - INE
+
 ## IA
 
 ## Contratación pública
@@ -19,3 +22,12 @@ CCN-STIC. Aprender.
 ## Certificados electrónicos
 
 ## Protección de datos
+
+## Accesibilidad (supuesto práctico)
+
+- Guías
+  - WCAG
+- Estándares
+  - EN 301 549
+- Referencias
+  - <https://runmodule.com/2025/09/25/web-accessibility/>

@@ -46,6 +46,21 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 
 ## Casa Real
 
+## Industria
+
+- ODS
+  - Objetivo 8 "Trabajo decente y crecimiento económico"
+
+## Comercio
+
+- ODS
+  - Objetivo 8 "Trabajo decente y crecimiento económico"
+
+## Turismo
+
+- ODS
+  - Objetivo 8 "Trabajo decente y crecimiento económico"
+
 ## Demografía
 
 - Organismos
@@ -63,15 +78,20 @@ Estadísticas:
 | Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
 | Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
 
+## Empleo
+
+- ODS
+  - Objetivo 8 "Trabajo decente y crecimiento económico"
+
 ## Igualdad
 
 - ODS
-  - 5. Igualdad de género
+  - Objetivo 5 "Igualdad de género"
 
 ## Educación
 
 - ODS
-  - 4. Educación de calidad
+  - Objetivo 4 "Educación de calidad"
 
 ## Subvenciones
 

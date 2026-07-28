@@ -6,7 +6,38 @@
 
 ## Organismos españoles
 
-### Organismo 1
+### Órganos ministeriales
+
+Ministerios de España en el año 2026:
+
+- Ministerio de Agricultura, Pesca y Alimentación
+- Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
+- Ministerio de Ciencia, Innovación y Universidades
+- Ministerio de Cultura
+- Ministerio de Defensa
+- Ministerio de Derechos Sociales, Consumo y Agenda 2030
+- Ministerio de Economía, Comercio y Empresa
+- Ministerio de Educación, Formación Profesional y Deportes
+- Ministerio de Hacienda
+- Ministerio de Igualdad
+- Ministerio de Inclusión, Seguridad Social y Migraciones
+- Ministerio de Industria y Turismo
+- Ministerio de Juventud e Infancia
+- Ministerio de la Presidencia, Justicia y Relaciones con las Cortes
+- Ministerio de Política Territorial y Memoria Democrática
+- Ministerio de Sanidad
+- Ministerio de Trabajo y Economía Social
+- Ministerio de Transportes y Movilidad Sostenible
+- Ministerio de Vivienda y Agenda Urbana
+- Ministerio del Interior
+- Ministerio para la Transformación Digital y de la Función Pública
+- Ministerio para la Transición Ecológica y el Reto Demográfico
+
+### AEAD
+
+La Agencia Española de Administración Digital (AEAD).
+
+Precede de la Secretaría General de la Administración (SGAD).
 
 ### Organismo 2
 

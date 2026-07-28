@@ -8,6 +8,7 @@ book:
   author: "Pablo Gallardo"
   date: today
   language: es
+  favicon: images/favicon.png
   
   site-url: https://pmgallardo.github.io/csstiae-2025-prac/
   repo-url: https://github.com/pmgallardo/csstiae-2025-prac
