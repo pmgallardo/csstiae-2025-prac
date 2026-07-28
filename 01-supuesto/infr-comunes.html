@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>3&nbsp; Servicios electrónicos comunes – Ejercicio práctico del CSSTIAE 2025</title>
+<title>3&nbsp; Infraestructuras comunes – Ejercicio práctico del CSSTIAE 2025</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -36,7 +36,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../01-supuesto/estimacion.html" rel="next">
+<link href="../01-supuesto/serv-comunes.html" rel="next">
 <link href="../01-supuesto/index.html" rel="prev">
 <link href="../images/favicon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/serv-electr.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/infr-comunes.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Infraestructuras comunes</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -157,20 +157,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-supuesto/serv-electr.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></span></a>
+  <a href="../01-supuesto/infr-comunes.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Infraestructuras comunes</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../01-supuesto/serv-comunes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01-supuesto/estimacion.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Estimaciones</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../01-supuesto/redes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Redes</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Estimaciones</span></span></a>
   </div>
 </li>
       </ul>
@@ -266,17 +266,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#face" id="toc-face" class="nav-link active" data-scroll-target="#face"><span class="header-section-number">3.1</span> FACe</a></li>
-  <li><a href="#dir3" id="toc-dir3" class="nav-link" data-scroll-target="#dir3"><span class="header-section-number">3.2</span> DIR3</a></li>
+  <li><a href="#redsara" id="toc-redsara" class="nav-link active" data-scroll-target="#redsara"><span class="header-section-number">3.1</span> RedSARA</a></li>
+  <li><a href="#stesta" id="toc-stesta" class="nav-link" data-scroll-target="#stesta"><span class="header-section-number">3.2</span> sTESTA</a></li>
+  <li><a href="#servicio-unificado-de-telecomunicaciones" id="toc-servicio-unificado-de-telecomunicaciones" class="nav-link" data-scroll-target="#servicio-unificado-de-telecomunicaciones"><span class="header-section-number">3.3</span> Servicio Unificado de Telecomunicaciones</a></li>
+  <li><a href="#servicio-de-alojamiento-de-infraestructuras-tic" id="toc-servicio-de-alojamiento-de-infraestructuras-tic" class="nav-link" data-scroll-target="#servicio-de-alojamiento-de-infraestructuras-tic"><span class="header-section-number">3.4</span> Servicio de alojamiento de infraestructuras TIC</a></li>
+  <li><a href="#nubesara" id="toc-nubesara" class="nav-link" data-scroll-target="#nubesara"><span class="header-section-number">3.5</span> nubeSARA</a></li>
+  <li><a href="#servicio-de-seguridad-gestionada" id="toc-servicio-de-seguridad-gestionada" class="nav-link" data-scroll-target="#servicio-de-seguridad-gestionada"><span class="header-section-number">3.6</span> Servicio de seguridad gestionada</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/serv-electr.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/serv-electr.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/infr-comunes.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/infr-comunes.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/serv-electr.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/infr-comunes.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Infraestructuras comunes</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></h1>
+<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Infraestructuras comunes</span></h1>
 </div>
 
 
@@ -293,17 +297,25 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Este capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.</p>
-<p>Los servicios electrónicos aparecen listados en el <a href="https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html">catálogo de servicios de Administración digital</a> del Portal de la Administración Electrónica.</p>
-<section id="face" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="face"><span class="header-section-number">3.1</span> FACe</h2>
-<p>FACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.</p>
-<p><a href="https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face" class="uri">https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face</a></p>
+<section id="redsara" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="redsara"><span class="header-section-number">3.1</span> RedSARA</h2>
+<p>RedSARA (Sistemas de Aplicaciones y Redes para las administraciones)</p>
 </section>
-<section id="dir3" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="dir3"><span class="header-section-number">3.2</span> DIR3</h2>
-<p>DIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.</p>
-<p><a href="https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir" class="uri">https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir</a></p>
+<section id="stesta" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="stesta"><span class="header-section-number">3.2</span> sTESTA</h2>
+<p>sTESTA es una red transeuropea que incluye a las instituciones públicas europeas y de los estados europeos. RedSARA enlaza con la red sTESTA.</p>
+</section>
+<section id="servicio-unificado-de-telecomunicaciones" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="servicio-unificado-de-telecomunicaciones"><span class="header-section-number">3.3</span> Servicio Unificado de Telecomunicaciones</h2>
+</section>
+<section id="servicio-de-alojamiento-de-infraestructuras-tic" class="level2" data-number="3.4">
+<h2 data-number="3.4" class="anchored" data-anchor-id="servicio-de-alojamiento-de-infraestructuras-tic"><span class="header-section-number">3.4</span> Servicio de alojamiento de infraestructuras TIC</h2>
+</section>
+<section id="nubesara" class="level2" data-number="3.5">
+<h2 data-number="3.5" class="anchored" data-anchor-id="nubesara"><span class="header-section-number">3.5</span> nubeSARA</h2>
+</section>
+<section id="servicio-de-seguridad-gestionada" class="level2" data-number="3.6">
+<h2 data-number="3.6" class="anchored" data-anchor-id="servicio-de-seguridad-gestionada"><span class="header-section-number">3.6</span> Servicio de seguridad gestionada</h2>
 
 
 </section>
@@ -716,8 +728,8 @@ ul.task-list li input[type="checkbox"] {
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../01-supuesto/estimacion.html" class="pagination-link" aria-label="Estimaciones">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Estimaciones</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../01-supuesto/serv-comunes.html" class="pagination-link" aria-label="Servicios electrónicos comunes">
+        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -726,4 +738,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/serv-electr.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/serv-electr.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/infr-comunes.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/infr-comunes.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
