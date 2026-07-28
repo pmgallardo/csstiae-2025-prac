@@ -241,11 +241,22 @@
     ]
   },
   {
+    "objectID": "02-analisis/regulaciones.html#regulaciones-europeas",
+    "href": "02-analisis/regulaciones.html#regulaciones-europeas",
+    "title": "8  Regulaciones",
+    "section": "",
+    "text": "8.1.1 R(UE) 2016/279. RGPD\nR(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).\nhttps://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Regulaciones</span>"
+    ]
+  },
+  {
     "objectID": "02-analisis/regulaciones.html#regulaciones-españolas",
     "href": "02-analisis/regulaciones.html#regulaciones-españolas",
     "title": "8  Regulaciones",
     "section": "8.2 Regulaciones españolas",
-    "text": "8.2 Regulaciones españolas\n\n8.2.1 Regulación 1\n\n\n8.2.2 Regulación 2",
+    "text": "8.2 Regulaciones españolas\n\n8.2.1 LO 3/2018. LOPDGDD\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD).\nhttps://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Regulaciones</span>"
@@ -340,11 +351,22 @@
     ]
   },
   {
+    "objectID": "02-analisis/transversales.html#certificados-electrónicos",
+    "href": "02-analisis/transversales.html#certificados-electrónicos",
+    "title": "10  Temáticas transversales",
+    "section": "10.4 Certificados electrónicos",
+    "text": "10.4 Certificados electrónicos\n\nRegulaciones\n\nUE\n\nR(EU) 2024/1183. eIDAS",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
+    ]
+  },
+  {
     "objectID": "02-analisis/transversales.html#protección-de-datos",
     "href": "02-analisis/transversales.html#protección-de-datos",
     "title": "10  Temáticas transversales",
-    "section": "10.4 Protección de datos",
-    "text": "10.4 Protección de datos",
+    "section": "10.5 Protección de datos",
+    "text": "10.5 Protección de datos\n\nInstituciones\n\nAgencia Española de Protección de Datos (AEPD)\n\nRegulaciones\n\nEuropa\n\nR(UE) 2016/279. Reglamento General de Protección de Datos (RGPD)\n\nEspaña\n\nLO 3/2018. LOPDGDD",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -354,8 +376,8 @@
     "objectID": "02-analisis/transversales.html#interoperabilidad",
     "href": "02-analisis/transversales.html#interoperabilidad",
     "title": "10  Temáticas transversales",
-    "section": "10.5 Interoperabilidad",
-    "text": "10.5 Interoperabilidad\n\nTemario\n\nASTIC\n\nTema 51\nTema 21\n\n\nRegulaciones\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.\n\n\nEsquema Nacional de Interoperabilidad (ENI).",
+    "section": "10.6 Interoperabilidad",
+    "text": "10.6 Interoperabilidad\n\nTemario\n\nASTIC\n\nTema 51\nTema 21\n\n\nRegulaciones\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.\n\n\nEsquema Nacional de Interoperabilidad (ENI).",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -365,8 +387,8 @@
     "objectID": "02-analisis/transversales.html#transparencia",
     "href": "02-analisis/transversales.html#transparencia",
     "title": "10  Temáticas transversales",
-    "section": "10.6 Transparencia",
-    "text": "10.6 Transparencia\n\nRegulaciones\n\nEspaña\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
+    "section": "10.7 Transparencia",
+    "text": "10.7 Transparencia\n\nRegulaciones\n\nEspaña\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -376,8 +398,8 @@
     "objectID": "02-analisis/transversales.html#accesibilidad-análisis-pormenorizado",
     "href": "02-analisis/transversales.html#accesibilidad-análisis-pormenorizado",
     "title": "10  Temáticas transversales",
-    "section": "10.7 Accesibilidad (análisis pormenorizado)",
-    "text": "10.7 Accesibilidad (análisis pormenorizado)\n\nRegulaciones\n\nEuropa\n\nD 2016/2102. Accesibilidad de los sitios webs y aplicaciones para dispositivos móviles de los organismos del sector público\n\nEspaña\n\nRD 1494/2007. Accesibilidad a la sociedad de la información y medios\nRD 1112/2018. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público\n\n\nEstándares\n\nEN 301 549\n\nReferencias\n\nhttps://runmodule.com/2026/12/17/accesibilidad-digital-en-el-sector-publico-en-espana/\n\n\nRD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir el estándar EN 301 549, publicado en la decisión de ejecución UE 2018/2048.",
+    "section": "10.8 Accesibilidad (análisis pormenorizado)",
+    "text": "10.8 Accesibilidad (análisis pormenorizado)\n\nRegulaciones\n\nEuropa\n\nD 2016/2102. Accesibilidad de los sitios webs y aplicaciones para dispositivos móviles de los organismos del sector público\n\nEspaña\n\nRD 1494/2007. Accesibilidad a la sociedad de la información y medios\nRD 1112/2018. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público\n\n\nEstándares\n\nEN 301 549\n\nReferencias\n\nhttps://runmodule.com/2026/12/17/accesibilidad-digital-en-el-sector-publico-en-espana/\n\n\nRD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir el estándar EN 301 549, publicado en la decisión de ejecución UE 2018/2048.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -387,8 +409,8 @@
     "objectID": "02-analisis/transversales.html#inteligencia-artificial",
     "href": "02-analisis/transversales.html#inteligencia-artificial",
     "title": "10  Temáticas transversales",
-    "section": "10.8 Inteligencia artificial",
-    "text": "10.8 Inteligencia artificial",
+    "section": "10.9 Inteligencia artificial",
+    "text": "10.9 Inteligencia artificial",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -398,8 +420,8 @@
     "objectID": "02-analisis/transversales.html#nube",
     "href": "02-analisis/transversales.html#nube",
     "title": "10  Temáticas transversales",
-    "section": "10.9 Nube",
-    "text": "10.9 Nube",
+    "section": "10.10 Nube",
+    "text": "10.10 Nube",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -409,8 +431,8 @@
     "objectID": "02-analisis/transversales.html#gobernanza-digital",
     "href": "02-analisis/transversales.html#gobernanza-digital",
     "title": "10  Temáticas transversales",
-    "section": "10.10 Gobernanza digital",
-    "text": "10.10 Gobernanza digital",
+    "section": "10.11 Gobernanza digital",
+    "text": "10.11 Gobernanza digital",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -420,19 +442,8 @@
     "objectID": "02-analisis/transversales.html#gobierno-del-dato",
     "href": "02-analisis/transversales.html#gobierno-del-dato",
     "title": "10  Temáticas transversales",
-    "section": "10.11 Gobierno del dato",
-    "text": "10.11 Gobierno del dato",
-    "crumbs": [
-      "Análisis pormenorizado",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
-    ]
-  },
-  {
-    "objectID": "02-analisis/transversales.html#certificados-electrónicos",
-    "href": "02-analisis/transversales.html#certificados-electrónicos",
-    "title": "10  Temáticas transversales",
-    "section": "10.12 Certificados electrónicos",
-    "text": "10.12 Certificados electrónicos\n\nRegulaciones\n\nUE\n\neIDAS",
+    "section": "10.12 Gobierno del dato",
+    "text": "10.12 Gobierno del dato",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Temáticas transversales</span>"
