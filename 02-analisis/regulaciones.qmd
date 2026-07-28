@@ -4,9 +4,16 @@ Incluye regulaciones europeas y españolas.
 
 ## Regulaciones europeas
 
+### R(UE) 2016/279. RGPD
+
+R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).
+
+<https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>
+
 ## Regulaciones españolas
 
-### Regulación 1
+### LO 3/2018. LOPDGDD
 
-### Regulación 2
+Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD).
 
+<https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673>

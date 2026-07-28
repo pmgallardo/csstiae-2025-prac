@@ -37,7 +37,21 @@ Los temas que se ven aquí son:
 
 <https://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/>
 
+## Certificados electrónicos
+
+- Regulaciones
+    - UE
+        - R(EU) 2024/1183. eIDAS
+
 ## Protección de datos
+
+- Instituciones
+  - Agencia Española de Protección de Datos (AEPD)
+- Regulaciones
+  - Europa
+    - R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD)
+  - España
+    - LO 3/2018. LOPDGDD
 
 ## Interoperabilidad
 
@@ -79,9 +93,3 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 ## Gobernanza digital
 
 ## Gobierno del dato
-
-## Certificados electrónicos
-
-- Regulaciones
-    - UE
-        - eIDAS
