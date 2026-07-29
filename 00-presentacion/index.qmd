@@ -51,3 +51,15 @@ Temas más relevantes, de acuerdo a la numeración de temas de la convocatoria 2
 - 89. Análisis del dominio de los sistemas
 - 95. Métrica
 - 99. Estimación de recursos
+
+## Repositorio de ejercicios prácticos
+
+El INAP recopila los enunciados de los ejercicios prácticos más recientes, mientras que Preparatic comparte los volcados de soluciones de algunos candidatos que voluntariamente los han compartido.
+
+| Conv. | Prom. | Núm. ejer. | Título | Enun. | Volc. |
+| - | - | - | - | - | - |
+| 2023 | 30 | 2 | Diseño de un sistema para la gestión del ciclo presupuestario | [PDF](https://sede.inap.gob.es/documents/59312/2382235/Enunciadodelsegundoejercicio_COMPLETO_LIBRE_AA392H55BO_154AB89SD658.pdf/2e1f4267-3818-99e0-fe39-3a332520c67d) | [Drive](https://drive.google.com/drive/folders/1NRc1pcqt53SorUaOXAISC8i4LZ6Z068y?usp=sharing) |
+| 2022 | 29 | 2 | Plataforma Digital Común | [PDF](https://sede.inap.gob.es/documents/59312/2298662/Enunciado2oEjercicioLibreGeneral_IX32FT6CLA_154AB89SD658.pdf/0316efec-0e7d-0c10-eaf1-cc2922e3ef85) | [Drive](https://drive.google.com/drive/folders/1opzfbqezX_lLTMW3ZArStot5yBq8aF-P?usp=sharing) |
+| 2020 | 28 | 3 | Plataforma digital de cooperación entre administraciones públicas: Plataform@ | [PDF](https://sede.inap.gob.es/documents/59312/2061887/Supuestopractico3erejercicio2020_KJJ1YDZ8D2_154AB89SD658.pdf/739684b6-a1e7-e24e-ed7f-62a15a940c6a) | [Drive](https://drive.google.com/drive/folders/1wU9vF81krOYLLaC41XMCdQkcuZy_t7CF) |
+| 2019 | 27 | 3 | Evolución de la Carpeta Ciudadana: Carpet@ | [PDF](https://sede.inap.gob.es/documents/59312/1863992/CSSTIAE+-+Tercer+Ej+-+Enunciado_154AB89SD658.pdf/2ed378ff-becb-b856-d64c-be7e3af3a5d9) | [Drive](https://drive.google.com/file/d/1UNqYCcdwlKYMMg5iNm3sIOOw9VzHPP_2/view) |
+| 2018 | 26 | 3 | Espacio de Participación Ciudadana del Gobierno de España (ESPACE) | [PDF](https://sede.inap.gob.es/documents/59312/1763823/2019-09-14Ejercicio3_154AB89SD658.pdf/f9356500-8822-56f1-e4a3-ea20effb71b1) | - |
