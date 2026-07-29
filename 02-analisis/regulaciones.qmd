@@ -12,8 +12,20 @@ R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).
 
 ## Regulaciones españolas
 
+### L 9/2017. CSP
+
+La ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.
+
+<https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902>
+
+El art. 1 define los principios de contratación:
+
+- Libertad de acceso a las licitaciones.
+- Publicidad y transparencia de los procedimientos.
+- No discriminación e igualdad de trato entre los licitadores.
+
 ### LO 3/2018. LOPDGDD
 
-Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD).
+Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD) complementa el RGPD.
 
 <https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673>

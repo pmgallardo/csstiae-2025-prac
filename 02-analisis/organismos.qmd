@@ -39,6 +39,4 @@ La Agencia Española de Administración Digital (AEAD).
 
 Precede de la Secretaría General de la Administración (SGAD).
 
-### CTT (Centro de Transferencia de Tecnología)
-
 ### CISE (Centro de Interoperabilidad Semántica)

@@ -1,5 +1,7 @@
 # Introducción {.unnumbered}
 
-Esta es una guía de preparación para el ejercicio práctico del proceso selectivo de la convocatoria de 2025 (proceso XXXI) de ingreso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) de la Administración General del Estado (AGE) del sector público español.
+Esta es una guía no oficial para la preparación del ejercicio práctico del proceso selectivo de la convocatoria de 2025 (proceso XXXI) de ingreso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE) de la Administración General del Estado (AGE) del sector público español.
 
-<https://pmgallardo.github.io/csstiae-2025-prac>
+[Versión web](https://pmgallardo.github.io/csstiae-2025-prac)
+
+[Repositorio de ficheros fuente](https://github.com/pmgallardo/csstiae-2025-prac)

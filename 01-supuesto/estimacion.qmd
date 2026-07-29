@@ -1,3 +1,16 @@
 # Estimaciones
 
+- Temas
+  - 99. Estimación de recursos
+- Referencias
+  - <https://runmodule.com/2026/06/25/software-estimation/>
+
 Este capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.
+
+## UCP
+
+User Case Points (UCP)
+
+## COSMIC-FSM
+
+<https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/>

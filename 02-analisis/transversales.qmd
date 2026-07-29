@@ -1,11 +1,6 @@
 # Temáticas transversales
 
-Los temas que se ven aquí son:
-
-- Relaciones con las AAPP
-- Funcionamiento de las AAPP
-- Administración digital
-- ...
+En esta entra se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.
 
 ## Relación con las AAPP
 
@@ -20,6 +15,11 @@ Los temas que se ven aquí son:
   - 8. Régimen jurídico de las AAPP. Procedimiento administrativo
 - Regulaciones
   - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
+
+## Administración digital
+
+- Iniciativas
+  - CTT
 
 ## Seguridad de la información
 
@@ -79,7 +79,7 @@ Esquema Nacional de Interoperabilidad (ENI).
 
 - Regulaciones
   - Europa
-    - D 2016/2102. Accesibilidad de los sitios webs y aplicaciones para dispositivos móviles de los organismos del sector público
+    - D(UE) 2016/2102. Accesibilidad de los sitios webs y aplicaciones para dispositivos móviles de los organismos del sector público
   - España
     - RD 1494/2007. Accesibilidad a la sociedad de la información y medios
     - RD 1112/2018. Accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público

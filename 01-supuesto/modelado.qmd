@@ -1,0 +1,66 @@
+# Modelado
+
+## Diagramas estáticos y dinámicos
+
+### Diagrama de casos de uso
+
+- Temas
+  - 88. Análisis de sistemas y metodologías ágiles 
+- Referencias
+  - Cillero, Manuel. [Casos de uso en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/casos-de-uso/).
+
+\
+El diagrama de casos de uso...
+
+### Diagrama de flujo de datos
+
+- Temas
+  - 90. Análisis dinámico de sistemas
+- Referencias
+  - Cillero, Manuel. [Diagrama de Flujos de Datos en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-flujo-de-datos/)
+
+\
+Diagrama de Flujo de Datos (DFD)...
+
+### Modelo entidad-relación
+
+- Temas
+  - 89. Análisis del dominio de los sistemas
+- Referencias
+  - Cillero, Manuel. [Modelo entidad-relacion en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/modelo-entidad-relacion-extendido/)
+
+\
+Un modelo entidad-relacion (E/R)...
+
+### Diagrama de clases
+
+- Temas
+  - 89. Análisis del dominio de los sistemas
+- Referencias
+  - Cillero, Manuel. [Diagrama de clases en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/)
+
+\
+Diagrama de clases pertenece a la familia de diagramas UML.
+
+### Diagramas de despliegue
+
+- Temas
+  - 92. Diseño arquitectónico de sistemas
+- Referencias
+  - Cillero, Manuel. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/)
+
+\
+El diagrama de despliegue pertenece a la familia de diagramas UML.
+
+### Métrica v3
+
+- Temas
+  - 95. Métrica
+
+## Arquitecturas de sistemas
+
+### Arquitectura conceptual
+
+### Arquitectura lógica
+
+### Arquitectura física

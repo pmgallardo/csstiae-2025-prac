@@ -28,12 +28,17 @@ book:
         - 01-supuesto/index.qmd
         - 01-supuesto/infr-comunes.qmd
         - 01-supuesto/serv-comunes.qmd
+        - 01-supuesto/modelado.qmd
+        - 01-supuesto/planificacion.qmd
         - 01-supuesto/estimacion.qmd
+        - 01-supuesto/contratacion.qmd
+        - 01-supuesto/riesgos.qmd
     - part: "Análisis pormenorizado"
       chapters:
         - 02-analisis/index.qmd
         - 02-analisis/organismos.qmd
         - 02-analisis/regulaciones.qmd
+        - 02-analisis/estrategias.qmd
         - 02-analisis/iniciativas.qmd
         - 02-analisis/transversales.qmd
         - 02-analisis/especificas.qmd

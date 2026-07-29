@@ -1,21 +1,38 @@
 # Servicios electrónicos comunes
 
-- Tema
+- Temas
   - 49. Infraestructuras y servicios comunes
 - Referencias
+  - [Directorio de Soluciones del Centro de Transferencia Tecnológica (CTT)]()
   - <https://runmodule.com/2024/10/13/servicios-electronicos-del-sector-publico-en-espana/>
 
+\
 Este capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.
 
 Los servicios electrónicos aparecen listados en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
 
 ## Cl@ve
 
+- Referencias
+  - [Cl@ve en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clave). PAe.
+
+\
 Cl@ve es un servicio de autenticación.
 
-## Carpeta Ciudadana (CCD)
+## Carpeta Ciudadana
 
-## Sistema de Interconexión de Registros (SIR)
+Carpeta Ciudadana (CCD)
+
+## SIR
+
+Sistema de Interconexión de Registros (SIR)
+
+## DEHú
+
+- Referencias
+  - [DEHú en DS-CTT](https://administracionelectronica.gob.es/ctt/lema)
+
+La Dirección Electrónica Habilitada única (DEHú) es un punto único de notificaciones para toda las AAPP.
 
 ## Plataforma de Intermediación de Datos
 
@@ -43,6 +60,10 @@ Oficina de Registro Virtual (ORVE)
 
 Gestión Integrada de Servicios de Registro (GEISER).
 
+## SIA
+
+Sistema de Información Administrativa (SIA).
+
 ## @podera
 
 @podera es un registro electrónico de apoderamiento.
@@ -51,3 +72,18 @@ Gestión Integrada de Servicios de Registro (GEISER).
 
 Habilit@ es un registro de funcionarios habilitados.
 
+## VALIDe
+
+VALIDe
+
+## AutenticA
+
+AutenticA.
+
+## InSiDe
+
+Infraestructuras y Sistemas de Documentación Electrónica (InSiDe).
+
+## Archive
+
+Archive es un archivo definitivo de expedientes y documentos.

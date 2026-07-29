@@ -48,5 +48,6 @@ Temas más relevantes, de acuerdo a la numeración de temas de la convocatoria 2
 - 80. Identificación y firma electrónica I
 - 81. Identificación y firma electrónica II
 - 82. Adaptación LOPD
+- 89. Análisis del dominio de los sistemas
 - 95. Métrica
-
+- 99. Estimación de recursos
