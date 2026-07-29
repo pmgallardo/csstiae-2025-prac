@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>1&nbsp; Presentación – Ejercicio práctico del CSSTIAE 2025</title>
+<title>5&nbsp; Modelado – Ejercicio práctico del CSSTIAE 2025</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -36,8 +36,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../01-supuesto/index.html" rel="next">
-<link href="../index.html" rel="prev">
+<link href="../01-supuesto/planificacion.html" rel="next">
+<link href="../01-supuesto/serv-comunes.html" rel="prev">
 <link href="../images/favicon.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../00-presentacion/index.html">Presentación</a></li><li class="breadcrumb-item"><a href="../00-presentacion/index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Presentación</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/modelado.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Modelado</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -134,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../00-presentacion/index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../00-presentacion/index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Presentación</span></span></a>
   </div>
 </li>
@@ -169,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../01-supuesto/modelado.html" class="sidebar-item-text sidebar-link">
+  <a href="../01-supuesto/modelado.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Modelado</span></span></a>
   </div>
 </li>
@@ -296,17 +296,30 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#estructura" id="toc-estructura" class="nav-link active" data-scroll-target="#estructura"><span class="header-section-number">1.1</span> Estructura</a></li>
-  <li><a href="#temas-más-relevantes-para-el-ejercicio-práctico" id="toc-temas-más-relevantes-para-el-ejercicio-práctico" class="nav-link" data-scroll-target="#temas-más-relevantes-para-el-ejercicio-práctico"><span class="header-section-number">1.2</span> Temas más relevantes para el ejercicio práctico</a></li>
+  <li><a href="#diagramas-estáticos-y-dinámicos" id="toc-diagramas-estáticos-y-dinámicos" class="nav-link active" data-scroll-target="#diagramas-estáticos-y-dinámicos"><span class="header-section-number">5.1</span> Diagramas estáticos y dinámicos</a>
+  <ul class="collapse">
+  <li><a href="#diagrama-de-casos-de-uso" id="toc-diagrama-de-casos-de-uso" class="nav-link" data-scroll-target="#diagrama-de-casos-de-uso"><span class="header-section-number">5.1.1</span> Diagrama de casos de uso</a></li>
+  <li><a href="#diagrama-de-flujo-de-datos" id="toc-diagrama-de-flujo-de-datos" class="nav-link" data-scroll-target="#diagrama-de-flujo-de-datos"><span class="header-section-number">5.1.2</span> Diagrama de flujo de datos</a></li>
+  <li><a href="#modelo-entidad-relación" id="toc-modelo-entidad-relación" class="nav-link" data-scroll-target="#modelo-entidad-relación"><span class="header-section-number">5.1.3</span> Modelo entidad-relación</a></li>
+  <li><a href="#diagrama-de-clases" id="toc-diagrama-de-clases" class="nav-link" data-scroll-target="#diagrama-de-clases"><span class="header-section-number">5.1.4</span> Diagrama de clases</a></li>
+  <li><a href="#diagramas-de-despliegue" id="toc-diagramas-de-despliegue" class="nav-link" data-scroll-target="#diagramas-de-despliegue"><span class="header-section-number">5.1.5</span> Diagramas de despliegue</a></li>
+  <li><a href="#métrica-v3" id="toc-métrica-v3" class="nav-link" data-scroll-target="#métrica-v3"><span class="header-section-number">5.1.6</span> Métrica v3</a></li>
+  </ul></li>
+  <li><a href="#arquitecturas-de-sistemas" id="toc-arquitecturas-de-sistemas" class="nav-link" data-scroll-target="#arquitecturas-de-sistemas"><span class="header-section-number">5.2</span> Arquitecturas de sistemas</a>
+  <ul class="collapse">
+  <li><a href="#arquitectura-conceptual" id="toc-arquitectura-conceptual" class="nav-link" data-scroll-target="#arquitectura-conceptual"><span class="header-section-number">5.2.1</span> Arquitectura conceptual</a></li>
+  <li><a href="#arquitectura-lógica" id="toc-arquitectura-lógica" class="nav-link" data-scroll-target="#arquitectura-lógica"><span class="header-section-number">5.2.2</span> Arquitectura lógica</a></li>
+  <li><a href="#arquitectura-física" id="toc-arquitectura-física" class="nav-link" data-scroll-target="#arquitectura-física"><span class="header-section-number">5.2.3</span> Arquitectura física</a></li>
+  </ul></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/00-presentacion/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/00-presentacion/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../00-presentacion/index.html">Presentación</a></li><li class="breadcrumb-item"><a href="../00-presentacion/index.html"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Presentación</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../01-supuesto/index.html">Supuesto práctico</a></li><li class="breadcrumb-item"><a href="../01-supuesto/modelado.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Modelado</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Presentación</span></h1>
+<h1 class="title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Modelado</span></h1>
 </div>
 
 
@@ -323,132 +336,118 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="estructura" class="level2" data-number="1.1">
-<h2 data-number="1.1" class="anchored" data-anchor-id="estructura"><span class="header-section-number">1.1</span> Estructura</h2>
-<p>El ejercicio práctico, tal y como está planteado en la convocatoria de 2025, se compone de varias partes:</p>
-<ol type="1">
-<li>Supuesto práctico</li>
-<li>Análisis pormenorizado</li>
-<li>Volcado</li>
-<li>Lectura</li>
-</ol>
-<p>En las siguientes partes se analiza cada una de ellas.</p>
-</section>
-<section id="temas-más-relevantes-para-el-ejercicio-práctico" class="level2" data-number="1.2">
-<h2 data-number="1.2" class="anchored" data-anchor-id="temas-más-relevantes-para-el-ejercicio-práctico"><span class="header-section-number">1.2</span> Temas más relevantes para el ejercicio práctico</h2>
-<p>Temas más relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:</p>
+<section id="diagramas-estáticos-y-dinámicos" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="diagramas-estáticos-y-dinámicos"><span class="header-section-number">5.1</span> Diagramas estáticos y dinámicos</h2>
+<section id="diagrama-de-casos-de-uso" class="level3" data-number="5.1.1">
+<h3 data-number="5.1.1" class="anchored" data-anchor-id="diagrama-de-casos-de-uso"><span class="header-section-number">5.1.1</span> Diagrama de casos de uso</h3>
 <ul>
-<li><ol type="1">
-<li>Constitución Española (I)</li>
+<li>Temas
+<ul>
+<li><ol start="88" type="1">
+<li>Análisis de sistemas y metodologías ágiles</li>
 </ol></li>
-<li><ol start="2" type="1">
-<li>Constitución Española (II). Poder Judicial</li>
+</ul></li>
+<li>Referencias
+<ul>
+<li>Cillero, Manuel. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/casos-de-uso/">Casos de uso en Métrica 3</a>.</li>
+</ul></li>
+</ul>
+<p><br>
+El diagrama de casos de uso…</p>
+</section>
+<section id="diagrama-de-flujo-de-datos" class="level3" data-number="5.1.2">
+<h3 data-number="5.1.2" class="anchored" data-anchor-id="diagrama-de-flujo-de-datos"><span class="header-section-number">5.1.2</span> Diagrama de flujo de datos</h3>
+<ul>
+<li>Temas
+<ul>
+<li><ol start="90" type="1">
+<li>Análisis dinámico de sistemas</li>
 </ol></li>
-<li><ol start="3" type="1">
-<li>Constitución Española (III). Organización Territorial</li>
-</ol></li>
-<li><ol start="4" type="1">
-<li>Constitución Española (IV). Administración</li>
-</ol></li>
-<li><ol start="5" type="1">
-<li>Unión Europea</li>
-</ol></li>
-<li><ol start="6" type="1">
-<li>Organización territorial de la AGE</li>
-</ol></li>
-<li><ol start="7" type="1">
-<li>Fuentes del Derecho Administrativo</li>
-</ol></li>
-<li><ol start="8" type="1">
-<li>Régimen jurídico de las AAPP. Procedimiento administrativo</li>
-</ol></li>
-<li><ol start="9" type="1">
-<li>Revisión de los actos en vía administrativa. Recursos</li>
-</ol></li>
-<li><ol start="10" type="1">
-<li>La responsabilidad patrimonial de las Administraciones Públicas</li>
-</ol></li>
-<li><ol start="11" type="1">
-<li>Los contratos de las Administraciones Públicas</li>
-</ol></li>
-<li><ol start="12" type="1">
-<li>Los presupuestos generales del Estado</li>
-</ol></li>
-<li><ol start="14" type="1">
-<li>El modelo económico español</li>
-</ol></li>
-<li><ol start="15" type="1">
-<li>Los sectores de la economía</li>
-</ol></li>
-<li><ol start="16" type="1">
-<li>Estructura social y políticas de igualdad</li>
-</ol></li>
-<li><ol start="17" type="1">
-<li>El mercado de trabajo</li>
-</ol></li>
-<li><ol start="18" type="1">
-<li>TIC y sociedad</li>
-</ol></li>
-<li><ol start="19" type="1">
-<li>TIC, economía y mercado de trabajo</li>
-</ol></li>
-<li><ol start="20" type="1">
-<li>La función gerencial de las AAPP</li>
-</ol></li>
-<li><ol start="24" type="1">
-<li>Empleo Público</li>
-</ol></li>
-<li><ol start="25" type="1">
-<li>Gobernanza, Gobierno Abierto y Transparencia</li>
-</ol></li>
-<li><ol start="27" type="1">
-<li>Protección de Datos</li>
-</ol></li>
-<li><ol start="39" type="1">
-<li>Ley de contratos</li>
-</ol></li>
-<li><ol start="44" type="1">
-<li>Accesibilidad y usabilidad</li>
-</ol></li>
-<li><ol start="45" type="1">
-<li>ENI</li>
-</ol></li>
-<li><ol start="46" type="1">
-<li>NTI</li>
-</ol></li>
-<li><ol start="49" type="1">
-<li>Infraestructuras y servicios comunes</li>
-</ol></li>
-<li><ol start="51" type="1">
-<li>Agenda Digital para España. Mercado Único Digital</li>
-</ol></li>
-<li><ol start="70" type="1">
-<li>Inteligencia artificial</li>
-</ol></li>
-<li><ol start="78" type="1">
-<li>Comercio electrónico</li>
-</ol></li>
-<li><ol start="80" type="1">
-<li>Identificación y firma electrónica I</li>
-</ol></li>
-<li><ol start="81" type="1">
-<li>Identificación y firma electrónica II</li>
-</ol></li>
-<li><ol start="82" type="1">
-<li>Adaptación LOPD</li>
-</ol></li>
+</ul></li>
+<li>Referencias
+<ul>
+<li>Cillero, Manuel. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-flujo-de-datos/">Diagrama de Flujos de Datos en Métrica 3</a></li>
+</ul></li>
+</ul>
+<p><br>
+Diagrama de Flujo de Datos (DFD)…</p>
+</section>
+<section id="modelo-entidad-relación" class="level3" data-number="5.1.3">
+<h3 data-number="5.1.3" class="anchored" data-anchor-id="modelo-entidad-relación"><span class="header-section-number">5.1.3</span> Modelo entidad-relación</h3>
+<ul>
+<li>Temas
+<ul>
 <li><ol start="89" type="1">
 <li>Análisis del dominio de los sistemas</li>
 </ol></li>
+</ul></li>
+<li>Referencias
+<ul>
+<li>Cillero, Manuel. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/modelo-entidad-relacion-extendido/">Modelo entidad-relacion en Métrica 3</a></li>
+</ul></li>
+</ul>
+<p><br>
+Un modelo entidad-relacion (E/R)…</p>
+</section>
+<section id="diagrama-de-clases" class="level3" data-number="5.1.4">
+<h3 data-number="5.1.4" class="anchored" data-anchor-id="diagrama-de-clases"><span class="header-section-number">5.1.4</span> Diagrama de clases</h3>
+<ul>
+<li>Temas
+<ul>
+<li><ol start="89" type="1">
+<li>Análisis del dominio de los sistemas</li>
+</ol></li>
+</ul></li>
+<li>Referencias
+<ul>
+<li>Cillero, Manuel. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/">Diagrama de clases en Métrica 3</a></li>
+</ul></li>
+</ul>
+<p><br>
+Diagrama de clases pertenece a la familia de diagramas UML.</p>
+</section>
+<section id="diagramas-de-despliegue" class="level3" data-number="5.1.5">
+<h3 data-number="5.1.5" class="anchored" data-anchor-id="diagramas-de-despliegue"><span class="header-section-number">5.1.5</span> Diagramas de despliegue</h3>
+<ul>
+<li>Temas
+<ul>
+<li><ol start="92" type="1">
+<li>Diseño arquitectónico de sistemas</li>
+</ol></li>
+</ul></li>
+<li>Referencias
+<ul>
+<li>Cillero, Manuel. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/">Diagramas de despliegue en Métrica 3</a></li>
+</ul></li>
+</ul>
+<p><br>
+El diagrama de despliegue pertenece a la familia de diagramas UML.</p>
+</section>
+<section id="métrica-v3" class="level3" data-number="5.1.6">
+<h3 data-number="5.1.6" class="anchored" data-anchor-id="métrica-v3"><span class="header-section-number">5.1.6</span> Métrica v3</h3>
+<ul>
+<li>Temas
+<ul>
 <li><ol start="95" type="1">
 <li>Métrica</li>
 </ol></li>
-<li><ol start="99" type="1">
-<li>Estimación de recursos</li>
-</ol></li>
+</ul></li>
 </ul>
+</section>
+</section>
+<section id="arquitecturas-de-sistemas" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="arquitecturas-de-sistemas"><span class="header-section-number">5.2</span> Arquitecturas de sistemas</h2>
+<section id="arquitectura-conceptual" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="arquitectura-conceptual"><span class="header-section-number">5.2.1</span> Arquitectura conceptual</h3>
+</section>
+<section id="arquitectura-lógica" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="arquitectura-lógica"><span class="header-section-number">5.2.2</span> Arquitectura lógica</h3>
+</section>
+<section id="arquitectura-física" class="level3" data-number="5.2.3">
+<h3 data-number="5.2.3" class="anchored" data-anchor-id="arquitectura-física"><span class="header-section-number">5.2.3</span> Arquitectura física</h3>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
@@ -854,13 +853,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../index.html" class="pagination-link" aria-label="Introducción">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Introducción</span>
+      <a href="../01-supuesto/serv-comunes.html" class="pagination-link" aria-label="Servicios electrónicos comunes">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Servicios electrónicos comunes</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../01-supuesto/index.html" class="pagination-link" aria-label="Introducción al supuesto práctico">
-        <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Introducción al supuesto práctico</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../01-supuesto/planificacion.html" class="pagination-link" aria-label="Planificación">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Planificación</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -869,4 +868,4 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/00-presentacion/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/00-presentacion/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div></div></footer></body></html>
