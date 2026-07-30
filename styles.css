@@ -1,0 +1,464 @@
+
+:root {
+  --age-blue: #003399;
+  --age-blue-dark: #00256f;
+  --age-blue-link: #004b9b;
+  --age-blue-soft: #eaf0fb;
+  --age-yellow: #ffce00;
+  --age-yellow-soft: #fff7cf;
+  --age-ink: #202938;
+  --age-muted: #5d6878;
+  --age-surface: #ffffff;
+  --age-surface-alt: #f6f8fb;
+  --age-border: #d8dfeb;
+  --age-shadow: 0 0.25rem 1rem rgb(0 35 90 / 8%);
+  --age-radius: 0.45rem;
+}
+
+/* Base ------------------------------------------------------------------- */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--age-surface);
+  color: var(--age-ink);
+  font-family: "Source Sans 3", Inter, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  font-size: 1.04rem;
+  line-height: 1.65;
+}
+
+p,
+li {
+  text-wrap: pretty;
+}
+
+main.content {
+  padding-bottom: 3rem;
+}
+
+::selection {
+  background: var(--age-yellow);
+  color: var(--age-blue-dark);
+}
+
+:focus-visible {
+  outline: 3px solid var(--age-yellow);
+  outline-offset: 3px;
+}
+
+/* Títulos ---------------------------------------------------------------- */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--age-blue);
+  font-family: "Source Sans 3", Inter, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.2;
+  scroll-margin-top: 5rem;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+h2 {
+  position: relative;
+  margin-top: 2.6rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid var(--age-border);
+  font-size: clamp(1.55rem, 2.5vw, 2rem);
+}
+
+h2::after {
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 3.5rem;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--age-yellow);
+  content: "";
+}
+
+h3 {
+  margin-top: 2rem;
+  font-size: 1.35rem;
+}
+
+h4,
+h5,
+h6 {
+  color: var(--age-blue-dark);
+}
+
+.chapter-number {
+  display: inline-block;
+  margin-right: 0.35rem;
+  padding: 0.08em 0.35em;
+  border-radius: 0.2rem;
+  background: var(--age-yellow);
+  color: var(--age-blue-dark);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Bloque de título ------------------------------------------------------- */
+
+#title-block-header {
+  margin-bottom: 2.25rem;
+  padding: clamp(1.35rem, 3vw, 2.25rem);
+  border-top: 0.45rem solid var(--age-yellow);
+  border-right: 1px solid var(--age-border);
+  border-bottom: 1px solid var(--age-border);
+  border-left: 1px solid var(--age-border);
+  border-radius: 0 0 var(--age-radius) var(--age-radius);
+  background: linear-gradient(135deg, #ffffff 0%, var(--age-surface-alt) 100%);
+  box-shadow: var(--age-shadow);
+}
+
+#title-block-header .title {
+  margin-bottom: 0.35rem;
+  color: var(--age-blue);
+}
+
+#title-block-header .subtitle {
+  color: var(--age-muted);
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+.quarto-title-meta-heading {
+  color: var(--age-muted);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.quarto-title-meta-contents {
+  color: var(--age-ink);
+}
+
+/* Enlaces ---------------------------------------------------------------- */
+
+main.content a:not(.btn),
+.quarto-title-block a {
+  color: var(--age-blue-link);
+  font-weight: 600;
+  text-decoration-color: rgb(0 75 155 / 35%);
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+main.content a:not(.btn):hover,
+.quarto-title-block a:hover {
+  color: var(--age-blue-dark);
+  text-decoration-color: var(--age-yellow);
+  text-decoration-thickness: 0.16em;
+}
+
+/* Barra lateral ---------------------------------------------------------- */
+
+#quarto-sidebar {
+  border-right: 1px solid var(--age-border);
+  background: linear-gradient(180deg, #ffffff 0%, var(--age-surface-alt) 100%);
+}
+
+#quarto-sidebar .sidebar-title {
+  color: var(--age-blue);
+  font-size: 1.12rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+#quarto-sidebar .sidebar-title::before {
+  display: block;
+  width: 3.4rem;
+  height: 0.35rem;
+  margin-bottom: 0.75rem;
+  border-radius: 999px;
+  background: var(--age-yellow);
+  content: "";
+}
+
+.sidebar-navigation .sidebar-section .sidebar-item {
+  margin: 0.08rem 0;
+}
+
+.sidebar-navigation .sidebar-link {
+  padding-top: 0.42rem;
+  padding-bottom: 0.42rem;
+  border-left: 3px solid transparent;
+  border-radius: 0.2rem;
+  color: #3d4858;
+  line-height: 1.35;
+}
+
+.sidebar-navigation .sidebar-link:hover {
+  background: var(--age-blue-soft);
+  color: var(--age-blue-dark);
+}
+
+.sidebar-navigation .sidebar-link.active,
+.sidebar-navigation .sidebar-item-container .active {
+  border-left-color: var(--age-yellow);
+  background: var(--age-yellow-soft);
+  color: var(--age-blue-dark);
+  font-weight: 700;
+}
+
+.sidebar-item-section > .sidebar-item-container > .sidebar-item-text {
+  color: var(--age-blue-dark);
+  font-weight: 700;
+}
+
+/* Tabla de contenidos ---------------------------------------------------- */
+
+#TOC {
+  border-left: 1px solid var(--age-border);
+  font-size: 0.92rem;
+}
+
+#TOC .nav-link {
+  padding-top: 0.28rem;
+  padding-bottom: 0.28rem;
+  color: var(--age-muted);
+}
+
+#TOC .nav-link:hover {
+  color: var(--age-blue);
+}
+
+#TOC .nav-link.active {
+  border-left-color: var(--age-yellow);
+  color: var(--age-blue-dark);
+  font-weight: 700;
+}
+
+/* Búsqueda --------------------------------------------------------------- */
+
+.aa-DetachedSearchButton,
+.aa-Autocomplete .aa-Form {
+  border-color: var(--age-border);
+  border-radius: var(--age-radius);
+  background: #ffffff;
+}
+
+.aa-DetachedSearchButton:hover {
+  border-color: var(--age-blue);
+  box-shadow: 0 0 0 0.2rem rgb(0 51 153 / 10%);
+}
+
+/* Código ----------------------------------------------------------------- */
+
+code:not(.sourceCode) {
+  padding: 0.1em 0.32em;
+  border: 1px solid #d7e0ef;
+  border-radius: 0.25rem;
+  background: #f1f5fb;
+  color: #7b1e3a;
+  font-family: "Source Code Pro", "SFMono-Regular", Consolas, monospace;
+  font-size: 0.88em;
+}
+
+div.sourceCode,
+pre.sourceCode {
+  border: 1px solid var(--age-border);
+  border-left: 4px solid var(--age-blue);
+  border-radius: var(--age-radius);
+  background: #f7f9fc;
+  box-shadow: 0 0.15rem 0.6rem rgb(0 35 90 / 5%);
+}
+
+pre,
+pre code {
+  font-family: "Source Code Pro", "SFMono-Regular", Consolas, monospace;
+}
+
+.code-copy-button:hover {
+  color: var(--age-blue);
+}
+
+/* Citas, avisos y paneles ------------------------------------------------ */
+
+blockquote {
+  margin: 1.6rem 0;
+  padding: 1rem 1.2rem;
+  border-left: 0.35rem solid var(--age-yellow);
+  border-radius: 0 var(--age-radius) var(--age-radius) 0;
+  background: var(--age-yellow-soft);
+  color: var(--age-blue-dark);
+}
+
+blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+.callout {
+  border-radius: var(--age-radius);
+  box-shadow: 0 0.15rem 0.65rem rgb(0 35 90 / 5%);
+}
+
+.callout.callout-style-default > .callout-header {
+  font-weight: 700;
+}
+
+.callout-note {
+  border-left-color: var(--age-blue);
+}
+
+.callout-note.callout-style-default > .callout-header {
+  background: var(--age-blue-soft);
+  color: var(--age-blue-dark);
+}
+
+/* Tablas ----------------------------------------------------------------- */
+
+.table {
+  margin: 1.5rem 0;
+  border: 1px solid var(--age-border);
+  font-size: 0.96rem;
+  vertical-align: top;
+}
+
+.table > thead {
+  background: var(--age-blue);
+  color: #ffffff;
+}
+
+.table > thead th {
+  border-bottom: 0;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.table > tbody > tr:nth-of-type(even) > * {
+  background: var(--age-surface-alt);
+}
+
+.table > tbody > tr:hover > * {
+  background: var(--age-yellow-soft);
+}
+
+/* Figuras ---------------------------------------------------------------- */
+
+figure img {
+  border: 1px solid var(--age-border);
+  border-radius: var(--age-radius);
+  box-shadow: var(--age-shadow);
+}
+
+figcaption,
+.figure-caption,
+.table-caption {
+  color: var(--age-muted);
+  font-size: 0.9rem;
+}
+
+/* Paginación del libro --------------------------------------------------- */
+
+.nav-page {
+  margin-top: 2.5rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--age-border);
+}
+
+.nav-page a {
+  border-radius: var(--age-radius);
+  color: var(--age-blue);
+  font-weight: 700;
+}
+
+.nav-page a:hover {
+  background: var(--age-blue-soft);
+  color: var(--age-blue-dark);
+}
+
+/* Utilidades opcionales para el Markdown --------------------------------
+
+   ::: {.destacado}
+   Texto destacado.
+   :::
+
+   ::: {.tarjeta}
+   Contenido en tarjeta.
+   :::
+*/
+
+.destacado {
+  margin: 1.5rem 0;
+  padding: 1.1rem 1.25rem;
+  border: 1px solid #ead17a;
+  border-left: 0.45rem solid var(--age-yellow);
+  border-radius: var(--age-radius);
+  background: var(--age-yellow-soft);
+}
+
+.tarjeta {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border: 1px solid var(--age-border);
+  border-radius: var(--age-radius);
+  background: #ffffff;
+  box-shadow: var(--age-shadow);
+}
+
+/* Adaptación a pantallas pequeñas --------------------------------------- */
+
+@media (max-width: 767.98px) {
+  body {
+    font-size: 1rem;
+  }
+
+  #title-block-header {
+    padding: 1.1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.55rem;
+  }
+
+  .table {
+    font-size: 0.9rem;
+  }
+}
+
+/* Impresión -------------------------------------------------------------- */
+
+@media print {
+  body {
+    color: #000000;
+    font-family: "Source Sans 3", Arial, sans-serif;
+  }
+
+  #quarto-sidebar,
+  #quarto-margin-sidebar,
+  .nav-page,
+  .code-copy-button {
+    display: none !important;
+  }
+
+  #title-block-header,
+  figure img,
+  .tarjeta,
+  .callout {
+    box-shadow: none;
+  }
+
+  a {
+    color: #000000 !important;
+    text-decoration: underline;
+  }
+}
