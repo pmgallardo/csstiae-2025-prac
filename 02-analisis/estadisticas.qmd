@@ -26,20 +26,20 @@ El INE desarrolla distintos grupos indicadores, entre ellos:
 
 El Observatorio de Administración Electrónica (OBSAE) es un portal con el objetivo de compartir información sobre la Administración Electrónica en las AAPP. Está impulsada por la AEAD.
 
-[OBSAE](https://dataobsae.administracionelectronica.gob.es)
+[OBSAE](https://dataobsae.administracionelectronica.gob.es){target="_blank"}
 
 ### OAW
 
 El Observatorio de Accesibilidad Web (OAW) es...
 
-[OAW en el PAe](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html)
+[OAW en el PAe](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Accesibilidad/pae_Observatorio_de_Accesibilidad.html){target="_blank"}
 
 ## Indicadores
 
 ### EVGVD
 
 - Referencias
-  - [EVGVD en el INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176866&menu=ultiDatos&idp=1254735573206)
+  - [EVGVD en el INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176866&menu=ultiDatos&idp=1254735573206){target="_blank"}
 
 \
 La Estadística de Violencia Doméstica y Violencia de Género (EVGVD) es...
@@ -47,7 +47,7 @@ La Estadística de Violencia Doméstica y Violencia de Género (EVGVD) es...
 ### EPA
 
 - Referencias
-  - [EPA en el INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595)
+  - [EPA en el INE](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595){target="_blank"}
 
 \
 La Encuesta de Población Activa (EPA) es...
