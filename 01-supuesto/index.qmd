@@ -2,6 +2,27 @@
 
 Este documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE). 
 
+## Consejos para el supuesto práctico
+
+Llevar:
+
+- 2 bolígrafos
+- Corrector ortográfico
+- Subrayadores de colores
+- Lapicero
+- Goma de borrar
+
+En la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. Esto condicionaría a la hora de realizar el volcado, por lo que no es un buen consejo.
+
+Por el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.
+
+Una propuesta de subrayado de colores puede ser:
+
+| Color | Significado |
+| - | - |
+| Amarillo | Acción |
+| Verde | Actor |
+
 ## Seguridad
 
 Niveles de seguridad del ENS.
@@ -26,11 +47,11 @@ CCN-STIC. Aprender.
 
 ## Accesibilidad (supuesto práctico)
 
-- Temas
-    - 44. Accesibilidad y usabilidad
 - Guías
   - WCAG
 - Estándares
   - EN 301 549
+- Temas
+  - 44. Accesibilidad y usabilidad
 - Referencias
   - <https://runmodule.com/2025/09/25/web-accessibility/>

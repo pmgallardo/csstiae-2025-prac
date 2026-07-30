@@ -244,7 +244,7 @@ Cuando el contrato haya sido declarado
 
 Comparte los supuestos del procedimiento negociado.
 
-Supone mantneer una mesa de diálogo.
+Supone mantener una mesa de diálogo.
 
 Permite el pago de primas o compensaciones a los licitadores que se presenten.
 
