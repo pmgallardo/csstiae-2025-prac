@@ -13,14 +13,9 @@ CCN-STIC. Aprender.
 ## Interoperabilidad
 
 - Iniciativas
-  - INE
+  - ENI
 
 ## IA
-
-## Contratación pública
-
-- Temas
-    - 11. Los contratos de las Administraciones Públicas
 
 ## Certificados electrónicos
 

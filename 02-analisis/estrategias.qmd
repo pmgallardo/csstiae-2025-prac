@@ -40,6 +40,19 @@ Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
 
 ## Estrategias europeas
 
+### Década Digital de Europa
+
+- Referencias
+  - [La Década Digital de Europa](https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade)
+  - <https://runmodule.com/2027/03/10/second-digital-agenda-for-europe/>{target="_blank"}
+
+\
+La Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.
+
+Inicialmente fue la Segunda Agenda Digital. La Brújula Digital 2030 se enmarca dentro de la Década Digital.
+
+### Estrategia Europea del Dato
+
 ## Estrategias españolas
 
 ### Plan España Digital

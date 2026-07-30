@@ -1,13 +1,6 @@
 # Temáticas específicas
 
-Los temas que se ven aquí son:
-
-- Justicia
-- Empleo
-- Subvenciones
-- Igualdad
-- Presupuestación
-- Demografía
+Este apartado trata temáticas específicas de ejercicios concretos.
 
 ## Temas relacionados con el Tribunal
 
@@ -28,23 +21,59 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 
 ## Justicia
 
-- Regulaciones
-  - LO 1995/40. Código penal
-- Constitución
+- CE
   - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
+  - CE art. 9 apt. 1 (los ciudadanos y poderes públicos están sujectos al ordenamiento jurídico)
+  - Ley Orgánica 10/1995, Código penal
   - Título IV del Poder Judicial
 - ODS
   - 8. Paz, justicia e instituciones sólidas 
+- Regulaciones
+  - LO 1995/40. Código penal
 
 ## Seguridad Social
+
+
 
 ## Atención al usuario
 
 ## Hacienda
 
+- CE
+  - Título VII "Economía y Hacienda" (arts. 128-136)
+
 ### Recaudación
 
+## Presupuestación (análisis pormenorizado)
+
+- CE
+  - Art. 134. Presupuestos Generales del Estado
+  - Art. 135. Estabilidad y sostenibilidad
+- Marco normativo
+  - UE
+    - SEC 2010 (Sistema Europeo de Cuentas)
+  - ES
+    - L 47/2003. General Presupuestaria (LGP)
+    - LO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)
+- Temas
+  - 12. Los presupuestos generales del Estado
+
+\
+El art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.
+
+El art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.
+
+Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF): Desarrolla el Art. 135 de la CE. Es la norma transversales aplicable al Estado, Comunidades Autónomas (CCAA) y Entidades Locales (EELL). Consolida los principios de eficiencia en la asignación de recursos, transparencia, plurianualidad y la regla de gasto.
+
+B. Sector Público Estatal
+
+    Ley 47/2003, General Presupuestaria (LGP): Es el «código contable y presupuestario» del Estado. Regula con detalle las fases del presupuesto (elaboración, gestión, modificación, liquidación) y la contabilidad pública de la Administración General del Estado y sus organismos vinculados.
+
 ## Casa Real
+
+- Constitución 1976
+  - Art. 1 "La forma política del Estado español es la Monarquía parlamentaria"
+  - Título II "De la Corona" (arts. 56-65)
 
 ## Industria
 
@@ -56,6 +85,11 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
 
+## Españoles en el extranjero
+
+- CE
+  - CE, art. 19 (libertad de residencia y circulación)
+
 ## Turismo
 
 - ODS
@@ -64,31 +98,54 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 ## Demografía
 
 - Organismos
-    - Ministerio para la Transición Ecológica y Reto Demográfico
+  - Ministerio para la Transición Ecológica y Reto Demográfico
+- Estadísticas
+  - Estadística Continua de Población (ECP)
+  - Censo Anual de Población (CAP)
 
-Estadísticas:
+\
+Estadísticas relevantes:
 
 | Estadística | Fecha | Valor aprox. | Valor exacto | Fuente |
 | - | - | - | - | - |
-| Población total | 01/01/2025 | 41M | 49128297 | [Censo Anual de Población (CAP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
-| Españoles | 01/01/2025 | 42M | 42216326 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
-| Extranjeros | 01/01/2025 | 7M | 6911971 |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
-| Españoles | 01/01/2025 | 40M | 39.664.087 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
-| Extranjeros | 01/01/2025 | 9M  | 9.464.210  |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981) del INE |
-| Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
-| Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981) del INE |
+| Población total | 01/01/2025 | 41M | 49128297 | [Censo Anual de Población (CAP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Españoles | 01/01/2025 | 42M | 42216326 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Extranjeros | 01/01/2025 | 7M | 6911971 |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Españoles | 01/01/2025 | 40M | 39.664.087 | [CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Extranjeros | 01/01/2025 | 9M  | 9.464.210  |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+| Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
 
 ## Empleo
 
 - Temas
-  - 
+  - 17. El mercado de trabajo
+  - 19. TIC, economía y mercado de trabajo
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+- Indicadores
+  - EPA (Encuesta de Población Activa)
+
+\
+Estadísticas relevantes:
+
+| Estadística | Valor aprox. | Valor | Fuente |
+| - | - | - | - |
+| Tasa de paro | <10% | 9,87% | [EPA](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595){target="_blank"} |
 
 ## Igualdad
 
+- Constitución
+  - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
 - ODS
   - Objetivo 5 "Igualdad de género"
+
+## Violencia de género
+
+- Constitución
+  - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
+- Indicadores
+  - EVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)
 
 ## Educación
 

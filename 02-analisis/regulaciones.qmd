@@ -1,16 +1,16 @@
-# Regulaciones
+# Marco normativo
 
 Incluye regulaciones europeas y españolas.
 
-## Regulaciones europeas
+## Marco normativo europeo
 
 ### R(UE) 2016/279. RGPD
 
 R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).
 
-<https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>
+<https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
 
-## Regulaciones españolas
+## Marco normativo español
 
 ### L 9/2017. CSP
 

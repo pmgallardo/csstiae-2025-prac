@@ -40,6 +40,7 @@ book:
         - 02-analisis/regulaciones.qmd
         - 02-analisis/estrategias.qmd
         - 02-analisis/iniciativas.qmd
+        - 02-analisis/estadisticas.qmd
         - 02-analisis/transversales.qmd
         - 02-analisis/especificas.qmd
     - part: "Volcado"
@@ -49,9 +50,12 @@ book:
       chapters:
         - 04-lectura/index.qmd
 
+lang: es
+
 format:
   html:
     theme: cosmo
+    css: styles.css
     toc: true
     toc-depth: 3
     number-sections: true
