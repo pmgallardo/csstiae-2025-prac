@@ -69,7 +69,29 @@
     "href": "01-supuesto/index.html",
     "title": "2  Introducción al supuesto práctico",
     "section": "",
-    "text": "2.1 Seguridad\nEste documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
+    "text": "2.1 Consejos para el supuesto práctico\nEste documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).\nLlevar:\nEn la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. Esto condicionaría a la hora de realizar el volcado, por lo que no es un buen consejo.\nPor el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.\nUna propuesta de subrayado de colores puede ser:",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#consejos-para-el-supuesto-práctico",
+    "href": "01-supuesto/index.html#consejos-para-el-supuesto-práctico",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "",
+    "text": "2 bolígrafos\nCorrector ortográfico\nSubrayadores de colores\nLapicero\nGoma de borrar\n\n\n\n\n\n\n\nColor\nSignificado\n\n\n\n\nAmarillo\nAcción\n\n\nVerde\nActor",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#seguridad",
+    "href": "01-supuesto/index.html#seguridad",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "2.2 Seguridad",
+    "text": "2.2 Seguridad\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -79,8 +101,8 @@
     "objectID": "01-supuesto/index.html#planificación",
     "href": "01-supuesto/index.html#planificación",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.2 Planificación",
-    "text": "2.2 Planificación",
+    "section": "2.3 Planificación",
+    "text": "2.3 Planificación",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -90,8 +112,8 @@
     "objectID": "01-supuesto/index.html#interoperabilidad",
     "href": "01-supuesto/index.html#interoperabilidad",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.3 Interoperabilidad",
-    "text": "2.3 Interoperabilidad\n\nIniciativas\n\nENI",
+    "section": "2.4 Interoperabilidad",
+    "text": "2.4 Interoperabilidad\n\nIniciativas\n\nENI",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -101,8 +123,8 @@
     "objectID": "01-supuesto/index.html#ia",
     "href": "01-supuesto/index.html#ia",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.4 IA",
-    "text": "2.4 IA",
+    "section": "2.5 IA",
+    "text": "2.5 IA",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -112,8 +134,8 @@
     "objectID": "01-supuesto/index.html#certificados-electrónicos",
     "href": "01-supuesto/index.html#certificados-electrónicos",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.5 Certificados electrónicos",
-    "text": "2.5 Certificados electrónicos",
+    "section": "2.6 Certificados electrónicos",
+    "text": "2.6 Certificados electrónicos",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -123,8 +145,8 @@
     "objectID": "01-supuesto/index.html#protección-de-datos",
     "href": "01-supuesto/index.html#protección-de-datos",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.6 Protección de datos",
-    "text": "2.6 Protección de datos\n\nTemas\n\n\nAdaptación LOPD",
+    "section": "2.7 Protección de datos",
+    "text": "2.7 Protección de datos\n\nTemas\n\n\nAdaptación LOPD",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -134,8 +156,8 @@
     "objectID": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "href": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.7 Accesibilidad (supuesto práctico)",
-    "text": "2.7 Accesibilidad (supuesto práctico)\n\nTemas\n\n\nAccesibilidad y usabilidad\n\n\nGuías\n\nWCAG\n\nEstándares\n\nEN 301 549\n\nReferencias\n\nhttps://runmodule.com/2025/09/25/web-accessibility/",
+    "section": "2.8 Accesibilidad (supuesto práctico)",
+    "text": "2.8 Accesibilidad (supuesto práctico)\n\nGuías\n\nWCAG\n\nEstándares\n\nEN 301 549\n\nTemas\n\n\nAccesibilidad y usabilidad\n\n\nReferencias\n\nhttps://runmodule.com/2025/09/25/web-accessibility/",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -542,7 +564,7 @@
     "href": "01-supuesto/contratacion.html#procedimientos-de-adjudicación",
     "title": "8  Contratación",
     "section": "8.6 Procedimientos de adjudicación",
-    "text": "8.6 Procedimientos de adjudicación\nProcedimientos o formas de adjudicación:\n\nProcedimiento abierto\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\nProcedimiento restringido\nProcedimiento de negociación\nProcedimiento negociado sin publicidad\nContrato menor\nDiálogo competitivo\nProcedimiento de asociación para la innovación\nContrato menor\nContratación centralizada\n\nLa plataforma para realizar contratación es Conecta-Contratación.\nPágina web de Conecta-Contratación.\nLos contratos sujetos a contratación armonizada se llaman también contratos SARA.\n\n8.6.1 Procedimiento abierto\nUn procedimientos abierto se denomina así ya que cualquiera puede licitar al mismo.\nExisten varios subtipos de procedimiento abierto:\n\nProcedimiento abierto (estándar)\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\n\n\n8.6.1.1 Procedimiento abierto estándar\nEl procedimiento abierto es el ordinario de contratación. Se le llama en este apartado procedimiento abierto estándar para distinguirlo de variantes como el simplificado y el abreviado, aunque este no sea su nombre oficial.\nEl plazo de presentación de proposiciones es:\nEn caso de regulación NO armonizada: 15 días\nEn caso de regulación armonizada\nEn situación estándar: 35 días\nSi se publicó un anuncio previo o en situación de emergencia: 15 días\nSi se aceptan propuestas de ofertas por medios electrónicos, reducen los plazos en 5 días. Esto se define en el art. 156.3.c.\nNo tiene restricciones respecto al importe del contrato.\n\n\n8.6.1.2 Procedimiento abierto simplificado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 2.000.000 €\nPara contratos de suministro y de servicios, valor estimado &lt;= 100.000 €\nCriterios de adjudicación\nEn prestación de carácter no intelectual, los juicios de valor deben ser &lt;25%\nEn prestación intelectual, los juicios de valor deben ser &lt;40%\nPlazo de presentación de proposiciones mínimo:\nObras: 20 días\nOtros: 15 días\n\n\n8.6.1.3 Procedimiento abierto simplificado abreviado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 80.000 €.\nPara contratos de suministros y servicios, valor estimado &lt;= 60.000 €\nTipo de prestación\nSolo prestación de carácter no intelectual\nPlazo de presentación de proposiciones mínimo:\nCompras corrientes disponibles en el mercado: 5 días hábiles\nOtros: 10 días hábiles\nNo es necesaria la acreditación de la solvencia económica y financiera y técnica o profesional de los licitadores.\nLa oferta se entregará en un único sobre y se evaluará con arreglo a criterios de adjudicación cuantificables mediante la mera aplicación de fórmulas establecidas en los pliegos.\nCon “sobre único” se refiere a que solo se hace una oferta con valores cuantificables y que, a diferencia de otros procesos, no hace falta emitir aparte la oferta con valores subjetivos o cualitativos.\n\n\n\n8.6.2 Procedimiento restringido\nSolo puede licitar quien pasa un filtro.\nNo permite negociaciones en el precio.\n\n\n8.6.3 Procedimiento con negociación\nEstos procedimientos permiten negociación, a diferencia del abierto y el restringido.\nExisten dos tipos:\n\nProcedimiento con negociación [estándar]\nProcedimiento con negociación sin publicidad\n\n\n8.6.3.1 Procedimiento con negociación estándar\nViene recogido en el artículo 167 de la LCSP.\nPermite negociar con los licitadores las condiciones, quedando fuera los aspectos esenciales y los criterios de adjudicación.\nLa versión estándar requiere publicidad.\nSolo se puede aplicar en un número de casos:\nCuando requiera que los licitadores realicen un trabajo previo de diseño o adaptación.\nCuando se trate de una solución innovadoras\nCuando las negociaciones sean ineludibles.\nCuando el órgano de contratación con puede precisar suficientemente las especificaciones.\nCuando no se haya recibido nada aceptable tras realizar un procedimiento abierto o restringido.\nCuando se trate de contratos de servicios sociales personalísimos.\n\n\n8.6.3.2 Procedimiento negociado sin publicidad\nRegulado en el artículo 168 LCSP.\nEs similar al procedimiento negociado estándar pero no requiere publicidad.\nRequiere que se de una compleja lista de condiciones, entre ellas:\nNo se haya presentado ninguna oferta; ninguna oferta adecuada; ninguna solicitud de participación; o ninguna solicitud de participación adecuada en respuesta a un procedimiento abierto o a un procedimiento restringido.\nCuando las obras, los suministros o los servicios solo puedan ser encomendados a un empresario determinado.\nCuando el contrato haya sido declarado\n\n\n\n8.6.4 Diálogo competitivo\nComparte los supuestos del procedimiento negociado.\nSupone mantneer una mesa de diálogo.\nPermite el pago de primas o compensaciones a los licitadores que se presenten.\n\n\n8.6.5 Procedimiento de asociación para la innovación\nRelacionado con la innovación.\n\n\n8.6.6 Contrato menor\nUn contrato menor debe cumplir una serie de condiciones.\nCondiciones del contrato menor:\n\nCondiciones económicas\n\nContratos de obras: valor estimado &lt; 40.000.\nContratos de suministros o servicios: valor estimado &lt; 15.000 €.\n\n\nEn este caso se define también en valor estimado y no al importe base de licitación.\nSe debe solicitar al menos 3 prespuestos.\nNo se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente.\nLos contratos menores NO son susceptbiles de prórroga.\nSegún los apuntes de Andreu Bosa, lleva un mes su tramitación.\n\n\n8.6.7 Contratación centralizada\nModalidades dentro de la contratación centralizada:\n\nAcuerdo marco\nSistema dinámico de adquisición (SDA)\nContratos centralizados\nEncargos a medios propios\n\nPor encima de 862.000 € no se puede ir por contratación centralizada y habría que ir muy probablemente a procedimiento abierto.\nSe pueden revisar el catálogo en la página oficial:\nPágina web del catálogo de contratación centralizada\nLa tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.\nLa Secretaría General de la Administración Digital (SGAD) agrega todas las peticiones y la DGRCC coordina el proceso de compra conjunto.\n\n\n8.6.8 Acuerdos Marco\nLa duración máxima de un acuerdo marco es de 2 años prorrogables a otros 2. Durante el plazo de vigencia del acuerdo marco no pueden entrar más proveedores.\nEn caso de que no estén todos los términos o condiciones fijados hay que añadir una segunda fase en la que hay que contactar a los proveedores.\nEn caso de contratos SARA hay que contactar a todos los proveedores del acuerdo marco.\nEn caso de contratos no SARA es suficiente con contactar con 3 proveedores.\nEl órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).\n\n8.6.8.1 Acuerdos marcos relevantes para IT\nHay que saberse los números de los acuerdos marcos.\nSon relevantes los siguientes acuerdos marcos:\n\nAM 02/2023. Ordenadores de mesa, portátiles monitores y otras soluciones del puesto de trabajo\nAM 05/2023. Impresoras, fotocopiadoras y escáneres\nAM 08/2021. Sistemas de seguridad\n\n\n\n\n8.6.9 Sistemas Dinámicos de Adquisición\nSistemas dinámicos de adquisición (SDA) tiene una duración de 5 años.\nDurante su vigencia se permiten que salgan y entren empresas.\n\n8.6.9.1 SDAs relevantes para TI\nHay que saberse los números de los acuerdos marcos.\nSDAs relevantes para TI:\n\nSDA 25/2022. Suministro de software\nSDA 26/2021. Servicios de desarrollo\nSDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento\n\nSDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales.\n\n\n\n8.6.10 Contratos centralizados\nLos contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.\nEn el caso de telecomunicaciones existen 4 lotes:\n\nLote 1. Fijo. Adjudicado a Telefónica\nLote 2: Móviles. Otorgado a Vodafone\nLote 3: Internet. Otorgado a Telefónica.\nLote 4: Internacional. Adjudicado a British Telecom (BT)",
+    "text": "8.6 Procedimientos de adjudicación\nProcedimientos o formas de adjudicación:\n\nProcedimiento abierto\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\nProcedimiento restringido\nProcedimiento de negociación\nProcedimiento negociado sin publicidad\nContrato menor\nDiálogo competitivo\nProcedimiento de asociación para la innovación\nContrato menor\nContratación centralizada\n\nLa plataforma para realizar contratación es Conecta-Contratación.\nPágina web de Conecta-Contratación.\nLos contratos sujetos a contratación armonizada se llaman también contratos SARA.\n\n8.6.1 Procedimiento abierto\nUn procedimientos abierto se denomina así ya que cualquiera puede licitar al mismo.\nExisten varios subtipos de procedimiento abierto:\n\nProcedimiento abierto (estándar)\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\n\n\n8.6.1.1 Procedimiento abierto estándar\nEl procedimiento abierto es el ordinario de contratación. Se le llama en este apartado procedimiento abierto estándar para distinguirlo de variantes como el simplificado y el abreviado, aunque este no sea su nombre oficial.\nEl plazo de presentación de proposiciones es:\nEn caso de regulación NO armonizada: 15 días\nEn caso de regulación armonizada\nEn situación estándar: 35 días\nSi se publicó un anuncio previo o en situación de emergencia: 15 días\nSi se aceptan propuestas de ofertas por medios electrónicos, reducen los plazos en 5 días. Esto se define en el art. 156.3.c.\nNo tiene restricciones respecto al importe del contrato.\n\n\n8.6.1.2 Procedimiento abierto simplificado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 2.000.000 €\nPara contratos de suministro y de servicios, valor estimado &lt;= 100.000 €\nCriterios de adjudicación\nEn prestación de carácter no intelectual, los juicios de valor deben ser &lt;25%\nEn prestación intelectual, los juicios de valor deben ser &lt;40%\nPlazo de presentación de proposiciones mínimo:\nObras: 20 días\nOtros: 15 días\n\n\n8.6.1.3 Procedimiento abierto simplificado abreviado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 80.000 €.\nPara contratos de suministros y servicios, valor estimado &lt;= 60.000 €\nTipo de prestación\nSolo prestación de carácter no intelectual\nPlazo de presentación de proposiciones mínimo:\nCompras corrientes disponibles en el mercado: 5 días hábiles\nOtros: 10 días hábiles\nNo es necesaria la acreditación de la solvencia económica y financiera y técnica o profesional de los licitadores.\nLa oferta se entregará en un único sobre y se evaluará con arreglo a criterios de adjudicación cuantificables mediante la mera aplicación de fórmulas establecidas en los pliegos.\nCon “sobre único” se refiere a que solo se hace una oferta con valores cuantificables y que, a diferencia de otros procesos, no hace falta emitir aparte la oferta con valores subjetivos o cualitativos.\n\n\n\n8.6.2 Procedimiento restringido\nSolo puede licitar quien pasa un filtro.\nNo permite negociaciones en el precio.\n\n\n8.6.3 Procedimiento con negociación\nEstos procedimientos permiten negociación, a diferencia del abierto y el restringido.\nExisten dos tipos:\n\nProcedimiento con negociación [estándar]\nProcedimiento con negociación sin publicidad\n\n\n8.6.3.1 Procedimiento con negociación estándar\nViene recogido en el artículo 167 de la LCSP.\nPermite negociar con los licitadores las condiciones, quedando fuera los aspectos esenciales y los criterios de adjudicación.\nLa versión estándar requiere publicidad.\nSolo se puede aplicar en un número de casos:\nCuando requiera que los licitadores realicen un trabajo previo de diseño o adaptación.\nCuando se trate de una solución innovadoras\nCuando las negociaciones sean ineludibles.\nCuando el órgano de contratación con puede precisar suficientemente las especificaciones.\nCuando no se haya recibido nada aceptable tras realizar un procedimiento abierto o restringido.\nCuando se trate de contratos de servicios sociales personalísimos.\n\n\n8.6.3.2 Procedimiento negociado sin publicidad\nRegulado en el artículo 168 LCSP.\nEs similar al procedimiento negociado estándar pero no requiere publicidad.\nRequiere que se de una compleja lista de condiciones, entre ellas:\nNo se haya presentado ninguna oferta; ninguna oferta adecuada; ninguna solicitud de participación; o ninguna solicitud de participación adecuada en respuesta a un procedimiento abierto o a un procedimiento restringido.\nCuando las obras, los suministros o los servicios solo puedan ser encomendados a un empresario determinado.\nCuando el contrato haya sido declarado\n\n\n\n8.6.4 Diálogo competitivo\nComparte los supuestos del procedimiento negociado.\nSupone mantener una mesa de diálogo.\nPermite el pago de primas o compensaciones a los licitadores que se presenten.\n\n\n8.6.5 Procedimiento de asociación para la innovación\nRelacionado con la innovación.\n\n\n8.6.6 Contrato menor\nUn contrato menor debe cumplir una serie de condiciones.\nCondiciones del contrato menor:\n\nCondiciones económicas\n\nContratos de obras: valor estimado &lt; 40.000.\nContratos de suministros o servicios: valor estimado &lt; 15.000 €.\n\n\nEn este caso se define también en valor estimado y no al importe base de licitación.\nSe debe solicitar al menos 3 prespuestos.\nNo se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente.\nLos contratos menores NO son susceptbiles de prórroga.\nSegún los apuntes de Andreu Bosa, lleva un mes su tramitación.\n\n\n8.6.7 Contratación centralizada\nModalidades dentro de la contratación centralizada:\n\nAcuerdo marco\nSistema dinámico de adquisición (SDA)\nContratos centralizados\nEncargos a medios propios\n\nPor encima de 862.000 € no se puede ir por contratación centralizada y habría que ir muy probablemente a procedimiento abierto.\nSe pueden revisar el catálogo en la página oficial:\nPágina web del catálogo de contratación centralizada\nLa tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.\nLa Secretaría General de la Administración Digital (SGAD) agrega todas las peticiones y la DGRCC coordina el proceso de compra conjunto.\n\n\n8.6.8 Acuerdos Marco\nLa duración máxima de un acuerdo marco es de 2 años prorrogables a otros 2. Durante el plazo de vigencia del acuerdo marco no pueden entrar más proveedores.\nEn caso de que no estén todos los términos o condiciones fijados hay que añadir una segunda fase en la que hay que contactar a los proveedores.\nEn caso de contratos SARA hay que contactar a todos los proveedores del acuerdo marco.\nEn caso de contratos no SARA es suficiente con contactar con 3 proveedores.\nEl órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).\n\n8.6.8.1 Acuerdos marcos relevantes para IT\nHay que saberse los números de los acuerdos marcos.\nSon relevantes los siguientes acuerdos marcos:\n\nAM 02/2023. Ordenadores de mesa, portátiles monitores y otras soluciones del puesto de trabajo\nAM 05/2023. Impresoras, fotocopiadoras y escáneres\nAM 08/2021. Sistemas de seguridad\n\n\n\n\n8.6.9 Sistemas Dinámicos de Adquisición\nSistemas dinámicos de adquisición (SDA) tiene una duración de 5 años.\nDurante su vigencia se permiten que salgan y entren empresas.\n\n8.6.9.1 SDAs relevantes para TI\nHay que saberse los números de los acuerdos marcos.\nSDAs relevantes para TI:\n\nSDA 25/2022. Suministro de software\nSDA 26/2021. Servicios de desarrollo\nSDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento\n\nSDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales.\n\n\n\n8.6.10 Contratos centralizados\nLos contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.\nEn el caso de telecomunicaciones existen 4 lotes:\n\nLote 1. Fijo. Adjudicado a Telefónica\nLote 2: Móviles. Otorgado a Vodafone\nLote 3: Internet. Otorgado a Telefónica.\nLote 4: Internacional. Adjudicado a British Telecom (BT)",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
@@ -1136,7 +1158,7 @@
     "href": "03-volcado/index.html",
     "title": "18  Volcado",
     "section": "",
-    "text": "Al finalizar el exámen y entregarlo, este se escanea y se guarda en un sobre cerrado que queda fuera de la disposición del candidato.\nHasta la convocatoria 2025 no se ha facilitado nunca a los candidatos una copia escaneada del exámen, aunque el candidato y el tribunal sí dispondrán de esa copia durante la defensa.\nEs conveniente que el candidato realice un volcado del exámen nada más acabarlo, que consiste en copiar todo lo escrito y nos acordamos al momento pues el material que hemos aportado es la base para la siguiente prueba, que es la defensa.\nConsejos sobre el volcado:\n\nNo leer o hablar con otros compañeros hasta no estar seguros de haber terminado el volcado personal, para evitar contaminarlo.\nNo contrastar la información con fuentes externas hasta no haber terminado el volcado.\nReservar entre 3-4 horas para realizar el volcado.\nPostergarlo lo menos posible después del exámen.",
+    "text": "Al finalizar el exámen y entregarlo, este se escanea y se guarda en un sobre cerrado que queda fuera de la disposición del candidato.\nHasta la convocatoria 2025 no se ha facilitado nunca a los candidatos una copia escaneada del exámen, aunque el candidato y el tribunal sí dispondrán de esa copia durante la defensa.\nPuesto que pueden transcurrir varios meses desde el fin de las preguntas.\nEs conveniente que el candidato realice un volcado del exámen nada más acabarlo, que consiste en copiar todo lo escrito y nos acordamos al momento pues el material que hemos aportado es la base para la siguiente prueba, que es la defensa.\nConsejos sobre la realización del volcado:\n\nNo leer o hablar con otros compañeros hasta no estar seguros de haber terminado el volcado personal, para evitar contaminarlo.\nNo contrastar la información con fuentes externas hasta no haber terminado el volcado, para evitar contaminarlo.\nReservar entre 3-4 horas para realizar el volcado.\nPostergarlo lo menos posible después del exámen.\nSe puede emplear grabaciones de audio y su posterior transcripción automática para la parte práctica.",
     "crumbs": [
       "Volcado",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Volcado</span>"
@@ -1176,11 +1198,22 @@
     ]
   },
   {
+    "objectID": "04-lectura/index.html#asistencia-como-público-a-las-lecturas",
+    "href": "04-lectura/index.html#asistencia-como-público-a-las-lecturas",
+    "title": "19  Lectura",
+    "section": "19.3 Asistencia como público a las lecturas",
+    "text": "19.3 Asistencia como público a las lecturas\nLas lecturas son en sesión pública, por lo que cualquier persona puede asistir público. No obstante, el aforo a las mismas es limitado, por lo que puede convenir asistir con antelación.\nAlgunos grupos de candidatos o voluntarios, como Preparatic, recopilan las preguntas que formula el Tribunal a los candidatos. Conviene recopilar las preguntas que realiza el Tribunal y estudiar y ensayar su posible respuesta.",
+    "crumbs": [
+      "Lectura",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Lectura</span>"
+    ]
+  },
+  {
     "objectID": "04-lectura/index.html#ensayo-de-la-lectura",
     "href": "04-lectura/index.html#ensayo-de-la-lectura",
     "title": "19  Lectura",
-    "section": "19.3 Ensayo de la lectura",
-    "text": "19.3 Ensayo de la lectura\nEs recomendable grabarse y visualizar, para detectar puntos de mejora.\nSe deben ensayar todos aquellos puntos que se detallan como consejos en la ejecución de la defensa.",
+    "section": "19.4 Ensayo de la lectura",
+    "text": "19.4 Ensayo de la lectura\nEs recomendable grabarse y visualizar, para detectar puntos de mejora.\nTambién ensayar las defensas y posibles preguntas con otros candidatos, profesores o preparadores.\nSe deben ensayar todos aquellos puntos que se detallan como consejos en la ejecución de la defensa.",
     "crumbs": [
       "Lectura",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Lectura</span>"
@@ -1190,8 +1223,8 @@
     "objectID": "04-lectura/index.html#ejecución-de-la-lectura",
     "href": "04-lectura/index.html#ejecución-de-la-lectura",
     "title": "19  Lectura",
-    "section": "19.4 Ejecución de la lectura",
-    "text": "19.4 Ejecución de la lectura\nAl Tribunal se le habla de usted, y se suele usar la fórmula “con permiso del Tribunal, se procede a la lectura del ejercicio” al empezar a leer la defensa.\nSe recomienda sostener los papeles con ambas manos para mantener una postura erguida y facilitar el mantener un contacto visual con el Tribunal.\nTratar de modular la voz para evitar una lectura monótona y hacer pausas. Para descansar o hacer un inciso entre partes del exámen se puede aprovechar el beber agua.\nTratar de no reaccionar visiblemente en caso de encontrar discrepancias entre lo escrito en el exámen y el volcado.\nAlgunas preguntas pueden ir enfocadas sobre errores que se hayan cometido en el ejercicio, y dan una segunda oportunidad.",
+    "section": "19.5 Ejecución de la lectura",
+    "text": "19.5 Ejecución de la lectura\nAl Tribunal se le habla de usted, y se suele usar la fórmula “con permiso del Tribunal, se procede a la lectura del ejercicio” al empezar a leer la defensa.\nSe recomienda sostener los papeles con ambas manos para mantener una postura erguida y facilitar el mantener un contacto visual con el Tribunal.\nTratar de modular la voz para evitar una lectura monótona y hacer pausas. Para descansar o hacer un inciso entre partes del exámen se puede aprovechar el beber agua.\nTratar de no reaccionar visiblemente en caso de encontrar discrepancias entre lo escrito en el exámen y el volcado.\nAlgunas preguntas pueden ir enfocadas sobre errores que se hayan cometido en el ejercicio, y dan una segunda oportunidad.",
     "crumbs": [
       "Lectura",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Lectura</span>"
