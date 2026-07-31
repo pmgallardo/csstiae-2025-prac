@@ -69,7 +69,18 @@
     "href": "01-supuesto/index.html",
     "title": "2  Introducción al supuesto práctico",
     "section": "",
-    "text": "2.1 Consejos para el supuesto práctico\nEste documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).\nLlevar:\nEn la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. Esto condicionaría a la hora de realizar el volcado, por lo que no es un buen consejo.\nPor el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.\nUna propuesta de subrayado de colores puede ser:",
+    "text": "2.1 Material a llevar al consejo práctico\nEste documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE).\nMaterial para llevar:",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/index.html#material-a-llevar-al-consejo-práctico",
+    "href": "01-supuesto/index.html#material-a-llevar-al-consejo-práctico",
+    "title": "2  Introducción al supuesto práctico",
+    "section": "",
+    "text": "2 bolígrafos\nCorrector ortográfico\nSubrayadores de colores\nLapicero\nGoma de borrar\nCuaderno, hojas o portátil para realizar el volcado",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -79,8 +90,8 @@
     "objectID": "01-supuesto/index.html#consejos-para-el-supuesto-práctico",
     "href": "01-supuesto/index.html#consejos-para-el-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
-    "section": "",
-    "text": "2 bolígrafos\nCorrector ortográfico\nSubrayadores de colores\nLapicero\nGoma de borrar\n\n\n\n\n\n\n\nColor\nSignificado\n\n\n\n\nAmarillo\nAcción\n\n\nVerde\nActor",
+    "section": "2.2 Consejos para el supuesto práctico",
+    "text": "2.2 Consejos para el supuesto práctico\nResumen de consejos:\n\nLeer las preguntas antes de leer el enunciado completo.\nSubrayar los conceptos del exámen\n\nEn la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no es un buen consejo.\nPor el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.\nUna propuesta de subrayado de colores puede ser:\n\n\n\nSignificado\nColor\n\n\n\n\nActor / Sistema\nAzul\n\n\nEntidad de datos\nVerde\n\n\nFuncionalidad\nNaranja\n\n\nNormativa\nRojo\n\n\nCuestiones de interés\nAmarillo\n\n\n\nSe podría distinguir con distinto color los actores internos y externos.",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -90,8 +101,8 @@
     "objectID": "01-supuesto/index.html#seguridad",
     "href": "01-supuesto/index.html#seguridad",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.2 Seguridad",
-    "text": "2.2 Seguridad\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
+    "section": "2.3 Seguridad",
+    "text": "2.3 Seguridad\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -101,8 +112,8 @@
     "objectID": "01-supuesto/index.html#planificación",
     "href": "01-supuesto/index.html#planificación",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.3 Planificación",
-    "text": "2.3 Planificación",
+    "section": "2.4 Planificación",
+    "text": "2.4 Planificación",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -112,8 +123,8 @@
     "objectID": "01-supuesto/index.html#interoperabilidad",
     "href": "01-supuesto/index.html#interoperabilidad",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.4 Interoperabilidad",
-    "text": "2.4 Interoperabilidad\n\nIniciativas\n\nENI",
+    "section": "2.5 Interoperabilidad",
+    "text": "2.5 Interoperabilidad\n\nIniciativas\n\nENI",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -123,8 +134,8 @@
     "objectID": "01-supuesto/index.html#ia",
     "href": "01-supuesto/index.html#ia",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.5 IA",
-    "text": "2.5 IA",
+    "section": "2.6 IA",
+    "text": "2.6 IA",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -134,8 +145,8 @@
     "objectID": "01-supuesto/index.html#certificados-electrónicos",
     "href": "01-supuesto/index.html#certificados-electrónicos",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.6 Certificados electrónicos",
-    "text": "2.6 Certificados electrónicos",
+    "section": "2.7 Certificados electrónicos",
+    "text": "2.7 Certificados electrónicos",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -145,8 +156,8 @@
     "objectID": "01-supuesto/index.html#protección-de-datos",
     "href": "01-supuesto/index.html#protección-de-datos",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.7 Protección de datos",
-    "text": "2.7 Protección de datos\n\nTemas\n\n\nAdaptación LOPD",
+    "section": "2.8 Protección de datos",
+    "text": "2.8 Protección de datos\n\nTemas\n\n\nAdaptación LOPD",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -156,8 +167,8 @@
     "objectID": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "href": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.8 Accesibilidad (supuesto práctico)",
-    "text": "2.8 Accesibilidad (supuesto práctico)\n\nGuías\n\nWCAG\n\nEstándares\n\nEN 301 549\n\nTemas\n\n\nAccesibilidad y usabilidad\n\n\nReferencias\n\nhttps://runmodule.com/2025/09/25/web-accessibility/",
+    "section": "2.9 Accesibilidad (supuesto práctico)",
+    "text": "2.9 Accesibilidad (supuesto práctico)\n\nGuías\n\nWCAG\n\nEstándares\n\nEN 301 549\n\nTemas\n\n\nAccesibilidad y usabilidad\n\n\nReferencias\n\nhttps://runmodule.com/2025/09/25/web-accessibility/",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
