@@ -2,26 +2,39 @@
 
 Este documento es un resumen de información relevante para la preparación de la parte del supuesto práctico del ejercicio práctico de acceso al Cuerpo Superior de Sistemas y Tecnologías de la Información de la Administración del Estado (CSSTIAE). 
 
-## Consejos para el supuesto práctico
+## Material a llevar al consejo práctico
 
-Llevar:
+Material para llevar:
 
 - 2 bolígrafos
 - Corrector ortográfico
 - Subrayadores de colores
 - Lapicero
 - Goma de borrar
+- Cuaderno, hojas o portátil para realizar el volcado
 
-En la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. Esto condicionaría a la hora de realizar el volcado, por lo que no es un buen consejo.
+## Consejos para el supuesto práctico
+
+Resumen de consejos:
+
+- Leer las preguntas antes de leer el enunciado completo.
+- Subrayar los conceptos del exámen
+
+En la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no es un buen consejo.
 
 Por el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.
 
 Una propuesta de subrayado de colores puede ser:
 
-| Color | Significado |
+| Significado | Color |
 | - | - |
-| Amarillo | Acción |
-| Verde | Actor |
+| Actor / Sistema | Azul |
+| Entidad de datos | Verde |
+| Funcionalidad | Naranja |
+| Normativa | Rojo |
+| Cuestiones de interés | Amarillo |
+
+Se podría distinguir con distinto color los actores internos y externos.
 
 ## Seguridad
 
