@@ -16,7 +16,14 @@ Contiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de so
 
 El repositorio forja-CTT\index{CTT!forja-CTT} de GitHub alberga proyectos de código abierto de las AAPP.
 
-### CCN-STIC
+### Guías CCN-STIC
 
 - Referencias
   - <https://runmodule.com/2026/06/09/ccn-cert/>{target="_blank"}
+
+La serie 800 de las guías CCN-STIC está relacionada con ciberseguridad.
+
+- CCN-STIC-802. Auditoría del ENS.
+- **CCN-STIC-803. Valoración de Sistemas en el ENS.**
+- CCN-STIC-817. Gestión de Incidentes de Seguridad en el ENS.
+- CCN-STIC-824. Informe nacional del estado de seguridad de los sistemas TIC.

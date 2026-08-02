@@ -1,22 +1,48 @@
 # Marco normativo
 
-Incluye regulaciones europeas y españolas.
+Por convenio, se refieren las regulaciones europeas y españolas de la siguiente manera:
+
+| Ámbito | Cód. título | Cód. referencia | Convención URL |
+| - | - | - | - |
+| UE | X(UE) 2000/123 | CELEX:12345X1234 | ELI |
+| ES | X 123/2000 | BOE-A-2000-12345 | ELI |
+
+ELI (*European Legislation Identifier*) es un identificador único para la legislación europea y nacional que ha sido adoptado también por España.
+
+Abreviaturas usadas para cada tipo de regulación:
+
+| Ámbito | | |
+| - | - |
+| UE | R | Reglamento |
+| UE | D | Directiva |
+| ES | LO | Ley orgánica |
+| ES | L | Ley |
+| ES | RDl | Real Decreto-ley |
+| ES | RDL | Real Decreto Legislativo |
 
 ## Marco normativo europeo
 
-### R(UE) 2016/279. RGPD
+### R(UE) 2016/279. RGPD {#CELEX:32016R0679}
 
-R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).
+R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 
-<https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
+- Referencias
+  - [RGPD en EUR-Lex](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679){target="_blank"}
+  - <https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
 
 ## Marco normativo español
 
-### L 9/2017. CSP
+### L 19/2013. Transparencia, acceso a la información pública y buen gobierno {#BOE-A-2013-12887}
+
+- Referencias:
+  - [L 19/2013 en BOE](https://www.boe.es/eli/es/l/2013/12/09/19/con){target="_blank"}
+
+### L 9/2017. CSP {#BOE-A-2017-12902}
+
+- Referencias
+    - <https://www.boe.es/eli/es/l/2017/11/08/9/con>{target="_blank"}
 
 La ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.
-
-<https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902>
 
 El art. 1 define los principios de contratación:
 
@@ -24,8 +50,9 @@ El art. 1 define los principios de contratación:
 - Publicidad y transparencia de los procedimientos.
 - No discriminación e igualdad de trato entre los licitadores.
 
-### LO 3/2018. LOPDGDD
+### LO 3/2018 (LPD-GDD) {#BOE-A-2018-16673}
 
-Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD) complementa el RGPD.
+- Referencias
+  - <https://www.boe.es/eli/es/lo/2018/12/05/3/con>{target="_blank"}
 
-<https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673>
+Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.

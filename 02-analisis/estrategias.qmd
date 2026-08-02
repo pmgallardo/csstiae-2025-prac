@@ -47,9 +47,21 @@ Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
   - <https://runmodule.com/2027/03/10/second-digital-agenda-for-europe/>{target="_blank"}
 
 \
+La Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:
+
+- La Primera Agenda Digital de Europa (2010-2020)
+- La Segunda Agenda Digital de Europa (2020-2030)
+
+La Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea se centra en cuatro áreas clave:
+
 La Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.
 
-Inicialmente fue la Segunda Agenda Digital. La Brújula Digital 2030 se enmarca dentro de la Década Digital.
+En 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:
+
+1. Competencias
+2. Empresas
+3. Infraestructura
+4. Servicios públicos 
 
 ### Estrategia Europea del Dato
 

@@ -20,6 +20,9 @@ En esta entra se revisan temáticas que pueden ser comunes a proyectos de distin
 
 ## Administración digital
 
+- Regulaciones
+  - UE
+    - R (UE) 2021/694. Programa Europa Digital.
 - Iniciativas
   - CTT
 
@@ -27,7 +30,7 @@ En esta entra se revisan temáticas que pueden ser comunes a proyectos de distin
 
 - Regulaciones
   - ES
-    - RD 4/2010. Esquema Nacional de Interoperabilidad
+    - [RD 4/2010. Esquema Nacional de Interoperabilidad](regulaciones.qmd#ens)
     - L 37/2007. Reutilización de datos en Sector Público.
 - Organismos
   - CTT (Centro de Transferencia de Tecnología)
@@ -51,7 +54,7 @@ Esquema Nacional de Interoperabilidad (ENI).
 
 - Regulaciones
   - ES
-    - L 19/2013. Transparencia, acceso a la información pública y buen gobierno.
+    - [L 19/2013. Transparencia, acceso a la información pública y buen gobierno](regulaciones.qmd#BOE-A-2013-12887)
 
 ## Accesibilidad (análisis pormenorizado)
 
@@ -77,11 +80,13 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
   - Agencia Española de Protección de Datos (AEPD)
 - Regulaciones
   - UE
-    - R(UE) 2016/279. Reglamento General de Protección de Datos (RGPD)
+    - **[R(UE) 2016/679. RGPD](regulaciones.qmd#CELEX:32016R0679)**
   - ES
-    - LO 3/2018. LOPDGDD
+    - **[LO 3/2018. LOPD-GDD](regulaciones.qmd#BOE-A-2018-16673)**
 - Temas
   - 82. Adaptación LOPD
+- Referencias
+ - <https://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/>
 
 ## Seguridad de la información
 
