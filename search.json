@@ -685,7 +685,18 @@
     "href": "02-analisis/regulaciones.html#marco-normativo-europeo",
     "title": "12  Marco normativo",
     "section": "",
-    "text": "12.1.1 R(UE) 2016/279. RGPD\nR(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).\n\nReferencias\n\nRGPD en EUR-Lex\nhttps://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html",
+    "text": "12.1.1 R(UE) 2016/679. RGPD\nR(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).\n\nReferencias\n\nRGPD en EUR-Lex\nhttps://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/regulaciones.html#CELEX:32021R0694",
+    "href": "02-analisis/regulaciones.html#CELEX:32021R0694",
+    "title": "12  Marco normativo",
+    "section": "12.2 R(UE) 2021/694. Programa Europa Digital",
+    "text": "12.2 R(UE) 2021/694. Programa Europa Digital\n\nReferencias\n\nR(UE) 2021/694 en EUR-Lex\n\n\n\n12.2.1 R(UE) 2024/1689. Ley de Inteligencia Artificial\nReferencias - R(UE) 2024/1689 en EUR-Lex",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -695,8 +706,8 @@
     "objectID": "02-analisis/regulaciones.html#marco-normativo-español",
     "href": "02-analisis/regulaciones.html#marco-normativo-español",
     "title": "12  Marco normativo",
-    "section": "12.2 Marco normativo español",
-    "text": "12.2 Marco normativo español\n\n12.2.1 L 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\nReferencias:\n\nL 19/2013 en BOE\n\n\n\n\n12.2.2 L 9/2017. CSP\n\nReferencias\n\nhttps://www.boe.es/eli/es/l/2017/11/08/9/con\n\n\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.2.3 LO 3/2018 (LPD-GDD)\n\nReferencias\n\nhttps://www.boe.es/eli/es/lo/2018/12/05/3/con\n\n\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.",
+    "section": "12.3 Marco normativo español",
+    "text": "12.3 Marco normativo español\n\n12.3.1 L 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\nReferencias:\n\nL 19/2013 en BOE\n\n\n\n\n12.3.2 L 9/2017. CSP\n\nReferencias\n\nhttps://www.boe.es/eli/es/l/2017/11/08/9/con\n\n\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.3.3 LO 3/2018 (LPD-GDD)\n\nReferencias\n\nhttps://www.boe.es/eli/es/lo/2018/12/05/3/con\n\n\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -729,7 +740,7 @@
     "href": "02-analisis/estrategias.html#estrategias-europeas",
     "title": "13  Estrategias",
     "section": "13.2 Estrategias europeas",
-    "text": "13.2 Estrategias europeas\n\n13.2.1 Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:\n\nLa Primera Agenda Digital de Europa (2010-2020)\nLa Segunda Agenda Digital de Europa (2020-2030)\n\nLa Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea se centra en cuatro áreas clave:\nLa Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.\nEn 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:\n\nCompetencias\nEmpresas\nInfraestructura\nServicios públicos\n\n\n\n13.2.2 Estrategia Europea del Dato",
+    "text": "13.2 Estrategias europeas\n\n13.2.1 Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:\n\nLa Primera Agenda Digital de Europa (2010-2020)\nLa Segunda Agenda Digital de Europa (2020-2030)\n\nLa Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea.\nLa Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.\nEn 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:\n\nCompetencias: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.\nEmpresas: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.\nInfraestructura: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.\nServicios públicos: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.\n\nEl Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.\n\n\n13.2.2 Estrategia Europea del Dato",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Estrategias</span>"
@@ -861,7 +872,7 @@
     "href": "02-analisis/transversales.html#participación-ciudadana",
     "title": "16  Temáticas transversales",
     "section": "16.5 Participación ciudadana",
-    "text": "16.5 Participación ciudadana\n\nCE\n\nCE art. 1 (Estado social y democrático; soberanía reside en el pueblo español)\nCE, art. 9 (poderes públicos prommieven la participación de los ciudadanos en la vida política, económica, cultural y social)\nCE, art. 23 (derecho de participación)\n\nRegulaciones\n\nL 19/2013, Ley de Transparencia, participación ciudadana y bueno gobierno",
+    "text": "16.5 Participación ciudadana\n\nCE\n\nCE art. 1 (Estado social y democrático; soberanía reside en el pueblo español)\nCE art. 9 (poderes públicos prommieven la participación de los ciudadanos en la vida política, económica, cultural y social)\nCE art. 23 (derecho de participación)\n\nRegulaciones\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -905,7 +916,7 @@
     "href": "02-analisis/transversales.html#seguridad-de-la-información",
     "title": "16  Temáticas transversales",
     "section": "16.9 Seguridad de la información",
-    "text": "16.9 Seguridad de la información\n\nCE\n\nCE, art. 18 (derecho a la intimidad)\n\nRegulaciones\n\nUE\n\nNIS2\nCRA\n\nES\n\nRD 311/2022, Esquema Nacional de Seguridad (ENS)\nL 6/2020, de servicios electrónicos de confianza\nRD 43/2021, seguridad de redes y SI\nRDL 7/2022, seguridad 5G\n\n\nIniciativas\n\nEstrategia de Seguridad Nacional\nEstrategia Nacional de Ciberseguridad\nEsquema Nacional de Seguridad (ENS)\nGuías CCN-STIC\n\nTemario\n\n\nENS (incluye ENS, CCN-STIC)\n\n\nReferencias\n\nhttps://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/",
+    "text": "16.9 Seguridad de la información\n\nCE\n\nCE art. 18 (derecho a la intimidad)\n\nRegulaciones\n\nUE\n\nNIS2\nCRA\n\nES\n\nL 6/2020, de servicios electrónicos de confianza\nRD 43/2021, seguridad de redes y SI\nRD 311/2022, Esquema Nacional de Seguridad (ENS)\nRDL 7/2022, seguridad 5G\n\n\nIniciativas\n\nEstrategia de Seguridad Nacional\nEstrategia Nacional de Ciberseguridad\nEsquema Nacional de Seguridad (ENS)\nGuías CCN-STIC\n\nTemario\n\n\nENS (incluye ENS, CCN-STIC)\n\n\nReferencias\n\nhttps://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -927,7 +938,7 @@
     "href": "02-analisis/transversales.html#gobierno-del-dato",
     "title": "16  Temáticas transversales",
     "section": "16.11 Gobierno del dato",
-    "text": "16.11 Gobierno del dato\n\nRegulaciones\n\nUE\n\nR UE 2022/868. Ley de Gobernanza de Datos\nR UE 2023/2854. Ley de Datos\n\n\nEstrategias\n\nUE\n\nEstrategia Europea del Dato\n\n\n\n\nLa Ley de Gobernanza de Datos (Data Governance Act, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el “altruismo de datos” (donar datos para el bien común).\nR UE 2023/2854. Ley de Datos (Data Act).",
+    "text": "16.11 Gobierno del dato\n\nRegulaciones\n\nUE\n\nR UE 2022/868. Ley de Gobernanza de Datos\nR UE 2023/2854. Ley de Datos (Data Act).\n\n\nEstrategias\n\nUE\n\nEstrategia Europea del Dato\n\n\n\n\nLa Ley de Gobernanza de Datos (Data Governance Act, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el “altruismo de datos” (donar datos para el bien común).",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
