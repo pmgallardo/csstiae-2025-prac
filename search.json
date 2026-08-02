@@ -696,7 +696,7 @@
     "href": "02-analisis/regulaciones.html#CELEX:32021R0694",
     "title": "12  Marco normativo",
     "section": "12.2 R(UE) 2021/694. Programa Europa Digital",
-    "text": "12.2 R(UE) 2021/694. Programa Europa Digital\n\nReferencias\n\nR(UE) 2021/694 en EUR-Lex\n\n\n\n12.2.1 R(UE) 2024/1689. Ley de Inteligencia Artificial\nReferencias - R(UE) 2024/1689 en EUR-Lex",
+    "text": "12.2 R(UE) 2021/694. Programa Europa Digital\n\nReferencias\n\nR(UE) 2021/694 en EUR-Lex\n\n\n\n12.2.1 R(UE) 2022/868. Ley de Gobernanza de Datos\n\nReferencias\n\nR(UE) 2022/868 en EUR-Lex\n\n\n\n\n12.2.2 R(UE) 2023/2854. Ley de Datos\n\nReferencias\n\nR(UE) 2023/2854 en EUR-Lex\n\n\nLey de Datos (Data Act), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.\n\n\n12.2.3 R(UE) 2024/1689. Ley de Inteligencia Artificial\nReferencias - R(UE) 2024/1689 en EUR-Lex",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -905,7 +905,7 @@
     "href": "02-analisis/transversales.html#protección-de-datos",
     "title": "16  Temáticas transversales",
     "section": "16.8 Protección de datos",
-    "text": "16.8 Protección de datos\n\nOrganismos\n\nAgencia Española de Protección de Datos (AEPD)\n\nRegulaciones\n\nUE\n\nR(UE) 2016/679. RGPD\n\nES\n\nLO 3/2018. LOPD-GDD\n\n\nTemas\n\n\nAdaptación LOPD\n\n\nReferencias\nhttps://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/",
+    "text": "16.8 Protección de datos\n\nOrganismos\n\nAgencia Española de Protección de Datos (AEPD)\n\nRegulaciones\n\nUE\n\nR(UE) 2016/679. RGPD\n\nES\n\nLO 3/2018. LOPD-GDD\n\n\nTemas\n\n\nAdaptación LOPD\n\n\nReferencias\n\nhttps://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -938,7 +938,7 @@
     "href": "02-analisis/transversales.html#gobierno-del-dato",
     "title": "16  Temáticas transversales",
     "section": "16.11 Gobierno del dato",
-    "text": "16.11 Gobierno del dato\n\nRegulaciones\n\nUE\n\nR UE 2022/868. Ley de Gobernanza de Datos\nR UE 2023/2854. Ley de Datos (Data Act).\n\n\nEstrategias\n\nUE\n\nEstrategia Europea del Dato\n\n\n\n\nLa Ley de Gobernanza de Datos (Data Governance Act, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el “altruismo de datos” (donar datos para el bien común).",
+    "text": "16.11 Gobierno del dato\n\nRegulaciones\n\nUE\n\nR(UE) 2022/868. Ley de Gobernanza de Datos{regulaciones.qmd#CELEX:32022R0868}\nR(UE) 2023/2854. Ley de Datos (Data Act){regulaciones.qmd#CELEX:32023R2854}\n\n\nEstrategias\n\nUE\n\nEstrategia Europea del Dato {estrategias.qmd#Estrategia-Europea-del-Dato}\n\n\n\n\nLa Ley de Gobernanza de Datos (Data Governance Act, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el “altruismo de datos” (donar datos para el bien común).",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
