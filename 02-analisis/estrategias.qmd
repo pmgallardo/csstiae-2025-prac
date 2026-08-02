@@ -2,7 +2,7 @@
 
 ## Estrategias internacionales
 
-### Agenda 2030
+### Agenda 2030 {#Agenda-2030}
 
 - Referencias
   - <https://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/>{target="_blank"}
@@ -40,7 +40,7 @@ Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
 
 ## Estrategias europeas
 
-### Década Digital de Europa
+### Década Digital de Europa {#Década-Digital-de-Europa}
 
 - Referencias
   - [La Década Digital de Europa](https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade)
@@ -52,34 +52,36 @@ La Unión Europea ha lanzado dos planes estratégicos para impulsar la economía
 - La Primera Agenda Digital de Europa (2010-2020)
 - La Segunda Agenda Digital de Europa (2020-2030)
 
-La Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea se centra en cuatro áreas clave:
+La Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea.
 
 La Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.
 
 En 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:
 
-1. Competencias
-2. Empresas
-3. Infraestructura
-4. Servicios públicos 
+1. Competencias: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.
+2. Empresas: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.
+3. Infraestructura: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.
+4. Servicios públicos: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.
+
+El Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.
 
 ### Estrategia Europea del Dato
 
 ## Estrategias españolas
 
-### Plan España Digital
+### Plan España Digital {#Plan-España-Digital}
 
 - Referencias
   - <https://runmodule.com/2027/07/27/plan-espana-digital/>{target="_blank"}
 
-### Estrategia Nacional de Seguridad
+### Estrategia Nacional de Seguridad {#ENS}
 
 - Referencias
   - <https://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/>{target="_blank"}
 
-### Plan de Transformación Digital de la Administración General del Estado y sus Organismos Públicos  (Estrategia TIC)  
+### Plan de Transformación Digital de la Administración General del Estado y sus Organismos Públicos (Estrategia TIC)  
 
-### Plan de Recuperación, Transformación y Resiliencia
+### Plan de Recuperación, Transformación y Resiliencia {#PRTR}
 
 - Regulaciones
   - UE

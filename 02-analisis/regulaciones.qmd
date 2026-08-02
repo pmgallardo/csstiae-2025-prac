@@ -11,24 +11,34 @@ ELI (*European Legislation Identifier*) es un identificador único para la legis
 
 Abreviaturas usadas para cada tipo de regulación:
 
-| Ámbito | | |
+| Ámbito | Abrev. | Significado |
 | - | - |
 | UE | R | Reglamento |
 | UE | D | Directiva |
-| ES | LO | Ley orgánica |
+| ES | LO | Ley Orgánica |
 | ES | L | Ley |
-| ES | RDl | Real Decreto-ley |
-| ES | RDL | Real Decreto Legislativo |
+| ES | RDL | Real Decreto-Ley |
+| ES | RDLeg | Real Decreto Legislativo |
 
 ## Marco normativo europeo
 
-### R(UE) 2016/279. RGPD {#CELEX:32016R0679}
+### R(UE) 2016/679. RGPD {#CELEX:32016R0679}
 
 R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 
 - Referencias
-  - [RGPD en EUR-Lex](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679){target="_blank"}
+  - [RGPD en EUR-Lex]( http://data.europa.eu/eli/reg/2016/679/oj){target="_blank"}
   - <https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
+
+## R(UE) 2021/694. Programa Europa Digital {#CELEX:32021R0694}
+
+- Referencias
+    - [R(UE) 2021/694 en EUR-Lex](http://data.europa.eu/eli/reg/2021/694/oj){target="_blank"}
+
+### R(UE) 2024/1689. Ley de Inteligencia Artificial {#CELEX:32024R1689}
+
+Referencias
+ - [R(UE) 2024/1689 en EUR-Lex](http://data.europa.eu/eli/reg/2024/1689/oj){target="_blank"}
 
 ## Marco normativo español
 
