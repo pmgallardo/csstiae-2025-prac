@@ -674,7 +674,7 @@
     "href": "02-analisis/regulaciones.html",
     "title": "12  Marco normativo",
     "section": "",
-    "text": "12.1 Marco normativo europeo\nIncluye regulaciones europeas y españolas.",
+    "text": "12.1 Marco normativo europeo\nPor convenio, se refieren las regulaciones europeas y españolas de la siguiente manera:\nELI (European Legislation Identifier) es un identificador único para la legislación europea y nacional que ha sido adoptado también por España.\nAbreviaturas usadas para cada tipo de regulación:",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -685,7 +685,7 @@
     "href": "02-analisis/regulaciones.html#marco-normativo-europeo",
     "title": "12  Marco normativo",
     "section": "",
-    "text": "12.1.1 R(UE) 2016/279. RGPD\nR(UE) 2016/279. Reglamento General de Protección de Datos (RGPD).\nhttps://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html",
+    "text": "12.1.1 R(UE) 2016/279. RGPD\nR(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).\n\nReferencias\n\nRGPD en EUR-Lex\nhttps://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -696,7 +696,7 @@
     "href": "02-analisis/regulaciones.html#marco-normativo-español",
     "title": "12  Marco normativo",
     "section": "12.2 Marco normativo español",
-    "text": "12.2 Marco normativo español\n\n12.2.1 L 9/2017. CSP\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nhttps://www.boe.es/buscar/act.php?id=BOE-A-2017-12902\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.2.2 LO 3/2018. LOPDGDD\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPDGDD) complementa el RGPD.\nhttps://www.boe.es/buscar/act.php?id=BOE-A-2018-16673",
+    "text": "12.2 Marco normativo español\n\n12.2.1 L 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\nReferencias:\n\nL 19/2013 en BOE\n\n\n\n\n12.2.2 L 9/2017. CSP\n\nReferencias\n\nhttps://www.boe.es/eli/es/l/2017/11/08/9/con\n\n\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.2.3 LO 3/2018 (LPD-GDD)\n\nReferencias\n\nhttps://www.boe.es/eli/es/lo/2018/12/05/3/con\n\n\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -729,7 +729,7 @@
     "href": "02-analisis/estrategias.html#estrategias-europeas",
     "title": "13  Estrategias",
     "section": "13.2 Estrategias europeas",
-    "text": "13.2 Estrategias europeas\n\n13.2.1 Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.\nInicialmente fue la Segunda Agenda Digital. La Brújula Digital 2030 se enmarca dentro de la Década Digital.\n\n\n13.2.2 Estrategia Europea del Dato",
+    "text": "13.2 Estrategias europeas\n\n13.2.1 Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:\n\nLa Primera Agenda Digital de Europa (2010-2020)\nLa Segunda Agenda Digital de Europa (2020-2030)\n\nLa Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea se centra en cuatro áreas clave:\nLa Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.\nEn 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:\n\nCompetencias\nEmpresas\nInfraestructura\nServicios públicos\n\n\n\n13.2.2 Estrategia Europea del Dato",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Estrategias</span>"
@@ -762,7 +762,7 @@
     "href": "02-analisis/iniciativas.html#iniciativas-españolas",
     "title": "14  Iniciativas",
     "section": "",
-    "text": "14.1.1 CTT (Centro de Transferencia de Tecnología)\n\nReferencias\n\nRepositorio forja-CTT en GitHub\n\n\n\nEl Centro de Transferencia de Tecnología (CTT) es un portal web que tiene como objetivo favorecer la reutilización de soluciones tecnológicas a lo largo.\nEs gestionado por la AEAD.\nContiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de soluciones}, que es un catálogo de soluciones tecnológicas reutilizables en las AAPP.\nEl repositorio forja-CTT de GitHub alberga proyectos de código abierto de las AAPP.\n\n\n14.1.2 CCN-STIC\n\nReferencias\n\nhttps://runmodule.com/2026/06/09/ccn-cert/",
+    "text": "14.1.1 CTT (Centro de Transferencia de Tecnología)\n\nReferencias\n\nRepositorio forja-CTT en GitHub\n\n\n\nEl Centro de Transferencia de Tecnología (CTT) es un portal web que tiene como objetivo favorecer la reutilización de soluciones tecnológicas a lo largo.\nEs gestionado por la AEAD.\nContiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de soluciones}, que es un catálogo de soluciones tecnológicas reutilizables en las AAPP.\nEl repositorio forja-CTT de GitHub alberga proyectos de código abierto de las AAPP.\n\n\n14.1.2 Guías CCN-STIC\n\nReferencias\n\nhttps://runmodule.com/2026/06/09/ccn-cert/\n\n\nLa serie 800 de las guías CCN-STIC está relacionada con ciberseguridad.\n\nCCN-STIC-802. Auditoría del ENS.\nCCN-STIC-803. Valoración de Sistemas en el ENS.\nCCN-STIC-817. Gestión de Incidentes de Seguridad en el ENS.\nCCN-STIC-824. Informe nacional del estado de seguridad de los sistemas TIC.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Iniciativas</span>"
@@ -839,7 +839,7 @@
     "href": "02-analisis/transversales.html#administración-digital",
     "title": "16  Temáticas transversales",
     "section": "16.3 Administración digital",
-    "text": "16.3 Administración digital\n\nIniciativas\n\nCTT",
+    "text": "16.3 Administración digital\n\nRegulaciones\n\nUE\n\nR (UE) 2021/694. Programa Europa Digital.\n\n\nIniciativas\n\nCTT",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -872,7 +872,7 @@
     "href": "02-analisis/transversales.html#transparencia",
     "title": "16  Temáticas transversales",
     "section": "16.6 Transparencia",
-    "text": "16.6 Transparencia\n\nRegulaciones\n\nES\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno.",
+    "text": "16.6 Transparencia\n\nRegulaciones\n\nES\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -894,7 +894,7 @@
     "href": "02-analisis/transversales.html#protección-de-datos",
     "title": "16  Temáticas transversales",
     "section": "16.8 Protección de datos",
-    "text": "16.8 Protección de datos\n\nOrganismos\n\nAgencia Española de Protección de Datos (AEPD)\n\nRegulaciones\n\nUE\n\nR(UE) 2016/279. Reglamento General de Protección de Datos (RGPD)\n\nES\n\nLO 3/2018. LOPDGDD\n\n\nTemas\n\n\nAdaptación LOPD",
+    "text": "16.8 Protección de datos\n\nOrganismos\n\nAgencia Española de Protección de Datos (AEPD)\n\nRegulaciones\n\nUE\n\nR(UE) 2016/679. RGPD\n\nES\n\nLO 3/2018. LOPD-GDD\n\n\nTemas\n\n\nAdaptación LOPD\n\n\nReferencias\nhttps://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
