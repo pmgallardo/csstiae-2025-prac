@@ -35,6 +35,18 @@ R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 - Referencias
     - [R(UE) 2021/694 en EUR-Lex](http://data.europa.eu/eli/reg/2021/694/oj){target="_blank"}
 
+### R(UE) 2022/868. Ley de Gobernanza de Datos {#CELEX:32022R0868}
+
+- Referencias
+  - [R(UE) 2022/868 en EUR-Lex](http://data.europa.eu/eli/reg/2022/868/oj?locale=es){target="_blank"}
+
+### R(UE) 2023/2854. Ley de Datos {#CELEX:32023R2854}
+
+- Referencias
+  - [R(UE) 2023/2854 en EUR-Lex](http://data.europa.eu/eli/reg/2023/2854/oj?locale=es){target="_blank"}
+
+Ley de Datos (*Data Act*), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.
+
 ### R(UE) 2024/1689. Ley de Inteligencia Artificial {#CELEX:32024R1689}
 
 Referencias

@@ -65,7 +65,7 @@ En 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital
 
 El Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.
 
-### Estrategia Europea del Dato
+### Estrategia Europea del Dato {#Estrategia-Europea-del-Dato}
 
 ## Estrategias españolas
 

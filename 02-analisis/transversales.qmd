@@ -86,7 +86,7 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 - Temas
   - 82. Adaptación LOPD
 - Referencias
- - <https://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/>
+  - <https://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/>
 
 ## Seguridad de la información
 
@@ -121,11 +121,11 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 
 - Regulaciones
   - UE
-    - R UE 2022/868. Ley de Gobernanza de Datos 
-    - R UE 2023/2854. Ley de Datos (*Data Act*).
+    - R(UE) 2022/868. Ley de Gobernanza de Datos{regulaciones.qmd#CELEX:32022R0868}
+    - R(UE) 2023/2854. Ley de Datos (*Data Act*){regulaciones.qmd#CELEX:32023R2854}
 - Estrategias
   - UE
-    - Estrategia Europea del Dato
+    - Estrategia Europea del Dato {estrategias.qmd#Estrategia-Europea-del-Dato}
 
 \
 La Ley de Gobernanza de Datos (*Data Governance Act*, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el "altruismo de datos" (donar datos para el bien común).
