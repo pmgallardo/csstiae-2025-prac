@@ -168,7 +168,7 @@
     "href": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
     "section": "2.9 Accesibilidad (supuesto práctico)",
-    "text": "2.9 Accesibilidad (supuesto práctico)\n\nGuías\n\nWCAG\n\nEstándares\n\nEN 301 549\n\nTemas\n\n\nAccesibilidad y usabilidad\n\n\nReferencias\n\nhttps://runmodule.com/2025/09/25/web-accessibility/",
+    "text": "2.9 Accesibilidad (supuesto práctico)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\n📐 Estándares:\n\nEN 301 549\n\n📖 Guías:\n\nWCAG\n\n🎯 Temas:\n\n\nAccesibilidad y usabilidad\n\n\nDiscapacidad\n\n\n🔗 Referencias de consulta:\n\nWeb Accessibility (RunModule, 2025)",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -465,7 +465,18 @@
     "href": "01-supuesto/modelado.html#arquitecturas-de-sistemas",
     "title": "5  Modelado",
     "section": "5.2 Arquitecturas de sistemas",
-    "text": "5.2 Arquitecturas de sistemas\n\n5.2.1 Arquitectura conceptual\n\n\n5.2.2 Arquitectura lógica\n\n\n5.2.3 Arquitectura física",
+    "text": "5.2 Arquitecturas de sistemas\n\n5.2.1 Dominios/subdominios funcionales\nLa identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.\nPreguntado en: - Conv. 2023.\n\n\n5.2.2 Arquitectura conceptual\nEn la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.\n\n\n5.2.3 Arquitectura de sistemas\nLa arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel sobre la interacción de distintos sistemas.\n\n\n5.2.4 Arquitectura lógica\n\n\n\n\n\n\nNota📝 Apariciones en examen\n\n\n\nConvocatorias: 2023.\n\n\nLa arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas cpas que posee el sistema.\nEjemplos de modelos de arquitectura de sistemas:\n\nModelo-vista-controlador (MVC)\nMicroservicios\n\n\n5.2.4.1 MVC\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/mvc-architecture/\n\n\nEn el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.\nSe suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.\nPropuesta de niveles principales:\n\nPresentación\nLógica de negocio\nAcceso a datos y servicios\n\n\n\n5.2.4.2 Microservicios\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/microservices/\n\n\nEn microservicios se suele pintar un API gateway al inicio de la lógica de negocio.\nEl API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.\nUna aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.\nHabitualmente en sector público se usa la integración de lado de servidor (server-side integration). Esto se hace a través de un front-end UI composer.\nDe manera transversal:\n\nAdministración\nSeguridad\nMonitorización\n\nSe puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).\n\n\n\n5.2.5 Arquitectura física\n\nReferencias\n\nhttps://runmodule.com/2027/03/30/network-architecture/\n\n\nLa arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.\nElementos que deben considerarse en la arquitectura física:\n\nServidores\nBalanceadores de carga\nCortafuegos\nRedes de área local (LAN)\nProxy\nProxy inverso\nBases de datos\n\nLos servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.\nEl sistema debe conectarse a la red SARA a través del cortafuegos interno de la red petrimetral (o zona desmilitarizada).\nPara acceder a la red sTesta se puee conectar directamente a través de la red SARA.\nPara las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.\nSe suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (columna ancha), cuando se busca flexibilidad estructural respecto a tablas (documental, grafal) o se requiere simplicidad y rapidez (Redis).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/modelado.html#arquitectura-de-comunicaciones",
+    "href": "01-supuesto/modelado.html#arquitectura-de-comunicaciones",
+    "title": "5  Modelado",
+    "section": "5.3 Arquitectura de comunicaciones",
+    "text": "5.3 Arquitectura de comunicaciones",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
@@ -485,23 +496,45 @@
   {
     "objectID": "01-supuesto/estimacion.html",
     "href": "01-supuesto/estimacion.html",
-    "title": "7  Estimaciones",
+    "title": "7  Estimaciones de recursos",
     "section": "",
-    "text": "7.1 UCP\nEste capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.\nUser Case Points (UCP)",
+    "text": "7.1 COSMIC-FSM\nEn caso de que el enunciado del ejercicio incluya un importe de presupuesto, el coste total del proyecto debe aproximarse lo más posible al indicado.\nLos costes de un proyecto vienen definidos principalmente por:\nLas tarifas de personal no las he encontrado como estándares.\nNo obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:\no en el Anexo IX de este otro contrato de la Comunidad de Madrid.\nMemoria económica del expediente 300/ 2021/00023 del Ayto de Madrid\nServicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid\nSe realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.\nEste capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.\nLas técnicas aquí reflejadas son las reseñadas en el temario ofrecido por Astic.\nhttps://runmodule.com/2027/04/27/cosmic-functional-size-measurement/",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/estimacion.html#cosmic-fsm",
-    "href": "01-supuesto/estimacion.html#cosmic-fsm",
-    "title": "7  Estimaciones",
-    "section": "7.2 COSMIC-FSM",
-    "text": "7.2 COSMIC-FSM\nhttps://runmodule.com/2027/04/27/cosmic-functional-size-measurement/",
+    "objectID": "01-supuesto/estimacion.html#ucp",
+    "href": "01-supuesto/estimacion.html#ucp",
+    "title": "7  Estimaciones de recursos",
+    "section": "7.2 UCP",
+    "text": "7.2 UCP\nUser Case Points (UCP)",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/estimacion.html#enfoque-cocomo",
+    "href": "01-supuesto/estimacion.html#enfoque-cocomo",
+    "title": "7  Estimaciones de recursos",
+    "section": "7.3 Enfoque COCOMO",
+    "text": "7.3 Enfoque COCOMO",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/estimacion.html#métricas-bang",
+    "href": "01-supuesto/estimacion.html#métricas-bang",
+    "title": "7  Estimaciones de recursos",
+    "section": "7.4 Métricas Bang",
+    "text": "7.4 Métricas Bang",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
     ]
   },
   {
@@ -729,7 +762,7 @@
     "href": "02-analisis/estrategias.html#estrategias-internacionales",
     "title": "13  Estrategias",
     "section": "",
-    "text": "13.1.1 Agenda 2030\n\nReferencias\n\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\n\n\n\nEstá compuesta por 5 dimensiones (5 P’s):\n\nPersonas\nPlaneta\nProsperidad\nPaz\nAlianzas (partnerships)\n\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:\n\nFin de la pobreza\nHambre cero\nSalud y bienestar\nEducación de calidad\nIgualdad de género\nAgua limpia y saneamiento\nEnergía asequible y no contaminante\nTrabajo decente y crecimiento económico\nIndustria, innovación e infraestructura\nReducción de las desigualdades\nCiudades y comunidades sostenibles\nProducción y consumo responsables\nAcción por el clima\nVida submarina\nVida de ecosistemas terrestres\nPaz, justicia e instituciones solidarias\nAlianzas para lograr los objetivos\n\n\n\n\nObjetivos de desarrollo sostenible",
+    "text": "13.1.1 Agenda 2030\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/\n\n\n\n\nEstá compuesta por 5 dimensiones (5 P’s):\n\nPersonas\nPlaneta\nProsperidad\nPaz\nAlianzas (partnerships)\n\nEstá compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:\n\nFin de la pobreza\nHambre cero\nSalud y bienestar\nEducación de calidad\nIgualdad de género\nAgua limpia y saneamiento\nEnergía asequible y no contaminante\nTrabajo decente y crecimiento económico\nIndustria, innovación e infraestructura\nReducción de las desigualdades\nCiudades y comunidades sostenibles\nProducción y consumo responsables\nAcción por el clima\nVida submarina\nVida de ecosistemas terrestres\nPaz, justicia e instituciones solidarias\nAlianzas para lograr los objetivos\n\n\n\n\nObjetivos de desarrollo sostenible",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Estrategias</span>"
@@ -740,7 +773,7 @@
     "href": "02-analisis/estrategias.html#estrategias-europeas",
     "title": "13  Estrategias",
     "section": "13.2 Estrategias europeas",
-    "text": "13.2 Estrategias europeas\n\n13.2.1 Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:\n\nLa Primera Agenda Digital de Europa (2010-2020)\nLa Segunda Agenda Digital de Europa (2020-2030)\n\nLa Segunda Agenda Digital de Europa fue elaborada por la Comisión Europea.\nLa Década Digital de la UE es un marco de programa, objetivos, proyectos y principios.\nEn 2021 se introdujo la Brújula Digital, enmarcada dentro de la Década Digital, con cuatro objetivos para 2030:\n\nCompetencias: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.\nEmpresas: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.\nInfraestructura: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.\nServicios públicos: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.\n\nEl Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.\n\n\n13.2.2 Estrategia Europea del Dato",
+    "text": "13.2 Estrategias europeas\n\n13.2.1 Segunda Agenda Digital / Década Digital de Europa\n\nReferencias\n\nLa Década Digital de Europa\nhttps://runmodule.com/2027/03/10/second-digital-agenda-for-europe/\n\n\n\nLa Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:\n\nLa Primera Agenda Digital de Europa (2010-2020)\nLa Segunda Agenda Digital de Europa (2020-2030)\n\nLa Segunda Agenda Digital de Europa es una estrategia política macro para adaptar a Europa a la era digital, elaborada por la Comisión Europea.\nLa Década Digital de la UE, también llamado Década Digital 2030, es un programa político operativo dentro de la Segunda Agenda Digital de Europa que incluye marco de programa, objetivos, proyectos y principios para coordinar el desarrollo digital de la UE.\nLa Brújula Digital 2030 es una herramienta métrica, creada en 2021 y enmarcada dentro de la Década Digital, define objetivos mediables para 2030 categorizados por cuatro puntos cardinales:\n\nCompetencias: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.\nEmpresas: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.\nInfraestructura: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.\nServicios públicos: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.\n\nEl Índice de la Economía y la Sociedad Digitales (DESI) se emplea para medir si se han obtenido los objetivos de la Década Digital de Europa.\nEl Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.\n\n\n13.2.2 Estrategia Europea del Dato",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>13</span>  <span class='chapter-title'>Estrategias</span>"
@@ -817,18 +850,18 @@
     "href": "02-analisis/transversales.html",
     "title": "16  Temáticas transversales",
     "section": "",
-    "text": "16.1 Relación con las AAPP\nEn esta entra se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.",
+    "text": "16.1 Relaciones con las AAPP\nEn esta entra se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
     ]
   },
   {
-    "objectID": "02-analisis/transversales.html#relación-con-las-aapp",
-    "href": "02-analisis/transversales.html#relación-con-las-aapp",
+    "objectID": "02-analisis/transversales.html#relaciones-con-las-aapp",
+    "href": "02-analisis/transversales.html#relaciones-con-las-aapp",
     "title": "16  Temáticas transversales",
     "section": "",
-    "text": "Regulaciones\n\nES\n\nL 39/2015. Procedimiento Administrativo Común AAPP (PACAP).\nRD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.\nL 29/1999. Contencioso-administrativo.",
+    "text": "Nota📋 Marco de referencia\n\n\n\n\nRegulaciones:\n\nES:\n\nL 39/2015. Procedimiento Administrativo Común AAPP (PACAP).\nRD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.\nL 29/1999. Contencioso-administrativo.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -839,7 +872,7 @@
     "href": "02-analisis/transversales.html#funcionamiento-de-las-aapp",
     "title": "16  Temáticas transversales",
     "section": "16.2 Funcionamiento de las AAPP",
-    "text": "16.2 Funcionamiento de las AAPP\n\nRegulaciones\n\nES\n\nL 40/2015. Régimen Jurídico del Sector Público (RJSP).\n\n\nTemas\n\n\nRégimen jurídico de las AAPP. Procedimiento administrativo",
+    "text": "16.2 Funcionamiento de las AAPP\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE:\n\nCE art. 103.1 (principios de buena administración)\n\nRegulaciones\n\nES:\n\nL 40/2015. Régimen Jurídico del Sector Público (RJSP).\n\n\nTemas:\n\n\nRégimen jurídico de las AAPP. Procedimiento administrativo\n\n\n\n\n\nEl art. 103.1 de la Constitución menciona los principios de buena administración:\n\nLa Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.\n\nLa descentralización se refiere a la delegación de competencias entre distintas personas jurídicas (agencias, comunidades autónomas, etc.), mientras que la desconcentración se refiere a la delegación de competencias dentro de una misma persona jurídica.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -850,7 +883,7 @@
     "href": "02-analisis/transversales.html#administración-digital",
     "title": "16  Temáticas transversales",
     "section": "16.3 Administración digital",
-    "text": "16.3 Administración digital\n\nRegulaciones\n\nUE\n\nR (UE) 2021/694. Programa Europa Digital.\n\n\nIniciativas\n\nCTT",
+    "text": "16.3 Administración digital\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nRegulaciones:\n\nUE\n\nR (UE) 2021/694. Programa Europa Digital.\n\n\nIniciativas:\n\nCTT (Centro de Transferencia de Tecnología)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -883,7 +916,7 @@
     "href": "02-analisis/transversales.html#transparencia",
     "title": "16  Temáticas transversales",
     "section": "16.6 Transparencia",
-    "text": "16.6 Transparencia\n\nRegulaciones\n\nES\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno",
+    "text": "16.6 Transparencia\n\nCE\n\nArt. 105. Derecho a la información y transparencia\nArt. 23. Participación ciudadana\n\nRegulaciones\n\nES\n\nL 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\n\n\nArt. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -1004,18 +1037,18 @@
     "href": "02-analisis/especificas.html#seguridad-social",
     "title": "17  Temáticas específicas",
     "section": "17.3 Seguridad Social",
-    "text": "17.3 Seguridad Social",
+    "text": "17.3 Seguridad Social\n\nCE\n\nArt. 41. Seguridad Social\n\n\nEl art. 41 de la Constitución establece que:\n\nLos poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
     ]
   },
   {
-    "objectID": "02-analisis/especificas.html#atención-al-usuario",
-    "href": "02-analisis/especificas.html#atención-al-usuario",
+    "objectID": "02-analisis/especificas.html#pensiones",
+    "href": "02-analisis/especificas.html#pensiones",
     "title": "17  Temáticas específicas",
-    "section": "17.4 Atención al usuario",
-    "text": "17.4 Atención al usuario",
+    "section": "17.4 Pensiones",
+    "text": "17.4 Pensiones\n\nCE\n\nArt. 50. Protección de la tercera edad\n\n\nEl art. 50 de la Constitución establece que:\n\nLos poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1033,11 +1066,22 @@
     ]
   },
   {
+    "objectID": "02-analisis/especificas.html#atención-al-usuario",
+    "href": "02-analisis/especificas.html#atención-al-usuario",
+    "title": "17  Temáticas específicas",
+    "section": "17.6 Atención al usuario",
+    "text": "17.6 Atención al usuario\n\nCE\n\nArt. 51\nArt. 105\n\nRegulación\n\nL 39/2015. PACAP\n\n\nArt. 51 CE (Defensa de los consumidores):\n51.1: Garantiza la defensa de los consumidores y usuarios, protegiendo su seguridad, salud y legítimos intereses económicos.\n\n51.2: Obliga a los poderes públicos a promover la información y la educación de los consumidores y usuarios, así como a fomentar sus organizaciones.\nArt. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
     "objectID": "02-analisis/especificas.html#presupuestación-análisis-pormenorizado",
     "href": "02-analisis/especificas.html#presupuestación-análisis-pormenorizado",
     "title": "17  Temáticas específicas",
-    "section": "17.6 Presupuestación (análisis pormenorizado)",
-    "text": "17.6 Presupuestación (análisis pormenorizado)\n\nCE\n\nArt. 134. Presupuestos Generales del Estado\nArt. 135. Estabilidad y sostenibilidad\n\nMarco normativo\n\nUE\n\nSEC 2010 (Sistema Europeo de Cuentas)\n\nES\n\nL 47/2003. General Presupuestaria (LGP)\nLO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)\n\n\nTemas\n\n\nLos presupuestos generales del Estado\n\n\n\n\nEl art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.\nEl art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.\nLey Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF): Desarrolla el Art. 135 de la CE. Es la norma transversales aplicable al Estado, Comunidades Autónomas (CCAA) y Entidades Locales (EELL). Consolida los principios de eficiencia en la asignación de recursos, transparencia, plurianualidad y la regla de gasto.\nB. Sector Público Estatal\nLey 47/2003, General Presupuestaria (LGP): Es el «código contable y presupuestario» del Estado. Regula con detalle las fases del presupuesto (elaboración, gestión, modificación, liquidación) y la contabilidad pública de la Administración General del Estado y sus organismos vinculados.",
+    "section": "17.7 Presupuestación (análisis pormenorizado)",
+    "text": "17.7 Presupuestación (análisis pormenorizado)\n\nCE\n\nArt. 134. Presupuestos Generales del Estado\nArt. 135. Estabilidad y sostenibilidad\n\nMarco normativo\n\nUE\n\nSEC 2010 (Sistema Europeo de Cuentas)\n\nES\n\nL 47/2003. General Presupuestaria (LGP)\nLO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)\n\n\nTemas\n\n\nLos presupuestos generales del Estado\n\n\n\n\nEl art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.\nEl art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.\nLey Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF): Desarrolla el Art. 135 de la CE. Es la norma transversales aplicable al Estado, Comunidades Autónomas (CCAA) y Entidades Locales (EELL). Consolida los principios de eficiencia en la asignación de recursos, transparencia, plurianualidad y la regla de gasto.\nB. Sector Público Estatal\nLey 47/2003, General Presupuestaria (LGP): Es el «código contable y presupuestario» del Estado. Regula con detalle las fases del presupuesto (elaboración, gestión, modificación, liquidación) y la contabilidad pública de la Administración General del Estado y sus organismos vinculados.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1047,8 +1091,8 @@
     "objectID": "02-analisis/especificas.html#casa-real",
     "href": "02-analisis/especificas.html#casa-real",
     "title": "17  Temáticas específicas",
-    "section": "17.7 Casa Real",
-    "text": "17.7 Casa Real\n\nConstitución 1976\n\nArt. 1 “La forma política del Estado español es la Monarquía parlamentaria”\nTítulo II “De la Corona” (arts. 56-65)",
+    "section": "17.8 Casa Real",
+    "text": "17.8 Casa Real\n\nConstitución 1976\n\nArt. 1 “La forma política del Estado español es la Monarquía parlamentaria”\nTítulo II “De la Corona” (arts. 56-65)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1058,8 +1102,8 @@
     "objectID": "02-analisis/especificas.html#industria",
     "href": "02-analisis/especificas.html#industria",
     "title": "17  Temáticas específicas",
-    "section": "17.8 Industria",
-    "text": "17.8 Industria\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "section": "17.9 Industria",
+    "text": "17.9 Industria\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1069,8 +1113,8 @@
     "objectID": "02-analisis/especificas.html#comercio",
     "href": "02-analisis/especificas.html#comercio",
     "title": "17  Temáticas específicas",
-    "section": "17.9 Comercio",
-    "text": "17.9 Comercio\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "section": "17.10 Comercio",
+    "text": "17.10 Comercio\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1080,8 +1124,8 @@
     "objectID": "02-analisis/especificas.html#españoles-en-el-extranjero",
     "href": "02-analisis/especificas.html#españoles-en-el-extranjero",
     "title": "17  Temáticas específicas",
-    "section": "17.10 Españoles en el extranjero",
-    "text": "17.10 Españoles en el extranjero\n\nCE\n\nCE, art. 19 (libertad de residencia y circulación)",
+    "section": "17.11 Españoles en el extranjero",
+    "text": "17.11 Españoles en el extranjero\n\nCE\n\nCE, art. 19 (libertad de residencia y circulación)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1091,8 +1135,8 @@
     "objectID": "02-analisis/especificas.html#turismo",
     "href": "02-analisis/especificas.html#turismo",
     "title": "17  Temáticas específicas",
-    "section": "17.11 Turismo",
-    "text": "17.11 Turismo\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "section": "17.12 Turismo",
+    "text": "17.12 Turismo\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1102,8 +1146,8 @@
     "objectID": "02-analisis/especificas.html#demografía",
     "href": "02-analisis/especificas.html#demografía",
     "title": "17  Temáticas específicas",
-    "section": "17.12 Demografía",
-    "text": "17.12 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\nEstadísticas\n\nEstadística Continua de Población (ECP)\nCenso Anual de Población (CAP)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
+    "section": "17.13 Demografía",
+    "text": "17.13 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\nEstadísticas\n\nEstadística Continua de Población (ECP)\nCenso Anual de Población (CAP)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1113,8 +1157,19 @@
     "objectID": "02-analisis/especificas.html#empleo",
     "href": "02-analisis/especificas.html#empleo",
     "title": "17  Temáticas específicas",
-    "section": "17.13 Empleo",
-    "text": "17.13 Empleo\n\nTemas\n\n\nEl mercado de trabajo\n\n\nTIC, economía y mercado de trabajo\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”\n\nIndicadores\n\nEPA (Encuesta de Población Activa)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nValor aprox.\nValor\nFuente\n\n\n\n\nTasa de paro\n&lt;10%\n9,87%\nEPA",
+    "section": "17.14 Empleo",
+    "text": "17.14 Empleo\n\nTemas\n\n\nEl mercado de trabajo\n\n\nTIC, economía y mercado de trabajo\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”\n\nIndicadores\n\nEPA (Encuesta de Población Activa)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nValor aprox.\nValor\nFuente\n\n\n\n\nTasa de paro\n&lt;10%\n9,87%\nEPA",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/especificas.html#función-pública",
+    "href": "02-analisis/especificas.html#función-pública",
+    "title": "17  Temáticas específicas",
+    "section": "17.15 Función pública",
+    "text": "17.15 Función pública\n\nCE\n\nArt. 103.3. Funcionarios públicos\n\n\nEl art. 103 de la Constitución incluye el siguiente apartado sobre el empleo público:\n\nLa ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1124,8 +1179,8 @@
     "objectID": "02-analisis/especificas.html#igualdad",
     "href": "02-analisis/especificas.html#igualdad",
     "title": "17  Temáticas específicas",
-    "section": "17.14 Igualdad",
-    "text": "17.14 Igualdad\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nODS\n\nObjetivo 5 “Igualdad de género”",
+    "section": "17.16 Igualdad",
+    "text": "17.16 Igualdad\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nODS\n\nObjetivo 5 “Igualdad de género”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1135,8 +1190,8 @@
     "objectID": "02-analisis/especificas.html#violencia-de-género",
     "href": "02-analisis/especificas.html#violencia-de-género",
     "title": "17  Temáticas específicas",
-    "section": "17.15 Violencia de género",
-    "text": "17.15 Violencia de género\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nIndicadores\n\nEVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)",
+    "section": "17.17 Violencia de género",
+    "text": "17.17 Violencia de género\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nIndicadores\n\nEVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1146,8 +1201,8 @@
     "objectID": "02-analisis/especificas.html#educación",
     "href": "02-analisis/especificas.html#educación",
     "title": "17  Temáticas específicas",
-    "section": "17.16 Educación",
-    "text": "17.16 Educación\n\nODS\n\nObjetivo 4 “Educación de calidad”",
+    "section": "17.18 Educación",
+    "text": "17.18 Educación\n\nODS\n\nObjetivo 4 “Educación de calidad”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1157,8 +1212,8 @@
     "objectID": "02-analisis/especificas.html#subvenciones",
     "href": "02-analisis/especificas.html#subvenciones",
     "title": "17  Temáticas específicas",
-    "section": "17.17 Subvenciones",
-    "text": "17.17 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "section": "17.19 Subvenciones",
+    "text": "17.19 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1168,8 +1223,8 @@
     "objectID": "02-analisis/especificas.html#cnmc",
     "href": "02-analisis/especificas.html#cnmc",
     "title": "17  Temáticas específicas",
-    "section": "17.18 CNMC",
-    "text": "17.18 CNMC",
+    "section": "17.20 CNMC",
+    "text": "17.20 CNMC",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"

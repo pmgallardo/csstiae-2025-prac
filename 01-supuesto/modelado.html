@@ -183,7 +183,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../01-supuesto/estimacion.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Estimaciones</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Estimaciones de recursos</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -314,10 +314,13 @@ ul.task-list li input[type="checkbox"] {
   </ul></li>
   <li><a href="#arquitecturas-de-sistemas" id="toc-arquitecturas-de-sistemas" class="nav-link" data-scroll-target="#arquitecturas-de-sistemas"><span class="header-section-number">5.2</span> Arquitecturas de sistemas</a>
   <ul class="collapse">
-  <li><a href="#arquitectura-conceptual" id="toc-arquitectura-conceptual" class="nav-link" data-scroll-target="#arquitectura-conceptual"><span class="header-section-number">5.2.1</span> Arquitectura conceptual</a></li>
-  <li><a href="#arquitectura-lógica" id="toc-arquitectura-lógica" class="nav-link" data-scroll-target="#arquitectura-lógica"><span class="header-section-number">5.2.2</span> Arquitectura lógica</a></li>
-  <li><a href="#arquitectura-física" id="toc-arquitectura-física" class="nav-link" data-scroll-target="#arquitectura-física"><span class="header-section-number">5.2.3</span> Arquitectura física</a></li>
+  <li><a href="#dominiossubdominios-funcionales" id="toc-dominiossubdominios-funcionales" class="nav-link" data-scroll-target="#dominiossubdominios-funcionales"><span class="header-section-number">5.2.1</span> Dominios/subdominios funcionales</a></li>
+  <li><a href="#arquitectura-conceptual" id="toc-arquitectura-conceptual" class="nav-link" data-scroll-target="#arquitectura-conceptual"><span class="header-section-number">5.2.2</span> Arquitectura conceptual</a></li>
+  <li><a href="#arquitectura-de-sistemas" id="toc-arquitectura-de-sistemas" class="nav-link" data-scroll-target="#arquitectura-de-sistemas"><span class="header-section-number">5.2.3</span> Arquitectura de sistemas</a></li>
+  <li><a href="#arquitectura-lógica" id="toc-arquitectura-lógica" class="nav-link" data-scroll-target="#arquitectura-lógica"><span class="header-section-number">5.2.4</span> Arquitectura lógica</a></li>
+  <li><a href="#arquitectura-física" id="toc-arquitectura-física" class="nav-link" data-scroll-target="#arquitectura-física"><span class="header-section-number">5.2.5</span> Arquitectura física</a></li>
   </ul></li>
+  <li><a href="#arquitectura-de-comunicaciones" id="toc-arquitectura-de-comunicaciones" class="nav-link" data-scroll-target="#arquitectura-de-comunicaciones"><span class="header-section-number">5.3</span> Arquitectura de comunicaciones</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/edit/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi bi-github"></i>Editar esta página</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li><li><a href="https://github.com/pmgallardo/csstiae-2025-prac/blob/main/01-supuesto/modelado.qmd" class="toc-action"><i class="bi empty"></i>Ver el código</a></li></ul></div></nav>
     </div>
@@ -444,17 +447,108 @@ El diagrama de despliegue pertenece a la familia de diagramas UML.</p>
 </section>
 <section id="arquitecturas-de-sistemas" class="level2" data-number="5.2">
 <h2 data-number="5.2" class="anchored" data-anchor-id="arquitecturas-de-sistemas"><span class="header-section-number">5.2</span> Arquitecturas de sistemas</h2>
-<section id="arquitectura-conceptual" class="level3" data-number="5.2.1">
-<h3 data-number="5.2.1" class="anchored" data-anchor-id="arquitectura-conceptual"><span class="header-section-number">5.2.1</span> Arquitectura conceptual</h3>
+<section id="dominiossubdominios-funcionales" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="dominiossubdominios-funcionales"><span class="header-section-number">5.2.1</span> Dominios/subdominios funcionales</h3>
+<p>La identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.</p>
+<p>Preguntado en: - Conv. 2023.</p>
 </section>
-<section id="arquitectura-lógica" class="level3" data-number="5.2.2">
-<h3 data-number="5.2.2" class="anchored" data-anchor-id="arquitectura-lógica"><span class="header-section-number">5.2.2</span> Arquitectura lógica</h3>
+<section id="arquitectura-conceptual" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="arquitectura-conceptual"><span class="header-section-number">5.2.2</span> Arquitectura conceptual</h3>
+<p>En la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.</p>
 </section>
-<section id="arquitectura-física" class="level3" data-number="5.2.3">
-<h3 data-number="5.2.3" class="anchored" data-anchor-id="arquitectura-física"><span class="header-section-number">5.2.3</span> Arquitectura física</h3>
+<section id="arquitectura-de-sistemas" class="level3" data-number="5.2.3">
+<h3 data-number="5.2.3" class="anchored" data-anchor-id="arquitectura-de-sistemas"><span class="header-section-number">5.2.3</span> Arquitectura de sistemas</h3>
+<p>La arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel sobre la interacción de distintos sistemas.</p>
+</section>
+<section id="arquitectura-lógica" class="level3" data-number="5.2.4">
+<h3 data-number="5.2.4" class="anchored" data-anchor-id="arquitectura-lógica"><span class="header-section-number">5.2.4</span> Arquitectura lógica</h3>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>📝 Apariciones en examen
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Convocatorias: 2023.</p>
+</div>
+</div>
+<p>La arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas cpas que posee el sistema.</p>
+<p>Ejemplos de modelos de arquitectura de sistemas:</p>
+<ul>
+<li>Modelo-vista-controlador (MVC)</li>
+<li>Microservicios</li>
+</ul>
+<section id="mvc" class="level4" data-number="5.2.4.1">
+<h4 data-number="5.2.4.1" class="anchored" data-anchor-id="mvc"><span class="header-section-number">5.2.4.1</span> MVC</h4>
+<ul>
+<li>Referencias
+<ul>
+<li><a href="https://runmodule.com/2024/12/03/mvc-architecture/" class="uri">https://runmodule.com/2024/12/03/mvc-architecture/</a></li>
+</ul></li>
+</ul>
+<p>En el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.</p>
+<p>Se suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.</p>
+<p>Propuesta de niveles principales:</p>
+<ul>
+<li>Presentación</li>
+<li>Lógica de negocio</li>
+<li>Acceso a datos y servicios</li>
+</ul>
+</section>
+<section id="microservicios" class="level4" data-number="5.2.4.2">
+<h4 data-number="5.2.4.2" class="anchored" data-anchor-id="microservicios"><span class="header-section-number">5.2.4.2</span> Microservicios</h4>
+<ul>
+<li>Referencias
+<ul>
+<li><a href="https://runmodule.com/2024/12/03/microservices/" class="uri">https://runmodule.com/2024/12/03/microservices/</a></li>
+</ul></li>
+</ul>
+<p>En microservicios se suele pintar un API gateway al inicio de la lógica de negocio.</p>
+<p>El API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.</p>
+<p>Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.</p>
+<p>Habitualmente en sector público se usa la integración de lado de servidor (<em>server-side integration</em>). Esto se hace a través de un <em>front-end UI composer</em>.</p>
+<p>De manera transversal:</p>
+<ul>
+<li>Administración</li>
+<li>Seguridad</li>
+<li>Monitorización</li>
+</ul>
+<p>Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).</p>
+</section>
+</section>
+<section id="arquitectura-física" class="level3" data-number="5.2.5">
+<h3 data-number="5.2.5" class="anchored" data-anchor-id="arquitectura-física"><span class="header-section-number">5.2.5</span> Arquitectura física</h3>
+<ul>
+<li>Referencias
+<ul>
+<li><a href="https://runmodule.com/2027/03/30/network-architecture/" class="uri">https://runmodule.com/2027/03/30/network-architecture/</a></li>
+</ul></li>
+</ul>
+<p>La arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.</p>
+<p>Elementos que deben considerarse en la arquitectura física:</p>
+<ul>
+<li>Servidores</li>
+<li>Balanceadores de carga</li>
+<li>Cortafuegos</li>
+<li>Redes de área local (LAN)</li>
+<li>Proxy</li>
+<li>Proxy inverso</li>
+<li>Bases de datos</li>
+</ul>
+<p>Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.</p>
+<p>El sistema debe conectarse a la red SARA a través del cortafuegos interno de la red petrimetral (o zona desmilitarizada).</p>
+<p>Para acceder a la red sTesta se puee conectar directamente a través de la red SARA.</p>
+<p>Para las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.</p>
+<p>Se suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (columna ancha), cuando se busca flexibilidad estructural respecto a tablas (documental, grafal) o se requiere simplicidad y rapidez (Redis).</p>
+</section>
+</section>
+<section id="arquitectura-de-comunicaciones" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="arquitectura-de-comunicaciones"><span class="header-section-number">5.3</span> Arquitectura de comunicaciones</h2>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
