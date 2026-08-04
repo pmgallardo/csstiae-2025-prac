@@ -59,8 +59,96 @@ El diagrama de despliegue pertenece a la familia de diagramas UML.
 
 ## Arquitecturas de sistemas
 
+### Dominios/subdominios funcionales
+
+La identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.
+
+Preguntado en:
+- Conv. 2023.
+
 ### Arquitectura conceptual
+
+En la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.
+
+### Arquitectura de sistemas
+
+La arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel sobre la interacción de distintos sistemas.
 
 ### Arquitectura lógica
 
+::: {.callout-note}
+## 📝 Apariciones en examen
+Convocatorias: 2023.
+:::
+
+La arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas cpas que posee el sistema.
+
+Ejemplos de modelos de arquitectura de sistemas:
+
+- Modelo-vista-controlador (MVC)
+- Microservicios
+
+#### MVC
+
+- Referencias
+  - <https://runmodule.com/2024/12/03/mvc-architecture/>
+
+En el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.
+
+Se suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.
+
+Propuesta de niveles principales:
+
+- Presentación
+- Lógica de negocio
+- Acceso a datos y servicios
+
+#### Microservicios
+
+- Referencias
+  - <https://runmodule.com/2024/12/03/microservices/>
+
+En microservicios se suele pintar un API gateway al inicio de la lógica de negocio.
+
+El API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.
+
+Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.
+
+Habitualmente en sector público se usa la integración de lado de servidor (*server-side integration*). Esto se hace a través de un *front-end UI composer*.
+
+De manera transversal:
+
+- Administración
+- Seguridad
+- Monitorización
+
+Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).
+
 ### Arquitectura física
+
+- Referencias
+  - <https://runmodule.com/2027/03/30/network-architecture/>
+
+La arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.
+
+Elementos que deben considerarse en la arquitectura física:
+
+- Servidores
+- Balanceadores de carga
+- Cortafuegos
+- Redes de área local (LAN)
+- Proxy
+- Proxy inverso
+- Bases de datos
+
+Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.
+
+El sistema debe conectarse a la red SARA a través del cortafuegos interno de la red petrimetral (o zona desmilitarizada).
+
+Para acceder a la red sTesta se puee conectar directamente a través de la red SARA.
+
+Para las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.
+
+Se suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (columna ancha), cuando se busca flexibilidad estructural respecto a tablas (documental, grafal) o se requiere simplicidad y rapidez (Redis).
+
+## Arquitectura de comunicaciones

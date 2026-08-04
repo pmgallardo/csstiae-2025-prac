@@ -2,29 +2,48 @@
 
 En esta entra se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.
 
-## Relación con las AAPP
+## Relaciones con las AAPP
 
-- Regulaciones
-  - ES
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+
+- **Regulaciones:**
+  - ES:
     - L 39/2015. Procedimiento Administrativo Común AAPP (PACAP).
     - RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.
     - L 29/1999. Contencioso-administrativo.
+:::
 
 ## Funcionamiento de las AAPP
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+
+- CE:
+  - CE art. 103.1 (principios de buena administración)
 - Regulaciones
-  - ES
+  - ES:
     - L 40/2015. Régimen Jurídico del Sector Público (RJSP).
-- Temas
+- Temas:
   - 8. Régimen jurídico de las AAPP. Procedimiento administrativo
+:::
+
+El art. 103.1 de la Constitución menciona los principios de buena administración:
+
+> La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los **principios de eficacia, jerarquía, descentralización, desconcentración y coordinación**, con sometimiento pleno a la ley y al Derecho. 
+
+La descentralización se refiere a la delegación de competencias entre distintas personas jurídicas (agencias, comunidades autónomas, etc.), mientras que la desconcentración se refiere a la delegación de competencias dentro de una misma persona jurídica.
 
 ## Administración digital
 
-- Regulaciones
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Regulaciones:
   - UE
     - R (UE) 2021/694. Programa Europa Digital.
-- Iniciativas
-  - CTT
+- Iniciativas:
+  - CTT (Centro de Transferencia de Tecnología)
+:::
 
 ## Interoperabilidad
 
@@ -52,9 +71,14 @@ Esquema Nacional de Interoperabilidad (ENI).
 
 ## Transparencia
 
+- CE
+  - Art. 105. Derecho a la información y transparencia
+  - Art. 23. Participación ciudadana
 - Regulaciones
   - ES
     - [L 19/2013. Transparencia, acceso a la información pública y buen gobierno](regulaciones.qmd#BOE-A-2013-12887)
+
+Art. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).
 
 ## Accesibilidad (análisis pormenorizado)
 

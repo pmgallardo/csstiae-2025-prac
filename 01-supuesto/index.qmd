@@ -60,11 +60,16 @@ CCN-STIC. Aprender.
 
 ## Accesibilidad (supuesto práctico)
 
-- Guías
-  - WCAG
-- Estándares
-  - EN 301 549
-- Temas
-  - 44. Accesibilidad y usabilidad
-- Referencias
-  - <https://runmodule.com/2025/09/25/web-accessibility/>
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+
+* **📐 Estándares:**
+  * EN 301 549
+* **📖 Guías:**
+  * WCAG
+* **🎯 Temas:**
+  * 44. Accesibilidad y usabilidad
+  * 46. Discapacidad
+* **🔗 Referencias de consulta:**
+  * [Web Accessibility (RunModule, 2025)](https://runmodule.com/2025/09/25/web-accessibility/)
+:::

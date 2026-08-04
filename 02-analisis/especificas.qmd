@@ -33,9 +33,21 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 
 ## Seguridad Social
 
+- CE
+  - Art. 41. Seguridad Social
 
+El art. 41 de la Constitución establece que:
 
-## Atención al usuario
+> Los **poderes públicos mantendrán un régimen público de Seguridad Social** para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.
+
+## Pensiones
+
+- CE
+  - Art. 50. Protección de la tercera edad
+
+El art. 50 de la Constitución establece que:
+
+> Los poderes públicos garantizarán, mediante pensiones adecuadas y periódicamente actualizadas, la suficiencia económica a los ciudadanos durante la tercera edad. Asimismo, y con independencia de las obligaciones familiares, promoverán su bienestar mediante un sistema de servicios sociales que atenderán sus problemas específicos de salud, vivienda, cultura y ocio.
 
 ## Hacienda
 
@@ -43,6 +55,24 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
   - Título VII "Economía y Hacienda" (arts. 128-136)
 
 ### Recaudación
+
+## Atención al usuario
+
+- CE
+  - Art. 51
+  - Art. 105
+- Regulación
+  - L 39/2015. PACAP
+
+Art. 51 CE (Defensa de los consumidores):
+
+    51.1: Garantiza la defensa de los consumidores y usuarios, protegiendo su seguridad, salud y legítimos intereses económicos.
+
+    51.2: Obliga a los poderes públicos a promover la información y la educación de los consumidores y usuarios, así como a fomentar sus organizaciones.
+
+
+  Art. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).
+
 
 ## Presupuestación (análisis pormenorizado)
 
@@ -132,6 +162,15 @@ Estadísticas relevantes:
 | Estadística | Valor aprox. | Valor | Fuente |
 | - | - | - | - |
 | Tasa de paro | <10% | 9,87% | [EPA](https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176918&menu=ultiDatos&idp=1254735976595){target="_blank"} |
+
+## Función pública
+
+- CE
+  - Art. 103.3. Funcionarios públicos
+
+El art. 103 de la Constitución incluye el siguiente apartado sobre el empleo público:
+
+> La ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.
 
 ## Igualdad
 

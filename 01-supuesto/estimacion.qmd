@@ -1,16 +1,46 @@
-# Estimaciones
+# Estimaciones de recursos
 
-- Temas
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+
+- **🎯 Temas:**
   - 99. Estimación de recursos
-- Referencias
-  - <https://runmodule.com/2026/06/25/software-estimation/>
+- **🔗 Referencias de consulta:**
+  - [Software Estimation (RunModule, 2026)](https://runmodule.com/2026/06/25/software-estimation/)
+:::
+
+En caso de que el enunciado del ejercicio incluya un importe de presupuesto, el coste total del proyecto debe aproximarse lo más posible al indicado.
+
+Los costes de un proyecto vienen definidos principalmente por:
+
+- Personal
+- Equipos informáticos
+- Licencias de software
+
+Las tarifas de personal no las he encontrado como estándares.
+
+No obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:
+
+ o en el Anexo IX de este otro contrato de la Comunidad de Madrid.
+
+Memoria económica del expediente 300/ 2021/00023 del Ayto de Madrid
+
+Servicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid
+
+Se realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.
 
 Este capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.
+
+Las técnicas aquí reflejadas son las reseñadas en el temario ofrecido por Astic.
+
+## COSMIC-FSM
+
+<https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/>
 
 ## UCP
 
 User Case Points (UCP)
 
-## COSMIC-FSM
+## Enfoque COCOMO
 
-<https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/>
+## Métricas Bang
