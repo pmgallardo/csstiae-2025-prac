@@ -76,8 +76,11 @@ El Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un 
 
 ### Plan España Digital {#Plan-España-Digital}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - <https://runmodule.com/2027/07/27/plan-espana-digital/>{target="_blank"}
+:::
 
 ### Estrategia Nacional de Seguridad {#ENS}
 

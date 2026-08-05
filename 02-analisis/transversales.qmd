@@ -47,6 +47,8 @@ La descentralización se refiere a la delegación de competencias entre distinta
 
 ## Interoperabilidad
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - ES
     - [RD 4/2010. Esquema Nacional de Interoperabilidad](regulaciones.qmd#ens)
@@ -57,26 +59,33 @@ La descentralización se refiere a la delegación de competencias entre distinta
 - Temas
   - 45. ENI
   - 46. NTI
+:::
 
 Esquema Nacional de Interoperabilidad (ENI).
 
 ## Participación ciudadana
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - CE art. 1 (Estado social y democrático; soberanía reside en el pueblo español)
   - CE art. 9 (poderes públicos prommieven la participación de los ciudadanos en la vida política, económica, cultural y social)
   - CE art. 23 (derecho de participación)
 - Regulaciones
   - [L 19/2013. Transparencia, acceso a la información pública y buen gobierno](regulaciones.qmd#BOE-A-2013-12887)
+:::
 
 ## Transparencia
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 105. Derecho a la información y transparencia
   - Art. 23. Participación ciudadana
 - Regulaciones
   - ES
     - [L 19/2013. Transparencia, acceso a la información pública y buen gobierno](regulaciones.qmd#BOE-A-2013-12887)
+:::
 
 Art. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).
 
@@ -100,6 +109,8 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 
 ## Protección de datos
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Organismos
   - Agencia Española de Protección de Datos (AEPD)
 - Regulaciones
@@ -111,9 +122,12 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
   - 82. Adaptación LOPD
 - Referencias
   - <https://runmodule.com/2026/04/14/proteccion-de-datos-personales-en-espana/>
+:::
 
 ## Seguridad de la información
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - CE art. 18 (derecho a la intimidad)
 - Regulaciones
@@ -134,15 +148,21 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
   - 48. ENS (incluye ENS, CCN-STIC)
 - Referencias
   - <https://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/>{target="_blank"}
+:::
 
 ## Certificados electrónicos
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - UE
     - R(EU) 2024/1183. eIDAS
+:::
 
 ## Gobierno del dato
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - UE
     - R(UE) 2022/868. Ley de Gobernanza de Datos{regulaciones.qmd#CELEX:32022R0868}
@@ -150,16 +170,25 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 - Estrategias
   - UE
     - Estrategia Europea del Dato {estrategias.qmd#Estrategia-Europea-del-Dato}
+:::
 
-\
 La Ley de Gobernanza de Datos (*Data Governance Act*, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el "altruismo de datos" (donar datos para el bien común).
 
 ## Inteligencia artificial
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - UE
     - [Reglamento UE 2024/1689. Ley de Inteligencia Artificial](regulaciones.qmd#CELEX:32024R1689)
 - Temas
   - 70. Inteligencia artificial
+:::
 
 ## Nube
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Infraestructuras
+  - NubeSARA
+:::

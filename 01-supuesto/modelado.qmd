@@ -4,67 +4,82 @@
 
 ### Diagrama de casos de uso
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 88. Análisis de sistemas y metodologías ágiles 
 - Referencias
   - Cillero, Manuel. [Casos de uso en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/casos-de-uso/).
+:::
 
-\
 El diagrama de casos de uso...
 
 ### Diagrama de flujo de datos
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 90. Análisis dinámico de sistemas
 - Referencias
   - Cillero, Manuel. [Diagrama de Flujos de Datos en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-flujo-de-datos/)
+:::
 
-\
-Diagrama de Flujo de Datos (DFD)...
+Diagrama de Flujo de Datos (DFD), también referido como diagrama de contexto, es un diagrama que representa el flujo de información entre los distintos elementos de un sistema.
 
 ### Modelo entidad-relación
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 89. Análisis del dominio de los sistemas
 - Referencias
   - Cillero, Manuel. [Modelo entidad-relacion en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/modelo-entidad-relacion-extendido/)
+:::
 
-\
 Un modelo entidad-relacion (E/R)...
 
 ### Diagrama de clases
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 89. Análisis del dominio de los sistemas
 - Referencias
   - Cillero, Manuel. [Diagrama de clases en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/)
+:::
 
-\
 Diagrama de clases pertenece a la familia de diagramas UML.
 
 ### Diagramas de despliegue
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 92. Diseño arquitectónico de sistemas
 - Referencias
   - Cillero, Manuel. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/)
+:::
 
-\
 El diagrama de despliegue pertenece a la familia de diagramas UML.
 
 ### Métrica v3
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 95. Métrica
+:::
 
 ## Arquitecturas de sistemas
 
 ### Dominios/subdominios funcionales
 
-La identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.
+::: {.callout-note collapse="true" icon="false"}
+## 📝 Apariciones en examen
+Conv. 2023.
+:::
 
-Preguntado en:
-- Conv. 2023.
+La identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.
 
 ### Arquitectura conceptual
 
@@ -76,7 +91,7 @@ La arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel s
 
 ### Arquitectura lógica
 
-::: {.callout-note}
+::: {.callout-note collapse="true" icon="false"}
 ## 📝 Apariciones en examen
 Convocatorias: 2023.
 :::
@@ -90,8 +105,11 @@ Ejemplos de modelos de arquitectura de sistemas:
 
 #### MVC
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - <https://runmodule.com/2024/12/03/mvc-architecture/>
+:::
 
 En el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.
 
@@ -105,8 +123,11 @@ Propuesta de niveles principales:
 
 #### Microservicios
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - <https://runmodule.com/2024/12/03/microservices/>
+:::
 
 En microservicios se suele pintar un API gateway al inicio de la lógica de negocio.
 
