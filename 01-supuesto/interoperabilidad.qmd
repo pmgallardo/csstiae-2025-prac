@@ -13,9 +13,31 @@
   - [Esquema Nacional de Interoperabilidad](https://runmodule.com/2025/09/11/esquema-nacional-de-interoperabilidad-de-espana/)
 :::
 
+## Declaración ministerial de Tallín sobre la administración electrónica
+
+Se firmó en 2017-10-06.
+
+Incluye aspectos relevantes para la interoperabilidad como el principio de “solo una vez”, interoperabilidad por defecto o el EIF
+
+## Reglamento Europeo de la Interoperabilidad (REI)
+
+El Reglamento Europeo de la Interoperabilidad (REI) es también conocido como Interoperable Europe Act (IEA). Se define en el reglamento UE 2024/903
+
+En él se define un Comité de Europa de Interoperabilidad y un Portal de la Europa Interoperable, conocido en inglés como Interoperable Europe portal (antiguo JoinUp).
+
+El REI requiere que se realicen evaluaciones de interoperabilidad en ciertas circunstancias.
+
+Carlos Treviño resume el REI en la 1a parte de la sesión 3 de Preparatic 30, de noviembre 2024, de manera que se puede ver el vídeo y la presentación.
+
+## Pasarela digital única
+
+Pasarela Digital Única, en inglés *Single Digital Gateway*.
+
 ## Esquema Nacional de Interoperabilidad
 
 El Esquema Nacional de Interoperabilidad de España se regula a través del [Real Decreto 4/2010](../02-analisis/regulaciones.qmd#BOE-A-2010-1331).
+
+Está basado en el European Interoperability Framework / Marco Europeo de Interoperabilidad.
 
 ### Niveles del ENI
 
@@ -59,8 +81,6 @@ Algunas normas del ENI:
 
 ## NTI
 
-Existen múltiples NTIs.
-
 Norma Técnica de Interoperabilidad (NTI):
 
 - Catálogo de estándares
@@ -79,11 +99,11 @@ Norma Técnica de Interoperabilidad (NTI):
 
 El sistema InSiDe es un servicio común cumple los requisitos para que documentos y expedientes puedan almacenarse y obtenerse según el ENI.
 
-NTIs en el PAe
+[NTIs en el PAe](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/pae_Interoperabilidad_Inicio/pae_Normas_tecnicas_de_interoperabilidad.html)
 
-NTI de catálogo de estándares
+### NTI de catálogo de estándares
 
-NTI de documento electrónico
+### NTI de documento electrónico
 
 Metadatos mínimos obligatorios:
 
@@ -93,13 +113,13 @@ ID de la administración generadora del documento
 
 Fecha de alta en el sistema de gestión documental
 
-NTI de digitalización de documentos
+### NTI de digitalización de documentos
 
 El nivel de resolución mínimo para imágenes electrónicas será de 200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises. Esto se define en el apartado IV.2.
 
 Para el escaneado de documentos, la calidad mínima aceptable de la reproducción, basada en la relación del tamaño del carácter de los documentos y la resolución de captura, será de un índice de calidad (quality indicator, QI) de 3,6. Esto vino en el exámen extraordinario de 2022 del CSSTIAE. Las únicas referencias a esta calidad es en el estándar ANSI/AIIM MS23-1991, al que se hace referencia en el FIST #54-1 del NIST.
 
-NTI de política de gestión de documentos electrónicos
+### NTI de política de gestión de documentos electrónicos
 
 La NTI de política de gestión de documentos electrónicos debe incluir al menos:
 
@@ -126,3 +146,99 @@ Procesos de gestión mínimos:
 Existe una guía de auditoría del cumplimiento del ENI.
 
 [Guía de auditoría del cumplimiento del ENI de 2016](https://administracionelectronica.gob.es/pae_Home/dam/jcr:a859d9ac-9519-4cf9-b525-cc7238b5271b/Guia_auditoria_ENI_PDF_1ed_2016.pdf)
+
+## Iniciativas Relevantes
+
+Iniciativas relevantes a la interoperabilidad en el sector público en España:
+
+    Unión Europea
+        Programa de interoperabilidad
+        EIF
+        CEF
+        EIRA
+        NIFO
+        SEMIC.EU
+        Interoperability European Portal
+    España
+        Aporta
+
+Programas de Interoperabilidad
+
+There has been different programs:
+
+    IDA
+    IDA II
+    IDABC (-2009)
+    ISA (2010-2015)
+    ISA2 (2016-2020)
+
+These programs updated and applied the EIF and EIS.
+
+### EIF
+
+[EIF](https://es.wikipedia.org/wiki/Marco_Europeo_de_Interoperabilidad), Wikipedia
+
+El Marco Europeo de Interoperabilidad (*European Interoperability Framework*, EIF) was first included in a European Commission Communication in 2010. It has been updated afterwards through interoperability programs.
+
+National Interoperability Framework (NIF).
+
+Domain Interoperability Framework (DIF).
+
+EIF underlying principles:
+
+- Subsidiarity and proportionality
+- Openness
+- Transparency
+- Reusability
+- Technological neutrality and data portability
+- User-centricity
+- Inclusion and accessibility
+- Security and privacy
+- Multilingualism
+- Administrative simplification
+- Preservation of information
+- Assessment of effectiveness and efficiency
+
+### CEF
+
+Connecting Europe Facility (CEF) is a initiative with the aim of financing the interoperability projects in the fields of energy, transport and telecommunications. It was launched in 2013.
+
+CEF Telecom is the name that receives the CEF related to telecommunications.
+
+### EIRA
+
+European Interoperability Architecture (EIRA) defines the architectonic blocks for interoperability.
+
+### NIFO
+
+National Interoperability Framework Observatory (NIFO) assess the level of interoperability.
+
+It publishes these reports:
+
+    State-of-play report
+    NIFO sheets
+    LIFO report
+
+The NIFO follow-up mechanism includes 47 recommendations and 68 KPIs.
+
+### SEMIC.EU
+
+The Semantic Interoperability Community (SEMIC.EU) celebrates a convention yearly.
+
+SEMIC.EU at Wikipedia
+
+### Interoperability European portal
+
+The Interoperable Europe portal was previously known as JoinUp.
+
+### Aporta 2009
+
+Aporta es una iniciativa de 2009 que en 2025 sigue vigente
+
+Tiene como fin promocionar la apertura de la información pública y desarrollo de servicios avanzados basados en datos. Es promovida por el Ministerio para la Transformación Digital y de la Función Pública​ a través de la Entidad Pública Empresarial Red.es.
+
+Acerca de Aporta 2009 en datos.gob.es
+
+### datos.gob.es
+
+datos.gob.es es una plataforma de reutilización de información producida en el sector público de España.
