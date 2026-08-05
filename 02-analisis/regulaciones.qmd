@@ -47,12 +47,24 @@ R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 
 Ley de Datos (*Data Act*), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.
 
+## R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI) {#CELEX:32024R0903}
+
+- Referencias
+  - [R(UE) 2024/903 en EUR-Lex](http://data.europa.eu/eli/reg/2024/903/oj){target="_blank"}
+
 ### R(UE) 2024/1689. Ley de Inteligencia Artificial {#CELEX:32024R1689}
 
 Referencias
  - [R(UE) 2024/1689 en EUR-Lex](http://data.europa.eu/eli/reg/2024/1689/oj){target="_blank"}
 
 ## Marco normativo español
+
+### RD 4/2010. ENI {#BOE-A-2010-1331}
+
+- Referencias:
+  - [RD 4/2010 en BOE](https://www.boe.es/eli/es/rd/2010/01/08/4/con){target="_blank"}
+
+Regula el Esquema Nacional de Interoperabilidad.
 
 ### L 19/2013. Transparencia, acceso a la información pública y buen gobierno {#BOE-A-2013-12887}
 

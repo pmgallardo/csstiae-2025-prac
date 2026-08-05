@@ -30,6 +30,7 @@ book:
         - 01-supuesto/infr-comunes.qmd
         - 01-supuesto/serv-comunes.qmd
         - 01-supuesto/seguridad.qmd
+        - 01-supuesto/interoperabilidad.qmd
         - 01-supuesto/dimensionamiento.qmd
         - 01-supuesto/contratacion.qmd
     - part: "Análisis pormenorizado"

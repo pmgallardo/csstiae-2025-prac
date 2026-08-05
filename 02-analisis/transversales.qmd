@@ -45,13 +45,17 @@ La descentralización se refiere a la delegación de competencias entre distinta
   - CTT (Centro de Transferencia de Tecnología)
 :::
 
-## Interoperabilidad
+## Interoperabilidad (análisis pormenorizado)
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Regulaciones
+  - UE
+    - Declaración Ministerial de Tallín sobre la administración electrónica
+    - R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI)
+    - eIDAS
   - ES
-    - [RD 4/2010. Esquema Nacional de Interoperabilidad](regulaciones.qmd#ens)
+    - RD 4/2010. Esquema Nacional de Interoperabilidad
     - L 37/2007. Reutilización de datos en Sector Público.
 - Organismos
   - CTT (Centro de Transferencia de Tecnología)
@@ -61,7 +65,7 @@ La descentralización se refiere a la delegación de competencias entre distinta
   - 46. NTI
 :::
 
-Esquema Nacional de Interoperabilidad (ENI).
+Ver sección sobre [interoperabilidad en la AGE](../01-supuesto/interoperabilidad.qmd)
 
 ## Participación ciudadana
 
