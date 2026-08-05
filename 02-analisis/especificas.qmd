@@ -36,8 +36,11 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 
 ## Seguridad Social
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 41. Seguridad Social
+:::
 
 El art. 41 de la Constitución establece que:
 
@@ -54,18 +57,24 @@ El art. 50 de la Constitución establece que:
 
 ## Hacienda
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Título VII "Economía y Hacienda" (arts. 128-136)
+:::
 
 ### Recaudación
 
 ## Atención al usuario
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 51
   - Art. 105
 - Regulación
   - L 39/2015. PACAP
+:::
 
 Art. 51 CE (Defensa de los consumidores):
 
@@ -79,6 +88,8 @@ Art. 51 CE (Defensa de los consumidores):
 
 ## Presupuestación (análisis pormenorizado)
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 134. Presupuestos Generales del Estado
   - Art. 135. Estabilidad y sostenibilidad
@@ -90,8 +101,8 @@ Art. 51 CE (Defensa de los consumidores):
     - LO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)
 - Temas
   - 12. Los presupuestos generales del Estado
+:::
 
-\
 El art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.
 
 El art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.
@@ -104,39 +115,60 @@ B. Sector Público Estatal
 
 ## Casa Real
 
-- Constitución 1976
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- CE
   - Art. 1 "La forma política del Estado español es la Monarquía parlamentaria"
   - Título II "De la Corona" (arts. 56-65)
+:::
+
+El artículo 1 de la Constitución establece que la forma política del Estado español es la Monarquía parlamentaria.
+
+El título II de la CE trata sobre la Corona.
 
 ## Industria
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+:::
 
 ## Comercio
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+:::
 
 ## Españoles en el extranjero
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - CE, art. 19 (libertad de residencia y circulación)
+:::
 
 ## Turismo
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+:::
 
 ## Demografía
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Organismos
   - Ministerio para la Transición Ecológica y Reto Demográfico
 - Estadísticas
   - Estadística Continua de Población (ECP)
   - Censo Anual de Población (CAP)
+:::
 
-\
 Estadísticas relevantes:
 
 | Estadística | Fecha | Valor aprox. | Valor exacto | Fuente |
@@ -151,6 +183,8 @@ Estadísticas relevantes:
 
 ## Empleo
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 17. El mercado de trabajo
   - 19. TIC, economía y mercado de trabajo
@@ -158,8 +192,8 @@ Estadísticas relevantes:
   - Objetivo 8 "Trabajo decente y crecimiento económico"
 - Indicadores
   - EPA (Encuesta de Población Activa)
+:::
 
-\
 Estadísticas relevantes:
 
 | Estadística | Valor aprox. | Valor | Fuente |
@@ -168,8 +202,11 @@ Estadísticas relevantes:
 
 ## Función pública
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 103.3. Funcionarios públicos
+:::
 
 El art. 103 de la Constitución incluye el siguiente apartado sobre el empleo público:
 
@@ -177,26 +214,38 @@ El art. 103 de la Constitución incluye el siguiente apartado sobre el empleo p�
 
 ## Igualdad
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Constitución
   - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
 - ODS
   - Objetivo 5 "Igualdad de género"
+:::
 
 ## Violencia de género
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Constitución
   - Art. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político
 - Indicadores
   - EVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)
+:::
 
 ## Educación
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - ODS
   - Objetivo 4 "Educación de calidad"
+:::
 
 ## Subvenciones
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - L 38/2003. General de Subvenciones. 
+:::
 
 ## CNMC

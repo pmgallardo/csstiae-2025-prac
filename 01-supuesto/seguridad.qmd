@@ -1,0 +1,55 @@
+# Seguridad
+
+## Riesgos
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Temas
+  - 47. Análisis y gestión de riesgos
+:::
+
+Este apartado trata sobre la evaluación de riesgos en proyectos de sistemas de la información.
+
+## Esquema Nacional de Seguridad (ENS)
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Guías
+  - [CCN-STIC 803. Valorización de los sistemas en el ENS](https://www.ccn-cert.cni.es/ccn-cert/documentos/guias-ccn-stic/ccn-stic-803.html){target="_blank"}
+- Temas
+  - 48. ENS
+:::
+
+El Esquema Nacional de Seguridad (ENS) es una pregunta permanente en todos los ejercicios prácticas del CSSTIAE.
+
+Las **categorías de seguridad del ENS** son:
+
+- Básica
+- Media
+- Alta
+
+Las **dimensiones de seguridad del ENS** son:
+
+1. Confidencialidad
+2. Integridad
+3. Disponibilidad
+4. Autenticidad
+5. Trazabilidad
+
+Se asigna a cada dimensión de seguridad una de las categorías. La más alta categoría obtenida en todas las dimensiones determina la categoría global del sistema.
+
+A la hora de evaluar los ejercicios, se debe vigilar cuándo poner categoría alta, pues está reservada a sistemas de información que manejan datos de especial sensibilidad, como los relacionados con la seguridad nacional, la defensa, la seguridad pública y la salud pública.
+
+También se debe vigilar cuándo poner categoría básica, pues está reservada a sistemas de información que manejan datos de baja sensibilidad, como los relacionados con la publicidad, la meteorología o la cultura. Un sistema que almacena datos personales no puede tener categoria básica.
+
+Como referencia sobre cómo categorizar la seguridad del ENS, se puede mencionar la guía CCN-STIC 803 "Valorización de los sistemas en el ENS".
+
+## Protección de datos
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Temas
+    - 82. Adaptación LOPD
+:::
+
+## Guías CCN-STIC

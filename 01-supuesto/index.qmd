@@ -19,6 +19,7 @@ Resumen de consejos:
 
 - Leer las preguntas antes de leer el enunciado completo.
 - Subrayar los conceptos del exámen
+- Emplear una hoja para cada ejercicio. No penaliza el número de hojas empleadas, y el emplear hojas independientes permite alargar la resolución del ejercicio en el caso necesario.
 
 En la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no es un buen consejo.
 
@@ -26,7 +27,7 @@ Por el contrario, emplear subrayadores es compatible con sacar la hoja del enunc
 
 Una propuesta de subrayado de colores puede ser:
 
-| Significado | Color |
+| Significado | Color sugerido |
 | - | - |
 | Actor / Sistema | Azul |
 | Entidad de datos | Verde |
@@ -35,12 +36,6 @@ Una propuesta de subrayado de colores puede ser:
 | Cuestiones de interés | Amarillo |
 
 Se podría distinguir con distinto color los actores internos y externos.
-
-## Seguridad
-
-Niveles de seguridad del ENS.
-
-CCN-STIC. Aprender.
 
 ## Planificación
 
@@ -52,11 +47,6 @@ CCN-STIC. Aprender.
 ## IA
 
 ## Certificados electrónicos
-
-## Protección de datos
-
-- Temas
-    - 82. Adaptación LOPD
 
 ## Accesibilidad (supuesto práctico)
 

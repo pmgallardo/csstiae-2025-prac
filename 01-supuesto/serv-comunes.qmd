@@ -1,22 +1,26 @@
 # Servicios electrónicos comunes
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Temas
   - 49. Infraestructuras y servicios comunes
 - Referencias
   - [Directorio de Soluciones del Centro de Transferencia Tecnológica (CTT)]()
   - <https://runmodule.com/2024/10/13/servicios-electronicos-del-sector-publico-en-espana/>
+:::
 
-\
 Este capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.
 
 Los servicios electrónicos aparecen listados en el [catálogo de servicios de Administración digital](https://administracionelectronica.gob.es/pae_Home/pae_Estrategias/Racionaliza_y_Comparte/catalogo-servicios-admon-digital.html) del Portal de la Administración Electrónica.
 
 ## Cl@ve
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [Cl@ve en CTT](https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=clave). PAe.
+:::
 
-\
 Cl@ve es un servicio de autenticación.
 
 ## Carpeta Ciudadana
@@ -29,8 +33,11 @@ Sistema de Interconexión de Registros (SIR)
 
 ## DEHú
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [DEHú en DS-CTT](https://administracionelectronica.gob.es/ctt/lema)
+:::
 
 La Dirección Electrónica Habilitada única (DEHú) es un punto único de notificaciones para toda las AAPP.
 
@@ -40,13 +47,19 @@ La Dirección Electrónica Habilitada única (DEHú) es un punto único de notif
 
 FACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face>
+:::
 
 ## DIR3
 
 DIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 <https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir>
+:::
 
 ## REC
 

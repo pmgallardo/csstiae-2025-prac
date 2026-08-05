@@ -26,13 +26,12 @@ book:
     - part: "Supuesto práctico"
       chapters:
         - 01-supuesto/index.qmd
+        - 01-supuesto/modelado.qmd
         - 01-supuesto/infr-comunes.qmd
         - 01-supuesto/serv-comunes.qmd
-        - 01-supuesto/modelado.qmd
-        - 01-supuesto/planificacion.qmd
-        - 01-supuesto/estimacion.qmd
+        - 01-supuesto/seguridad.qmd
+        - 01-supuesto/dimensionamiento.qmd
         - 01-supuesto/contratacion.qmd
-        - 01-supuesto/riesgos.qmd
     - part: "Análisis pormenorizado"
       chapters:
         - 02-analisis/index.qmd

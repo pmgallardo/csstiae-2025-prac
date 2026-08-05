@@ -1,3 +1,5 @@
 # Introducción al análisis pormenorizado
 
 Este documento es un resumen de información relevante para la preparación del ejercicio práctico
+
+El análisis pormenorizado está relacionado con el sistema desarrollado en el supuesto práctico. Si bien el candidato conserva el enunciado del supuesto (siempre y cuando no se hayan realizado notas sobre el mismo), no tiene permitido consultar las hojas de respuesta o de sucio escritas durante el ejercicio anterior.

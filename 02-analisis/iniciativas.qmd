@@ -4,10 +4,11 @@
 
 ### CTT (Centro de Transferencia de Tecnología)
 
+::: {.callout-note icon="false"}
 - Referencias
   - [Repositorio forja-CTT en GitHub](https://github.com/ctt-gob-es){target="_blank"}
+:::
 
-\
 El Centro de Transferencia de Tecnología (CTT) es un portal web que tiene como objetivo favorecer la reutilización de soluciones tecnológicas a lo largo.
 
 Es gestionado por la AEAD.
@@ -18,8 +19,10 @@ El repositorio forja-CTT\index{CTT!forja-CTT} de GitHub alberga proyectos de có
 
 ### Guías CCN-STIC
 
+::: {.callout-note icon="false"}
 - Referencias
   - <https://runmodule.com/2026/06/09/ccn-cert/>{target="_blank"}
+:::
 
 La serie 800 de las guías CCN-STIC está relacionada con ciberseguridad.
 

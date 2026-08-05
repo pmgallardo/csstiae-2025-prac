@@ -14,6 +14,24 @@
 
 El diagrama de casos de uso...
 
+Los actores se corresponden con tipologías de usuarios, organismos o sistemas externos que interactúen con el sistema.
+
+Los casos de uso se corresponden con las funcionalidades del sistema detectadas.
+
+La **relación «include»** entre casos de uso se representa con una flecha discontinua y apunta desde el caso de uso que incluye hacia el caso de uso incluido. Indica que el caso de uso incluido es obligatorio para el caso de uso que incluye. Un ejemplo es que para realizar una compra (incluye) es necesario realizar el pago (incluido).
+
+Se puede usar cuando una funcionalidad es común a varios casos de uso, y se quiere evitar repetirla en cada caso de uso.
+
+La **relación «extend»** entre casos de uso se representa con una flecha discontinua y apunta desde el caso de uso que extiende hacia el caso de uso extendido. Indica que el caso de uso es opcional para el caso extendido, y que se ejecuta bajo ciertas condiciones. Un ejemplo es imprimir un recibo (extensión) tras realizar una compra (extendido).
+
+Cuando se emplea una relación «include» o 
+
+El sistema engloba los casos de uso, representándose con un rectángulo.
+
+Consejos:
+
+- Incluir alguna relación «include» y «extend» entre casos de uso, para demostrar al tribunal la capacidad de trabajar con estos conceptos.
+
 ### Diagrama de flujo de datos
 
 ::: {.callout-note icon="false"}
@@ -24,7 +42,9 @@ El diagrama de casos de uso...
   - Cillero, Manuel. [Diagrama de Flujos de Datos en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-flujo-de-datos/)
 :::
 
-Diagrama de Flujo de Datos (DFD), también referido como diagrama de contexto, es un diagrama que representa el flujo de información entre los distintos elementos de un sistema.
+Diagrama de Flujo de Datos (DFD) es un diagrama que representa el flujo de información entre los distintos elementos de un sistema.
+
+El DFD consta de varios niveles de detalles, numerados de 0 a n, donde 0 es el nivel más alto y n es el nivel más bajo. El nivel 0 es conocido como diagrama de contexto, y representa el sistema como un único proceso que interactúa con elementos externos. Los niveles 1 a n van aumentando el nivel de detalle del sistema y procesos de manera jerárquica.
 
 ### Modelo entidad-relación
 
@@ -33,7 +53,7 @@ Diagrama de Flujo de Datos (DFD), también referido como diagrama de contexto, e
 - Temas
   - 89. Análisis del dominio de los sistemas
 - Referencias
-  - Cillero, Manuel. [Modelo entidad-relacion en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/modelo-entidad-relacion-extendido/)
+  - Cillero, Manuel. [Modelo entidad-relacion en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/modelo-entidad-relacion-extendido/){target="_blank"}
 :::
 
 Un modelo entidad-relacion (E/R)...
@@ -45,7 +65,7 @@ Un modelo entidad-relacion (E/R)...
 - Temas
   - 89. Análisis del dominio de los sistemas
 - Referencias
-  - Cillero, Manuel. [Diagrama de clases en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/)
+  - Cillero, Manuel. [Diagrama de clases en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-clases/){target="_blank"}
 :::
 
 Diagrama de clases pertenece a la familia de diagramas UML.
@@ -57,10 +77,22 @@ Diagrama de clases pertenece a la familia de diagramas UML.
 - Temas
   - 92. Diseño arquitectónico de sistemas
 - Referencias
-  - Cillero, Manuel. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/)
+  - Cillero, Manuel. [Diagramas de despliegue en Métrica 3](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/diagrama-de-despliegue/){target="_blank"}
 :::
 
 El diagrama de despliegue pertenece a la familia de diagramas UML.
+
+### Diagrama de secuencia
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - [Diagramas de secuencia](https://es.wikipedia.org/wiki/Diagrama_de_secuencia){target="_blank"}. Wikipedia.
+:::
+
+El diagrama de secuencia es un diagrama UML que permite modelar la interacción entre distintos elementos de un sistema.
+
+![Ejemplo de diagrama de secuencia](https://es.wikipedia.org/wiki/Diagrama_de_secuencia#/media/Archivo:CrearPais.png)
 
 ### Métrica v3
 
