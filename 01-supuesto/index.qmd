@@ -37,13 +37,6 @@ Una propuesta de subrayado de colores puede ser:
 
 Se podría distinguir con distinto color los actores internos y externos.
 
-## Planificación
-
-## Interoperabilidad
-
-- Iniciativas
-  - ENI
-
 ## IA
 
 ## Certificados electrónicos
