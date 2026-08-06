@@ -92,7 +92,7 @@ El diagrama de despliegue pertenece a la familia de diagramas UML.
 
 El diagrama de secuencia es un diagrama UML que permite modelar la interacción entre distintos elementos de un sistema.
 
-![Ejemplo de diagrama de secuencia](https://es.wikipedia.org/wiki/Diagrama_de_secuencia#/media/Archivo:CrearPais.png)
+![Ejemplo de diagrama de secuencia](../images/diagrama-secuencia.png)
 
 ### Métrica v3
 
