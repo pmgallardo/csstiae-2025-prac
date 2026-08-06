@@ -91,40 +91,7 @@
     "href": "01-supuesto/index.html#consejos-para-el-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
     "section": "2.2 Consejos para el supuesto práctico",
-    "text": "2.2 Consejos para el supuesto práctico\nResumen de consejos:\n\nLeer las preguntas antes de leer el enunciado completo.\nSubrayar los conceptos del exámen\n\nEn la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no es un buen consejo.\nPor el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.\nUna propuesta de subrayado de colores puede ser:\n\n\n\nSignificado\nColor\n\n\n\n\nActor / Sistema\nAzul\n\n\nEntidad de datos\nVerde\n\n\nFuncionalidad\nNaranja\n\n\nNormativa\nRojo\n\n\nCuestiones de interés\nAmarillo\n\n\n\nSe podría distinguir con distinto color los actores internos y externos.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/index.html#seguridad",
-    "href": "01-supuesto/index.html#seguridad",
-    "title": "2  Introducción al supuesto práctico",
-    "section": "2.3 Seguridad",
-    "text": "2.3 Seguridad\nNiveles de seguridad del ENS.\nCCN-STIC. Aprender.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/index.html#planificación",
-    "href": "01-supuesto/index.html#planificación",
-    "title": "2  Introducción al supuesto práctico",
-    "section": "2.4 Planificación",
-    "text": "2.4 Planificación",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/index.html#interoperabilidad",
-    "href": "01-supuesto/index.html#interoperabilidad",
-    "title": "2  Introducción al supuesto práctico",
-    "section": "2.5 Interoperabilidad",
-    "text": "2.5 Interoperabilidad\n\nIniciativas\n\nENI",
+    "text": "2.2 Consejos para el supuesto práctico\nResumen de consejos:\n\nLeer las preguntas antes de leer el enunciado completo.\nSubrayar los conceptos del exámen\nEmplear una hoja para cada ejercicio. No penaliza el número de hojas empleadas, y el emplear hojas independientes permite alargar la resolución del ejercicio en el caso necesario.\n\nEn la mayoría de tribunales, si escribes en las hojas del enunciado del supuesto práctico no las podrás sacar posteriormente. No contar con el enunciado dificulta la realización del volcado, por lo que no es un buen consejo.\nPor el contrario, emplear subrayadores es compatible con sacar la hoja del enunciado. Algunos candidatos emplean varios colores para marcar distintas categorías de palabras claves, como por ejemplo actores, acciones, etc.\nUna propuesta de subrayado de colores puede ser:\n\n\n\nSignificado\nColor sugerido\n\n\n\n\nActor / Sistema\nAzul\n\n\nEntidad de datos\nVerde\n\n\nFuncionalidad\nNaranja\n\n\nNormativa\nRojo\n\n\nCuestiones de interés\nAmarillo\n\n\n\nSe podría distinguir con distinto color los actores internos y externos.",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -134,8 +101,8 @@
     "objectID": "01-supuesto/index.html#ia",
     "href": "01-supuesto/index.html#ia",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.6 IA",
-    "text": "2.6 IA",
+    "section": "2.3 IA",
+    "text": "2.3 IA",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -145,19 +112,8 @@
     "objectID": "01-supuesto/index.html#certificados-electrónicos",
     "href": "01-supuesto/index.html#certificados-electrónicos",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.7 Certificados electrónicos",
-    "text": "2.7 Certificados electrónicos",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/index.html#protección-de-datos",
-    "href": "01-supuesto/index.html#protección-de-datos",
-    "title": "2  Introducción al supuesto práctico",
-    "section": "2.8 Protección de datos",
-    "text": "2.8 Protección de datos\n\nTemas\n\n\nAdaptación LOPD",
+    "section": "2.4 Certificados electrónicos",
+    "text": "2.4 Certificados electrónicos",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
@@ -167,495 +123,616 @@
     "objectID": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "href": "01-supuesto/index.html#accesibilidad-supuesto-práctico",
     "title": "2  Introducción al supuesto práctico",
-    "section": "2.9 Accesibilidad (supuesto práctico)",
-    "text": "2.9 Accesibilidad (supuesto práctico)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\n📐 Estándares:\n\nEN 301 549\n\n📖 Guías:\n\nWCAG\n\n🎯 Temas:\n\n\nAccesibilidad y usabilidad\n\n\nDiscapacidad\n\n\n🔗 Referencias de consulta:\n\nWeb Accessibility (RunModule, 2025)",
+    "section": "2.5 Accesibilidad (supuesto práctico)",
+    "text": "2.5 Accesibilidad (supuesto práctico)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\n📐 Estándares:\n\nEN 301 549\n\n📖 Guías:\n\nWCAG\n\n🎯 Temas:\n\n\nAccesibilidad y usabilidad\n\n\nDiscapacidad\n\n\n🔗 Referencias de consulta:\n\nWeb Accessibility (RunModule, 2025)",
     "crumbs": [
       "Supuesto práctico",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introducción al supuesto práctico</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/infr-comunes.html",
-    "href": "01-supuesto/infr-comunes.html",
-    "title": "3  Infraestructuras comunes",
-    "section": "",
-    "text": "3.1 RedSARA\nRedSARA (Sistemas de Aplicaciones y Redes para las administraciones)",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/infr-comunes.html#stesta",
-    "href": "01-supuesto/infr-comunes.html#stesta",
-    "title": "3  Infraestructuras comunes",
-    "section": "3.2 sTESTA",
-    "text": "3.2 sTESTA\nsTESTA es una red transeuropea que incluye a las instituciones públicas europeas y de los estados europeos. RedSARA enlaza con la red sTESTA.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/infr-comunes.html#servicio-unificado-de-telecomunicaciones",
-    "href": "01-supuesto/infr-comunes.html#servicio-unificado-de-telecomunicaciones",
-    "title": "3  Infraestructuras comunes",
-    "section": "3.3 Servicio Unificado de Telecomunicaciones",
-    "text": "3.3 Servicio Unificado de Telecomunicaciones",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/infr-comunes.html#servicio-de-alojamiento-de-infraestructuras-tic",
-    "href": "01-supuesto/infr-comunes.html#servicio-de-alojamiento-de-infraestructuras-tic",
-    "title": "3  Infraestructuras comunes",
-    "section": "3.4 Servicio de alojamiento de infraestructuras TIC",
-    "text": "3.4 Servicio de alojamiento de infraestructuras TIC",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/infr-comunes.html#nubesara",
-    "href": "01-supuesto/infr-comunes.html#nubesara",
-    "title": "3  Infraestructuras comunes",
-    "section": "3.5 nubeSARA",
-    "text": "3.5 nubeSARA",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/infr-comunes.html#servicio-de-seguridad-gestionada",
-    "href": "01-supuesto/infr-comunes.html#servicio-de-seguridad-gestionada",
-    "title": "3  Infraestructuras comunes",
-    "section": "3.6 Servicio de seguridad gestionada",
-    "text": "3.6 Servicio de seguridad gestionada",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html",
-    "href": "01-supuesto/serv-comunes.html",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "",
-    "text": "4.1 Cl@ve\nEste capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.\nLos servicios electrónicos aparecen listados en el catálogo de servicios de Administración digital del Portal de la Administración Electrónica.\nCl@ve es un servicio de autenticación.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#clve",
-    "href": "01-supuesto/serv-comunes.html#clve",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "",
-    "text": "Referencias\n\nCl@ve en CTT. PAe.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#carpeta-ciudadana",
-    "href": "01-supuesto/serv-comunes.html#carpeta-ciudadana",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.2 Carpeta Ciudadana",
-    "text": "4.2 Carpeta Ciudadana\nCarpeta Ciudadana (CCD)",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#sir",
-    "href": "01-supuesto/serv-comunes.html#sir",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.3 SIR",
-    "text": "4.3 SIR\nSistema de Interconexión de Registros (SIR)",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#dehú",
-    "href": "01-supuesto/serv-comunes.html#dehú",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.4 DEHú",
-    "text": "4.4 DEHú\n\nReferencias\n\nDEHú en DS-CTT\n\n\nLa Dirección Electrónica Habilitada única (DEHú) es un punto único de notificaciones para toda las AAPP.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#plataforma-de-intermediación-de-datos",
-    "href": "01-supuesto/serv-comunes.html#plataforma-de-intermediación-de-datos",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.5 Plataforma de Intermediación de Datos",
-    "text": "4.5 Plataforma de Intermediación de Datos",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#face",
-    "href": "01-supuesto/serv-comunes.html#face",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.6 FACe",
-    "text": "4.6 FACe\nFACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#dir3",
-    "href": "01-supuesto/serv-comunes.html#dir3",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.7 DIR3",
-    "text": "4.7 DIR3\nDIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#rec",
-    "href": "01-supuesto/serv-comunes.html#rec",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.8 REC",
-    "text": "4.8 REC\nRegistro Electrónico Común (REC).",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#orve",
-    "href": "01-supuesto/serv-comunes.html#orve",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.9 ORVE",
-    "text": "4.9 ORVE\nOficina de Registro Virtual (ORVE)",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#geiser",
-    "href": "01-supuesto/serv-comunes.html#geiser",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.10 GEISER",
-    "text": "4.10 GEISER\nGestión Integrada de Servicios de Registro (GEISER).",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#sia",
-    "href": "01-supuesto/serv-comunes.html#sia",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.11 SIA",
-    "text": "4.11 SIA\nSistema de Información Administrativa (SIA).",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#podera",
-    "href": "01-supuesto/serv-comunes.html#podera",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.12 @podera",
-    "text": "4.12 @podera\n@podera es un registro electrónico de apoderamiento.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#habilit",
-    "href": "01-supuesto/serv-comunes.html#habilit",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.13 Habilit@",
-    "text": "4.13 Habilit@\nHabilit@ es un registro de funcionarios habilitados.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#valide",
-    "href": "01-supuesto/serv-comunes.html#valide",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.14 VALIDe",
-    "text": "4.14 VALIDe\nVALIDe",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#autentica",
-    "href": "01-supuesto/serv-comunes.html#autentica",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.15 AutenticA",
-    "text": "4.15 AutenticA\nAutenticA.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#inside",
-    "href": "01-supuesto/serv-comunes.html#inside",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.16 InSiDe",
-    "text": "4.16 InSiDe\nInfraestructuras y Sistemas de Documentación Electrónica (InSiDe).",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/serv-comunes.html#archive",
-    "href": "01-supuesto/serv-comunes.html#archive",
-    "title": "4  Servicios electrónicos comunes",
-    "section": "4.17 Archive",
-    "text": "4.17 Archive\nArchive es un archivo definitivo de expedientes y documentos.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
-    ]
-  },
-  {
     "objectID": "01-supuesto/modelado.html",
     "href": "01-supuesto/modelado.html",
-    "title": "5  Modelado",
+    "title": "3  Modelado",
     "section": "",
-    "text": "5.1 Diagramas estáticos y dinámicos",
+    "text": "3.1 Diagramas estáticos y dinámicos",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modelado</span>"
     ]
   },
   {
     "objectID": "01-supuesto/modelado.html#diagramas-estáticos-y-dinámicos",
     "href": "01-supuesto/modelado.html#diagramas-estáticos-y-dinámicos",
-    "title": "5  Modelado",
+    "title": "3  Modelado",
     "section": "",
-    "text": "5.1.1 Diagrama de casos de uso\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis de sistemas y metodologías ágiles\n\n\nReferencias\n\nCillero, Manuel. Casos de uso en Métrica 3.\n\n\n\n\nEl diagrama de casos de uso…\n\n\n5.1.2 Diagrama de flujo de datos\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis dinámico de sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagrama de Flujos de Datos en Métrica 3\n\n\n\n\nDiagrama de Flujo de Datos (DFD), también referido como diagrama de contexto, es un diagrama que representa el flujo de información entre los distintos elementos de un sistema.\n\n\n5.1.3 Modelo entidad-relación\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis del dominio de los sistemas\n\n\nReferencias\n\nCillero, Manuel. Modelo entidad-relacion en Métrica 3\n\n\n\n\nUn modelo entidad-relacion (E/R)…\n\n\n5.1.4 Diagrama de clases\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis del dominio de los sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagrama de clases en Métrica 3\n\n\n\n\nDiagrama de clases pertenece a la familia de diagramas UML.\n\n\n5.1.5 Diagramas de despliegue\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nDiseño arquitectónico de sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagramas de despliegue en Métrica 3\n\n\n\n\nEl diagrama de despliegue pertenece a la familia de diagramas UML.\n\n\n5.1.6 Métrica v3\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nMétrica",
+    "text": "3.1.1 Diagrama de casos de uso\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis de sistemas y metodologías ágiles\n\n\nReferencias\n\nCillero, Manuel. Casos de uso en Métrica 3.\n\n\n\n\nEl diagrama de casos de uso…\nLos actores se corresponden con tipologías de usuarios, organismos o sistemas externos que interactúen con el sistema.\nLos casos de uso se corresponden con las funcionalidades del sistema detectadas.\nLa relación «include» entre casos de uso se representa con una flecha discontinua y apunta desde el caso de uso que incluye hacia el caso de uso incluido. Indica que el caso de uso incluido es obligatorio para el caso de uso que incluye. Un ejemplo es que para realizar una compra (incluye) es necesario realizar el pago (incluido).\nSe puede usar cuando una funcionalidad es común a varios casos de uso, y se quiere evitar repetirla en cada caso de uso.\nLa relación «extend» entre casos de uso se representa con una flecha discontinua y apunta desde el caso de uso que extiende hacia el caso de uso extendido. Indica que el caso de uso es opcional para el caso extendido, y que se ejecuta bajo ciertas condiciones. Un ejemplo es imprimir un recibo (extensión) tras realizar una compra (extendido).\nCuando se emplea una relación «include» o\nEl sistema engloba los casos de uso, representándose con un rectángulo.\nConsejos:\n\nIncluir alguna relación «include» y «extend» entre casos de uso, para demostrar al tribunal la capacidad de trabajar con estos conceptos.\n\n\n\n3.1.2 Diagrama de flujo de datos\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis dinámico de sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagrama de Flujos de Datos en Métrica 3\n\n\n\n\nDiagrama de Flujo de Datos (DFD) es un diagrama que representa el flujo de información entre los distintos elementos de un sistema.\nEl DFD consta de varios niveles de detalles, numerados de 0 a n, donde 0 es el nivel más alto y n es el nivel más bajo. El nivel 0 es conocido como diagrama de contexto, y representa el sistema como un único proceso que interactúa con elementos externos. Los niveles 1 a n van aumentando el nivel de detalle del sistema y procesos de manera jerárquica.\n\n\n3.1.3 Modelo entidad-relación\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis del dominio de los sistemas\n\n\nReferencias\n\nCillero, Manuel. Modelo entidad-relacion en Métrica 3\n\n\n\n\nUn modelo entidad-relacion (E/R)…\n\n\n3.1.4 Diagrama de clases\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis del dominio de los sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagrama de clases en Métrica 3\n\n\n\n\nDiagrama de clases pertenece a la familia de diagramas UML.\n\n\n3.1.5 Diagramas de despliegue\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nDiseño arquitectónico de sistemas\n\n\nReferencias\n\nCillero, Manuel. Diagramas de despliegue en Métrica 3\n\n\n\n\nEl diagrama de despliegue pertenece a la familia de diagramas UML.\n\n\n3.1.6 Diagrama de secuencia\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nDiagramas de secuencia. Wikipedia.\n\n\n\n\nEl diagrama de secuencia es un diagrama UML que permite modelar la interacción entre distintos elementos de un sistema.\n\n\n\nEjemplo de diagrama de secuencia\n\n\n\n\n3.1.7 Métrica v3\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nMétrica",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modelado</span>"
     ]
   },
   {
     "objectID": "01-supuesto/modelado.html#arquitecturas-de-sistemas",
     "href": "01-supuesto/modelado.html#arquitecturas-de-sistemas",
-    "title": "5  Modelado",
-    "section": "5.2 Arquitecturas de sistemas",
-    "text": "5.2 Arquitecturas de sistemas\n\n5.2.1 Dominios/subdominios funcionales\n\n\n\n\n\n\nNota📝 Apariciones en examen\n\n\n\n\n\nConv. 2023.\n\n\n\nLa identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.\n\n\n5.2.2 Arquitectura conceptual\nEn la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.\n\n\n5.2.3 Arquitectura de sistemas\nLa arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel sobre la interacción de distintos sistemas.\n\n\n5.2.4 Arquitectura lógica\n\n\n\n\n\n\nNota📝 Apariciones en examen\n\n\n\n\n\nConvocatorias: 2023.\n\n\n\nLa arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas cpas que posee el sistema.\nEjemplos de modelos de arquitectura de sistemas:\n\nModelo-vista-controlador (MVC)\nMicroservicios\n\n\n5.2.4.1 MVC\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/mvc-architecture/\n\n\n\n\nEn el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.\nSe suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.\nPropuesta de niveles principales:\n\nPresentación\nLógica de negocio\nAcceso a datos y servicios\n\n\n\n5.2.4.2 Microservicios\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/microservices/\n\n\n\n\nEn microservicios se suele pintar un API gateway al inicio de la lógica de negocio.\nEl API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.\nUna aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.\nHabitualmente en sector público se usa la integración de lado de servidor (server-side integration). Esto se hace a través de un front-end UI composer.\nDe manera transversal:\n\nAdministración\nSeguridad\nMonitorización\n\nSe puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).\n\n\n\n5.2.5 Arquitectura física\n\nReferencias\n\nhttps://runmodule.com/2027/03/30/network-architecture/\n\n\nLa arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.\nElementos que deben considerarse en la arquitectura física:\n\nServidores\nBalanceadores de carga\nCortafuegos\nRedes de área local (LAN)\nProxy\nProxy inverso\nBases de datos\n\nLos servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.\nEl sistema debe conectarse a la red SARA a través del cortafuegos interno de la red petrimetral (o zona desmilitarizada).\nPara acceder a la red sTesta se puee conectar directamente a través de la red SARA.\nPara las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.\nSe suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (columna ancha), cuando se busca flexibilidad estructural respecto a tablas (documental, grafal) o se requiere simplicidad y rapidez (Redis).",
+    "title": "3  Modelado",
+    "section": "3.2 Arquitecturas de sistemas",
+    "text": "3.2 Arquitecturas de sistemas\n\n3.2.1 Dominios/subdominios funcionales\n\n\n\n\n\n\nNota📝 Apariciones en examen\n\n\n\n\n\nConv. 2023.\n\n\n\nLa identificación de dominios/subdominios funcionales se refiere a dividir el sistema en grandes áreas funcionales, agrupando las funciones que persiguen un mismo objetivo de negocio.\n\n\n3.2.2 Arquitectura conceptual\nEn la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.\n\n\n3.2.3 Arquitectura de sistemas\nLa arquitectura de sistemas (en plural) se refiere a un diagrama de alto nivel sobre la interacción de distintos sistemas.\n\n\n3.2.4 Arquitectura lógica\n\n\n\n\n\n\nNota📝 Apariciones en examen\n\n\n\n\n\nConvocatorias: 2023.\n\n\n\nLa arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas cpas que posee el sistema.\nEjemplos de modelos de arquitectura de sistemas:\n\nModelo-vista-controlador (MVC)\nMicroservicios\n\n\n3.2.4.1 MVC\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/mvc-architecture/\n\n\n\n\nEn el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.\nSe suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.\nPropuesta de niveles principales:\n\nPresentación\nLógica de negocio\nAcceso a datos y servicios\n\n\n\n3.2.4.2 Microservicios\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2024/12/03/microservices/\n\n\n\n\nEn microservicios se suele pintar un API gateway al inicio de la lógica de negocio.\nEl API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.\nUna aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.\nHabitualmente en sector público se usa la integración de lado de servidor (server-side integration). Esto se hace a través de un front-end UI composer.\nDe manera transversal:\n\nAdministración\nSeguridad\nMonitorización\n\nSe puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).\n\n\n\n3.2.5 Arquitectura física\n\nReferencias\n\nhttps://runmodule.com/2027/03/30/network-architecture/\n\n\nLa arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.\nElementos que deben considerarse en la arquitectura física:\n\nServidores\nBalanceadores de carga\nCortafuegos\nRedes de área local (LAN)\nProxy\nProxy inverso\nBases de datos\n\nLos servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.\nEl sistema debe conectarse a la red SARA a través del cortafuegos interno de la red petrimetral (o zona desmilitarizada).\nPara acceder a la red sTesta se puee conectar directamente a través de la red SARA.\nPara las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.\nSe suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (columna ancha), cuando se busca flexibilidad estructural respecto a tablas (documental, grafal) o se requiere simplicidad y rapidez (Redis).",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modelado</span>"
     ]
   },
   {
     "objectID": "01-supuesto/modelado.html#arquitectura-de-comunicaciones",
     "href": "01-supuesto/modelado.html#arquitectura-de-comunicaciones",
-    "title": "5  Modelado",
-    "section": "5.3 Arquitectura de comunicaciones",
-    "text": "5.3 Arquitectura de comunicaciones",
+    "title": "3  Modelado",
+    "section": "3.3 Arquitectura de comunicaciones",
+    "text": "3.3 Arquitectura de comunicaciones",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Modelado</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Modelado</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/planificacion.html",
-    "href": "01-supuesto/planificacion.html",
-    "title": "6  Planificación",
+    "objectID": "01-supuesto/infr-comunes.html",
+    "href": "01-supuesto/infr-comunes.html",
+    "title": "4  Infraestructuras comunes",
     "section": "",
-    "text": "Este apartado trata sobre la planificación de desarrollo de software, que es una tarea habitual en el supuesto práctico del ejercicio práctico del CSSTIAE.",
+    "text": "4.1 RedSARA\nRedSARA (Sistemas de Aplicaciones y Redes para las administraciones)",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Planificación</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/estimacion.html",
-    "href": "01-supuesto/estimacion.html",
-    "title": "7  Estimaciones de recursos",
+    "objectID": "01-supuesto/infr-comunes.html#stesta",
+    "href": "01-supuesto/infr-comunes.html#stesta",
+    "title": "4  Infraestructuras comunes",
+    "section": "4.2 sTESTA",
+    "text": "4.2 sTESTA\nsTESTA es una red transeuropea que incluye a las instituciones públicas europeas y de los estados europeos. RedSARA enlaza con la red sTESTA.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/infr-comunes.html#servicio-unificado-de-telecomunicaciones",
+    "href": "01-supuesto/infr-comunes.html#servicio-unificado-de-telecomunicaciones",
+    "title": "4  Infraestructuras comunes",
+    "section": "4.3 Servicio Unificado de Telecomunicaciones",
+    "text": "4.3 Servicio Unificado de Telecomunicaciones",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/infr-comunes.html#servicio-de-alojamiento-de-infraestructuras-tic",
+    "href": "01-supuesto/infr-comunes.html#servicio-de-alojamiento-de-infraestructuras-tic",
+    "title": "4  Infraestructuras comunes",
+    "section": "4.4 Servicio de alojamiento de infraestructuras TIC",
+    "text": "4.4 Servicio de alojamiento de infraestructuras TIC",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/infr-comunes.html#nube-supuesto-práctico",
+    "href": "01-supuesto/infr-comunes.html#nube-supuesto-práctico",
+    "title": "4  Infraestructuras comunes",
+    "section": "4.5 Nube (supuesto práctico)",
+    "text": "4.5 Nube (supuesto práctico)\nVentajas y desventajas del uso de la nube.\nEn caso de optar por la nube, se puede proponer el uso de NubeSARA, una nube pública exclusiva para el ámbito de las AAPP.\n\n4.5.1 NubeSARA\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nNubeSARA, PAe.\n\n\n\n\nNubeSARA es un servicio de nube híbrida para la AGE, gestionado desde la AEAD. Los organismos del sector público tienen esta infraestructura disponible desde la Red SARA.\nNubeSARA se lleva a cabo en una serie de CPDs disponibles. Hay 3 CPDs: Moncloa (el histórico), El Escorial (empleado sobre todo por las Fuerzas de Seguridad) y Las Rozas (en desarrollo).\nCumplen el Tier IV.\nEl uso de NubeSARA supone unos costes. En la pestaña de Área de Descagas de la entrada en el PAe están disponibles la Tabla de Tarifas del Catálogo de Servicios de NubeSARA.\nCon última actualización de 2022, se puede resumir a continuación:\n\n\n\nRecurso\nImporte / año\n\n\n\n\nvCPU\n200 €\n\n\n1 GB de memoria secundaria\n30 €\n\n\n1 TB de memoria secundaria\n1.500 €\n\n\n1 TB de memoria secundaria en backup\n500 €\n\n\n\nPodemos establecer tres tipos de servidores:\nServidor Pequeño (básico, para aplicaciones ligeras o pequeños servicios web)\nvCPU: 2 → 400 € RAM: 4 GB → 120 € Almacenamiento: 500 GB (0.5 TB) → 750 € Total: 1.270 €/año\nServidor Mediano (para aplicaciones empresariales, backend, bases de datos medianas)\nvCPU: 4 → 800 € RAM: 8 GB → 240 € Almacenamiento: 1 TB → 1.500 € Total: 2.540 €/año\n\n\n\nMáquina\nNúmero\nPrecio\nImporte\n\n\n\n\nvCPU\n4\n200 (ud.)\n800\n\n\nRAM\n8 GB\n30 (1 GB)\n240\n\n\nMem. sec.\n1 TB\n1.500 (1 TB)\n1.500\n\n\nTOTAL\n-\n-\n2.540\n\n\n\nServidor Grande (para grandes bases de datos, aplicaciones con alta carga)\nvCPU: 8 → 1.600 € RAM: 16 GB → 480 € Almacenamiento: 2 TB → 3.000 € Total: 5.080 €/año",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/infr-comunes.html#servicio-de-seguridad-gestionada",
+    "href": "01-supuesto/infr-comunes.html#servicio-de-seguridad-gestionada",
+    "title": "4  Infraestructuras comunes",
+    "section": "4.6 Servicio de seguridad gestionada",
+    "text": "4.6 Servicio de seguridad gestionada",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Infraestructuras comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html",
+    "href": "01-supuesto/serv-comunes.html",
+    "title": "5  Servicios electrónicos comunes",
     "section": "",
-    "text": "7.1 COSMIC-FSM\nEn caso de que el enunciado del ejercicio incluya un importe de presupuesto, el coste total del proyecto debe aproximarse lo más posible al indicado.\nLos costes de un proyecto vienen definidos principalmente por:\nLas tarifas de personal no las he encontrado como estándares.\nNo obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:\no en el Anexo IX de este otro contrato de la Comunidad de Madrid.\nMemoria económica del expediente 300/ 2021/00023 del Ayto de Madrid\nServicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid\nSe realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.\nEste capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.\nLas técnicas aquí reflejadas son las reseñadas en el temario ofrecido por Astic.\nhttps://runmodule.com/2027/04/27/cosmic-functional-size-measurement/",
+    "text": "5.1 Cl@ve\nEste capítulo los servicios electrónicos comunes empleados en la Administración General del Estado (AGE) y relevantes para el exámen práctico.\nLos servicios electrónicos aparecen listados en el catálogo de servicios de Administración digital del Portal de la Administración Electrónica.\nCl@ve es un servicio de autenticación.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/estimacion.html#ucp",
-    "href": "01-supuesto/estimacion.html#ucp",
-    "title": "7  Estimaciones de recursos",
-    "section": "7.2 UCP",
-    "text": "7.2 UCP\nUser Case Points (UCP)",
+    "objectID": "01-supuesto/serv-comunes.html#clve",
+    "href": "01-supuesto/serv-comunes.html#clve",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "",
+    "text": "Nota📋 Marco de referencia\n\n\n\n\nReferencias\n\nCl@ve en CTT. PAe.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/estimacion.html#enfoque-cocomo",
-    "href": "01-supuesto/estimacion.html#enfoque-cocomo",
-    "title": "7  Estimaciones de recursos",
-    "section": "7.3 Enfoque COCOMO",
-    "text": "7.3 Enfoque COCOMO",
+    "objectID": "01-supuesto/serv-comunes.html#carpeta-ciudadana",
+    "href": "01-supuesto/serv-comunes.html#carpeta-ciudadana",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.2 Carpeta Ciudadana",
+    "text": "5.2 Carpeta Ciudadana\nCarpeta Ciudadana (CCD)",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
     ]
   },
   {
-    "objectID": "01-supuesto/estimacion.html#métricas-bang",
-    "href": "01-supuesto/estimacion.html#métricas-bang",
-    "title": "7  Estimaciones de recursos",
-    "section": "7.4 Métricas Bang",
-    "text": "7.4 Métricas Bang",
+    "objectID": "01-supuesto/serv-comunes.html#sir",
+    "href": "01-supuesto/serv-comunes.html#sir",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.3 SIR",
+    "text": "5.3 SIR\nSistema de Interconexión de Registros (SIR)",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Estimaciones de recursos</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#dehú",
+    "href": "01-supuesto/serv-comunes.html#dehú",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.4 DEHú",
+    "text": "5.4 DEHú\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nReferencias\n\nDEHú en DS-CTT\n\n\n\n\nLa Dirección Electrónica Habilitada única (DEHú) es un punto único de notificaciones para toda las AAPP.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#plataforma-de-intermediación-de-datos",
+    "href": "01-supuesto/serv-comunes.html#plataforma-de-intermediación-de-datos",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.5 Plataforma de Intermediación de Datos",
+    "text": "5.5 Plataforma de Intermediación de Datos",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#face",
+    "href": "01-supuesto/serv-comunes.html#face",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.6 FACe",
+    "text": "5.6 FACe\nFACE es el Punto General de Entrada de Facturas Electrónicas de la AGE.\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=face",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#dir3",
+    "href": "01-supuesto/serv-comunes.html#dir3",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.7 DIR3",
+    "text": "5.7 DIR3\nDIR3 es el Directorio Común de Unidades Orgánicas y Oficinas de la AGE.\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\nhttps://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=dir",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#rec",
+    "href": "01-supuesto/serv-comunes.html#rec",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.8 REC",
+    "text": "5.8 REC\nRegistro Electrónico Común (REC).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#orve",
+    "href": "01-supuesto/serv-comunes.html#orve",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.9 ORVE",
+    "text": "5.9 ORVE\nOficina de Registro Virtual (ORVE)",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#geiser",
+    "href": "01-supuesto/serv-comunes.html#geiser",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.10 GEISER",
+    "text": "5.10 GEISER\nGestión Integrada de Servicios de Registro (GEISER).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#sia",
+    "href": "01-supuesto/serv-comunes.html#sia",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.11 SIA",
+    "text": "5.11 SIA\nSistema de Información Administrativa (SIA).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#podera",
+    "href": "01-supuesto/serv-comunes.html#podera",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.12 @podera",
+    "text": "5.12 @podera\n@podera es un registro electrónico de apoderamiento.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#habilit",
+    "href": "01-supuesto/serv-comunes.html#habilit",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.13 Habilit@",
+    "text": "5.13 Habilit@\nHabilit@ es un registro de funcionarios habilitados.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#valide",
+    "href": "01-supuesto/serv-comunes.html#valide",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.14 VALIDe",
+    "text": "5.14 VALIDe\nVALIDe",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#autentica",
+    "href": "01-supuesto/serv-comunes.html#autentica",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.15 AutenticA",
+    "text": "5.15 AutenticA\nAutenticA.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#inside",
+    "href": "01-supuesto/serv-comunes.html#inside",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.16 InSiDe",
+    "text": "5.16 InSiDe\nInfraestructuras y Sistemas de Documentación Electrónica (InSiDe).",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/serv-comunes.html#archive",
+    "href": "01-supuesto/serv-comunes.html#archive",
+    "title": "5  Servicios electrónicos comunes",
+    "section": "5.17 Archive",
+    "text": "5.17 Archive\nArchive es un archivo definitivo de expedientes y documentos.\n\n5.17.1 CTT (Centro de Transferencia de Tecnología)\n\n\n\n\n\n\nNota\n\n\n\n\nReferencias\n\nRepositorio forja-CTT en GitHub\n\n\n\n\nEl Centro de Transferencia de Tecnología (CTT) es un portal web que tiene como objetivo favorecer la reutilización de soluciones tecnológicas a lo largo.\nEs gestionado por la AEAD.\nContiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de soluciones}, que es un catálogo de soluciones tecnológicas reutilizables en las AAPP.\nEl repositorio forja-CTT de GitHub alberga proyectos de código abierto de las AAPP.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Servicios electrónicos comunes</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/seguridad.html",
+    "href": "01-supuesto/seguridad.html",
+    "title": "6  Seguridad",
+    "section": "",
+    "text": "6.1 Riesgos\nEste apartado trata sobre la evaluación de riesgos en proyectos de sistemas de la información.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Seguridad</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/seguridad.html#riesgos",
+    "href": "01-supuesto/seguridad.html#riesgos",
+    "title": "6  Seguridad",
+    "section": "",
+    "text": "Nota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAnálisis y gestión de riesgos",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Seguridad</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/seguridad.html#esquema-nacional-de-seguridad-ens",
+    "href": "01-supuesto/seguridad.html#esquema-nacional-de-seguridad-ens",
+    "title": "6  Seguridad",
+    "section": "6.2 Esquema Nacional de Seguridad (ENS)",
+    "text": "6.2 Esquema Nacional de Seguridad (ENS)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nGuías\n\nCCN-STIC 803. Valorización de los sistemas en el ENS\n\nTemas\n\n\nENS\n\n\n\n\n\nEl Esquema Nacional de Seguridad (ENS) es una pregunta permanente en todos los ejercicios prácticas del CSSTIAE.\nLas categorías de seguridad del ENS son:\n\nBásica\nMedia\nAlta\n\nLas dimensiones de seguridad del ENS son:\n\nConfidencialidad\nIntegridad\nDisponibilidad\nAutenticidad\nTrazabilidad\n\nSe asigna a cada dimensión de seguridad una de las categorías. La más alta categoría obtenida en todas las dimensiones determina la categoría global del sistema.\nA la hora de evaluar los ejercicios, se debe vigilar cuándo poner categoría alta, pues está reservada a sistemas de información que manejan datos de especial sensibilidad, como los relacionados con la seguridad nacional, la defensa, la seguridad pública y la salud pública.\nTambién se debe vigilar cuándo poner categoría básica, pues está reservada a sistemas de información que manejan datos de baja sensibilidad, como los relacionados con la publicidad, la meteorología o la cultura. Un sistema que almacena datos personales no puede tener categoria básica.\nComo referencia sobre cómo categorizar la seguridad del ENS, se puede mencionar la guía CCN-STIC 803 “Valorización de los sistemas en el ENS”.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Seguridad</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/seguridad.html#protección-de-datos",
+    "href": "01-supuesto/seguridad.html#protección-de-datos",
+    "title": "6  Seguridad",
+    "section": "6.3 Protección de datos",
+    "text": "6.3 Protección de datos\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nAdaptación LOPD",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Seguridad</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/seguridad.html#guías-ccn-stic",
+    "href": "01-supuesto/seguridad.html#guías-ccn-stic",
+    "title": "6  Seguridad",
+    "section": "6.4 Guías CCN-STIC",
+    "text": "6.4 Guías CCN-STIC",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Seguridad</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html",
+    "href": "01-supuesto/interoperabilidad.html",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "",
+    "text": "7.1 Declaración ministerial de Tallín sobre la administración electrónica\nSe firmó en 2017-10-06.\nIncluye aspectos relevantes para la interoperabilidad como el principio de “solo una vez”, interoperabilidad por defecto o el EIF",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#reglamento-europeo-de-la-interoperabilidad-rei",
+    "href": "01-supuesto/interoperabilidad.html#reglamento-europeo-de-la-interoperabilidad-rei",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.2 Reglamento Europeo de la Interoperabilidad (REI)",
+    "text": "7.2 Reglamento Europeo de la Interoperabilidad (REI)\nEl Reglamento Europeo de la Interoperabilidad (REI) es también conocido como Interoperable Europe Act (IEA). Se define en el reglamento UE 2024/903\nEn él se define un Comité de Europa de Interoperabilidad y un Portal de la Europa Interoperable, conocido en inglés como Interoperable Europe portal (antiguo JoinUp).\nEl REI requiere que se realicen evaluaciones de interoperabilidad en ciertas circunstancias.\nCarlos Treviño resume el REI en la 1a parte de la sesión 3 de Preparatic 30, de noviembre 2024, de manera que se puede ver el vídeo y la presentación.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#pasarela-digital-única",
+    "href": "01-supuesto/interoperabilidad.html#pasarela-digital-única",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.3 Pasarela digital única",
+    "text": "7.3 Pasarela digital única\nPasarela Digital Única, en inglés Single Digital Gateway.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#esquema-nacional-de-interoperabilidad",
+    "href": "01-supuesto/interoperabilidad.html#esquema-nacional-de-interoperabilidad",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.4 Esquema Nacional de Interoperabilidad",
+    "text": "7.4 Esquema Nacional de Interoperabilidad\nEl Esquema Nacional de Interoperabilidad de España se regula a través del Real Decreto 4/2010.\nEstá basado en el European Interoperability Framework / Marco Europeo de Interoperabilidad.\n\n7.4.1 Niveles del ENI\nNiveles del ENI:\n\nInteroperabilidad jurídica\nInteroperabilidad organizativa\nInteroperabilidad semántica\nInteroperabilidad técnica\n\n\n\n7.4.2 Dimensiones del ENI\nDimensiones del ENI:\n\nDimensión legal\nDimensión organizativa\nDimensión semántica\nDimensión técnica\n\n\n\n7.4.3 Instrumentos del ENI\nExisten los siguientes inventarios:\n\nSIA\nDIR3\nCISE\nCTT\n\nLos dos primeros (SIA y DIR3) trabajan la dimensión/nivel organizativa (al inventariar procesos y organismos, respectivamente), CISE trata la semántica (al inventariar modelos de datos) y CTT la técnica (al inventariar productos y servicios digitales).\nBOE-A-2010-1331",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#normas",
+    "href": "01-supuesto/interoperabilidad.html#normas",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.5 Normas",
+    "text": "7.5 Normas\nEl ENI está formado por normas.\nAlgunas normas del ENI:\n\nCatálogo de estándares.\nPolítica de Firma Electrónica y de certificados de la Administración.\nReutilización de recursos de información.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#nti",
+    "href": "01-supuesto/interoperabilidad.html#nti",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.6 NTI",
+    "text": "7.6 NTI\nNorma Técnica de Interoperabilidad (NTI):\n\nCatálogo de estándares\nDocumento electrónico\nDigitalización de documentos\nExpediente electrónico\nPolítica de firma y sellos electrónicos y de certificados de la Administración\nProtocolos de intermediación de datos\nRelación de modelos de datos\nPolítica de gestión de documentos electrónicos\nRequisitos de conexión a la Red de comunicaciones de las Administraciones Públicas españolas\nProcedimientos de copiado auténtico y conversión entre documentos electrónicos\nModelo de Datos para el intercambio de asientos entre las Entidades Registrales\nReutilización de recursos de información\nNorma SICRES (Sistema de Información Común de Registros de Entrada y Salida).\n\nEl sistema InSiDe es un servicio común cumple los requisitos para que documentos y expedientes puedan almacenarse y obtenerse según el ENI.\nNTIs en el PAe\n\n7.6.1 NTI de catálogo de estándares\n\n\n7.6.2 NTI de documento electrónico\nMetadatos mínimos obligatorios:\nID del documento\nID de la administración generadora del documento\nFecha de alta en el sistema de gestión documental\n\n\n7.6.3 NTI de digitalización de documentos\nEl nivel de resolución mínimo para imágenes electrónicas será de 200 píxeles por pulgada, tanto para imágenes obtenidas en blanco y negro, color o escala de grises. Esto se define en el apartado IV.2.\nPara el escaneado de documentos, la calidad mínima aceptable de la reproducción, basada en la relación del tamaño del carácter de los documentos y la resolución de captura, será de un índice de calidad (quality indicator, QI) de 3,6. Esto vino en el exámen extraordinario de 2022 del CSSTIAE. Las únicas referencias a esta calidad es en el estándar ANSI/AIIM MS23-1991, al que se hace referencia en el FIST #54-1 del NIST.\n\n\n7.6.4 NTI de política de gestión de documentos electrónicos\nLa NTI de política de gestión de documentos electrónicos debe incluir al menos:\nDefinición del alcance y ámbito de aplicación\nActuaciones de supervisión y auditoría de los procesos de gestión de documentos\nRoles de los actores involucrados\nProcesos de gestión mínimos:\n\nCaptura\nRegistro\nClasificación\nDescripción\nAcceso\nCalificación\nConservación\nTransferencia\nDestrucción o elminación de documentos",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#auditoría-del-eni",
+    "href": "01-supuesto/interoperabilidad.html#auditoría-del-eni",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.7 Auditoría del ENI",
+    "text": "7.7 Auditoría del ENI\nExiste una guía de auditoría del cumplimiento del ENI.\nGuía de auditoría del cumplimiento del ENI de 2016",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/interoperabilidad.html#iniciativas-relevantes",
+    "href": "01-supuesto/interoperabilidad.html#iniciativas-relevantes",
+    "title": "7  Interoperabilidad en la AGE",
+    "section": "7.8 Iniciativas Relevantes",
+    "text": "7.8 Iniciativas Relevantes\nIniciativas relevantes a la interoperabilidad en el sector público en España:\nUnión Europea\n    Programa de interoperabilidad\n    EIF\n    CEF\n    EIRA\n    NIFO\n    SEMIC.EU\n    Interoperability European Portal\nEspaña\n    Aporta\nProgramas de Interoperabilidad\nThere has been different programs:\nIDA\nIDA II\nIDABC (-2009)\nISA (2010-2015)\nISA2 (2016-2020)\nThese programs updated and applied the EIF and EIS.\n\n7.8.1 EIF\nEIF, Wikipedia\nEl Marco Europeo de Interoperabilidad (European Interoperability Framework, EIF) was first included in a European Commission Communication in 2010. It has been updated afterwards through interoperability programs.\nNational Interoperability Framework (NIF).\nDomain Interoperability Framework (DIF).\nEIF underlying principles:\n\nSubsidiarity and proportionality\nOpenness\nTransparency\nReusability\nTechnological neutrality and data portability\nUser-centricity\nInclusion and accessibility\nSecurity and privacy\nMultilingualism\nAdministrative simplification\nPreservation of information\nAssessment of effectiveness and efficiency\n\n\n\n7.8.2 CEF\nConnecting Europe Facility (CEF) is a initiative with the aim of financing the interoperability projects in the fields of energy, transport and telecommunications. It was launched in 2013.\nCEF Telecom is the name that receives the CEF related to telecommunications.\n\n\n7.8.3 EIRA\nEuropean Interoperability Architecture (EIRA) defines the architectonic blocks for interoperability.\n\n\n7.8.4 NIFO\nNational Interoperability Framework Observatory (NIFO) assess the level of interoperability.\nIt publishes these reports:\nState-of-play report\nNIFO sheets\nLIFO report\nThe NIFO follow-up mechanism includes 47 recommendations and 68 KPIs.\n\n\n7.8.5 SEMIC.EU\nThe Semantic Interoperability Community (SEMIC.EU) celebrates a convention yearly.\nSEMIC.EU at Wikipedia\n\n\n7.8.6 Interoperability European portal\nThe Interoperable Europe portal was previously known as JoinUp.\n\n\n7.8.7 Aporta 2009\nAporta es una iniciativa de 2009 que en 2025 sigue vigente\nTiene como fin promocionar la apertura de la información pública y desarrollo de servicios avanzados basados en datos. Es promovida por el Ministerio para la Transformación Digital y de la Función Pública​ a través de la Entidad Pública Empresarial Red.es.\nAcerca de Aporta 2009 en datos.gob.es\n\n\n7.8.8 datos.gob.es\ndatos.gob.es es una plataforma de reutilización de información producida en el sector público de España.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Interoperabilidad en la AGE</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/dimensionamiento.html",
+    "href": "01-supuesto/dimensionamiento.html",
+    "title": "8  Dimensionamiento de recursos",
+    "section": "",
+    "text": "8.1 Dimensionamiento de desarrollo\nPara dimensionar los recursos necesarios de un sistema informático es necesario tener en cuenta al menos:\nEn caso de que el enunciado del ejercicio incluya un importe de presupuesto, el coste total del proyecto debe aproximarse lo más posible al indicado.\nLos costes de un proyecto vienen definidos principalmente por:\nLas tarifas de personal no las he encontrado como estándares.\nNo obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:\no en el Anexo IX de este otro contrato de la Comunidad de Madrid.\nMemoria económica del expediente 300/ 2021/00023 del Ayto de Madrid\nServicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid\nSe realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.\nEste capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.\nLas técnicas aquí reflejadas son las reseñadas en el temario ofrecido por Astic.",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Dimensionamiento de recursos</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/dimensionamiento.html#dimensionamiento-de-desarrollo",
+    "href": "01-supuesto/dimensionamiento.html#dimensionamiento-de-desarrollo",
+    "title": "8  Dimensionamiento de recursos",
+    "section": "",
+    "text": "Nota📋 Marco de referencia\n\n\n\n\n🎯 Temas:\n\n\nEstimación de recursos\n\n\n🔗 Referencias de consulta:\n\nSoftware Estimation (RunModule, 2026)\n\n\n\n\n\n\n\nPersonal\nEquipos informáticos\nLicencias de software\n\n\n\n\n\n\n\n\n\n\n8.1.1 COSMIC-FSM\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\nhttps://runmodule.com/2027/04/27/cosmic-functional-size-measurement/\n\n\n\n\n8.1.2 UCP\nUser Case Points (UCP)\n\n\n8.1.3 Enfoque COCOMO\n\n\n8.1.4 Métricas Bang",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Dimensionamiento de recursos</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/dimensionamiento.html#dimensionamiento-de-licencias-de-software",
+    "href": "01-supuesto/dimensionamiento.html#dimensionamiento-de-licencias-de-software",
+    "title": "8  Dimensionamiento de recursos",
+    "section": "8.2 Dimensionamiento de licencias de software",
+    "text": "8.2 Dimensionamiento de licencias de software\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nContratación\n\nSDA 25/2022 de suministros\n\n\n\n\nLas licencias de software se recogen mediante el SDA 25/2022 de suministros.\nRevisar las secciones de y SDA",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Dimensionamiento de recursos</span>"
+    ]
+  },
+  {
+    "objectID": "01-supuesto/dimensionamiento.html#dimensionamiento-de-infraestructuras",
+    "href": "01-supuesto/dimensionamiento.html#dimensionamiento-de-infraestructuras",
+    "title": "8  Dimensionamiento de recursos",
+    "section": "8.3 Dimensionamiento de infraestructuras",
+    "text": "8.3 Dimensionamiento de infraestructuras\nPara la infraestructura.\nSi el sistema cuenta con infraestructura on premise, se puede emplear el SDA 24/2022 de sistemas de comunicación, servidores y sistemas de almacenamiento.\nSi el sistema depende de infraestructura en la nube, se demostrará al Tribunal conocimiento sobre la AGE al proponer el uso de la NubeSARA. Conviene revisar y aplicar las tarifas correspondientes.\n\n8.3.1",
+    "crumbs": [
+      "Supuesto práctico",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Dimensionamiento de recursos</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html",
     "href": "01-supuesto/contratacion.html",
-    "title": "8  Contratación",
+    "title": "9  Contratación",
     "section": "",
-    "text": "8.1 Presupuesto de los contratos\nEste apartado trata sobre la contratación en la Administración General del Estado (AGE).\nCuando el importe del contrato supere los 12.000.000 € debe aprobarse también por el Consejo de Ministros.",
+    "text": "9.1 Presupuesto de los contratos\nEste apartado trata sobre la contratación en la Administración General del Estado (AGE).\nCuando el importe del contrato supere los 12.000.000 € debe aprobarse también por el Consejo de Ministros.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#presupuesto-de-los-contratos",
     "href": "01-supuesto/contratacion.html#presupuesto-de-los-contratos",
-    "title": "8  Contratación",
+    "title": "9  Contratación",
     "section": "",
-    "text": "Presupuesto base de licitación\nValor estimado\nPrecio\n\n\n8.1.1 Presupuesto base de licitación\nEl presupuesto base de licitación es el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido (IVA).\nNo incluye prórrogas.\nIncluye IVA.\n\n\n8.1.2 Valor estimado\nEl valor estimado incluye todas las prórrogas y modificaciones.\nNO incluye IVA.",
+    "text": "Presupuesto base de licitación\nValor estimado\nPrecio\n\n\n9.1.1 Presupuesto base de licitación\nEl presupuesto base de licitación es el límite máximo de gasto que en virtud del contrato puede comprometer el órgano de contratación, incluido el Impuesto sobre el Valor Añadido (IVA).\nNo incluye prórrogas.\nIncluye IVA.\n\n\n9.1.2 Valor estimado\nEl valor estimado incluye todas las prórrogas y modificaciones.\nNO incluye IVA.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#tipos-de-contratación-pública-según-su-objeto",
     "href": "01-supuesto/contratacion.html#tipos-de-contratación-pública-según-su-objeto",
-    "title": "8  Contratación",
-    "section": "8.2 Tipos de contratación pública según su objeto",
-    "text": "8.2 Tipos de contratación pública según su objeto\nTipos de contratación según su objeto:\n\nObras\nConcesión de obras\nServicios\nConcesión de Servicios\nSuministros\nMixto\n\nLas licencias de software se considera suministro, mientras que el software a medida se considera un servicio.\n\n8.2.1 Obras\nEl contrato de obras se regula en el art. 13 de la ley 9/2017.\n\n\n8.2.2 Mixto\nEn el contrato mixto se recogen varios objetos de contratación.\nEn caso de contrato mixto, se distingue entre la preparación y adjudicación del contrato, donde se recogen las normas que establecen las Directivas, y los efectos y extinción.\nRespecto de la preparación y adjudicación, la regla general es que al contrato mixto se le aplican las normas del contrato cuya prestación sea la principal o cuyo valor estimado sea más elevado.",
+    "title": "9  Contratación",
+    "section": "9.2 Tipos de contratación pública según su objeto",
+    "text": "9.2 Tipos de contratación pública según su objeto\nTipos de contratación según su objeto:\n\nObras\nConcesión de obras\nServicios\nConcesión de Servicios\nSuministros\nMixto\n\nLas licencias de software se considera suministro, mientras que el software a medida se considera un servicio.\n\n9.2.1 Obras\nEl contrato de obras se regula en el art. 13 de la ley 9/2017.\n\n\n9.2.2 Mixto\nEn el contrato mixto se recogen varios objetos de contratación.\nEn caso de contrato mixto, se distingue entre la preparación y adjudicación del contrato, donde se recogen las normas que establecen las Directivas, y los efectos y extinción.\nRespecto de la preparación y adjudicación, la regla general es que al contrato mixto se le aplican las normas del contrato cuya prestación sea la principal o cuyo valor estimado sea más elevado.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#regulación-armonizada-sara",
     "href": "01-supuesto/contratacion.html#regulación-armonizada-sara",
-    "title": "8  Contratación",
-    "section": "8.3 Regulación armonizada SARA",
-    "text": "8.3 Regulación armonizada SARA\nLa regulación armonizada (SARA) es una regulación que se aplica solamente a contratos que cumplen ciertas características.\nLa regulación armonizada sre aplica cuando el valor estimado del contrato sobrepasa el umbral de:\n143.000 € para la AGE en contratos de suministros y servicios\n221.000 € para organismos distintos a la AGE en contratos de suministros y servicios\n5.538.000 € en contratos de obras, concesión de obras y de concesión de servicio (para cualquier organismo\nEstos importes se establecen en la Orden HFP/1352/2023.\nUna de las implicaciones de la regulación armonizada es que los contratos bajo la misma deben publicarse en el Diario Oficial de la Unión Europea.",
+    "title": "9  Contratación",
+    "section": "9.3 Regulación armonizada SARA",
+    "text": "9.3 Regulación armonizada SARA\nLa regulación armonizada (SARA) es una regulación que se aplica solamente a contratos que cumplen ciertas características.\nLa regulación armonizada sre aplica cuando el valor estimado del contrato sobrepasa el umbral de:\n143.000 € para la AGE en contratos de suministros y servicios\n221.000 € para organismos distintos a la AGE en contratos de suministros y servicios\n5.538.000 € en contratos de obras, concesión de obras y de concesión de servicio (para cualquier organismo\nEstos importes se establecen en la Orden HFP/1352/2023.\nUna de las implicaciones de la regulación armonizada es que los contratos bajo la misma deben publicarse en el Diario Oficial de la Unión Europea.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#plazo-de-ejecución",
     "href": "01-supuesto/contratacion.html#plazo-de-ejecución",
-    "title": "8  Contratación",
-    "section": "8.4 Plazo de ejecución",
-    "text": "8.4 Plazo de ejecución\nEl plazo de ejecución se especifica en el pliego, sin que exista un plazo máximo. Los plazos de ejecución se regulan en el art. 210 de la ley 9/2017.",
+    "title": "9  Contratación",
+    "section": "9.4 Plazo de ejecución",
+    "text": "9.4 Plazo de ejecución\nEl plazo de ejecución se especifica en el pliego, sin que exista un plazo máximo. Los plazos de ejecución se regulan en el art. 210 de la ley 9/2017.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#prórrogas-en-concesiones",
     "href": "01-supuesto/contratacion.html#prórrogas-en-concesiones",
-    "title": "8  Contratación",
-    "section": "8.5 Prórrogas en concesiones",
-    "text": "8.5 Prórrogas en concesiones\nLas prórrogas de las concesiones deben ser acordadas entre la entidad contratante y el contratista.\nVienen reguladas en el art. 205 de la ley 9/2017.",
+    "title": "9  Contratación",
+    "section": "9.5 Prórrogas en concesiones",
+    "text": "9.5 Prórrogas en concesiones\nLas prórrogas de las concesiones deben ser acordadas entre la entidad contratante y el contratista.\nVienen reguladas en el art. 205 de la ley 9/2017.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#procedimientos-de-adjudicación",
     "href": "01-supuesto/contratacion.html#procedimientos-de-adjudicación",
-    "title": "8  Contratación",
-    "section": "8.6 Procedimientos de adjudicación",
-    "text": "8.6 Procedimientos de adjudicación\nProcedimientos o formas de adjudicación:\n\nProcedimiento abierto\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\nProcedimiento restringido\nProcedimiento de negociación\nProcedimiento negociado sin publicidad\nContrato menor\nDiálogo competitivo\nProcedimiento de asociación para la innovación\nContrato menor\nContratación centralizada\n\nLa plataforma para realizar contratación es Conecta-Contratación.\nPágina web de Conecta-Contratación.\nLos contratos sujetos a contratación armonizada se llaman también contratos SARA.\n\n8.6.1 Procedimiento abierto\nUn procedimientos abierto se denomina así ya que cualquiera puede licitar al mismo.\nExisten varios subtipos de procedimiento abierto:\n\nProcedimiento abierto (estándar)\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\n\n\n8.6.1.1 Procedimiento abierto estándar\nEl procedimiento abierto es el ordinario de contratación. Se le llama en este apartado procedimiento abierto estándar para distinguirlo de variantes como el simplificado y el abreviado, aunque este no sea su nombre oficial.\nEl plazo de presentación de proposiciones es:\nEn caso de regulación NO armonizada: 15 días\nEn caso de regulación armonizada\nEn situación estándar: 35 días\nSi se publicó un anuncio previo o en situación de emergencia: 15 días\nSi se aceptan propuestas de ofertas por medios electrónicos, reducen los plazos en 5 días. Esto se define en el art. 156.3.c.\nNo tiene restricciones respecto al importe del contrato.\n\n\n8.6.1.2 Procedimiento abierto simplificado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 2.000.000 €\nPara contratos de suministro y de servicios, valor estimado &lt;= 100.000 €\nCriterios de adjudicación\nEn prestación de carácter no intelectual, los juicios de valor deben ser &lt;25%\nEn prestación intelectual, los juicios de valor deben ser &lt;40%\nPlazo de presentación de proposiciones mínimo:\nObras: 20 días\nOtros: 15 días\n\n\n8.6.1.3 Procedimiento abierto simplificado abreviado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 80.000 €.\nPara contratos de suministros y servicios, valor estimado &lt;= 60.000 €\nTipo de prestación\nSolo prestación de carácter no intelectual\nPlazo de presentación de proposiciones mínimo:\nCompras corrientes disponibles en el mercado: 5 días hábiles\nOtros: 10 días hábiles\nNo es necesaria la acreditación de la solvencia económica y financiera y técnica o profesional de los licitadores.\nLa oferta se entregará en un único sobre y se evaluará con arreglo a criterios de adjudicación cuantificables mediante la mera aplicación de fórmulas establecidas en los pliegos.\nCon “sobre único” se refiere a que solo se hace una oferta con valores cuantificables y que, a diferencia de otros procesos, no hace falta emitir aparte la oferta con valores subjetivos o cualitativos.\n\n\n\n8.6.2 Procedimiento restringido\nSolo puede licitar quien pasa un filtro.\nNo permite negociaciones en el precio.\n\n\n8.6.3 Procedimiento con negociación\nEstos procedimientos permiten negociación, a diferencia del abierto y el restringido.\nExisten dos tipos:\n\nProcedimiento con negociación [estándar]\nProcedimiento con negociación sin publicidad\n\n\n8.6.3.1 Procedimiento con negociación estándar\nViene recogido en el artículo 167 de la LCSP.\nPermite negociar con los licitadores las condiciones, quedando fuera los aspectos esenciales y los criterios de adjudicación.\nLa versión estándar requiere publicidad.\nSolo se puede aplicar en un número de casos:\nCuando requiera que los licitadores realicen un trabajo previo de diseño o adaptación.\nCuando se trate de una solución innovadoras\nCuando las negociaciones sean ineludibles.\nCuando el órgano de contratación con puede precisar suficientemente las especificaciones.\nCuando no se haya recibido nada aceptable tras realizar un procedimiento abierto o restringido.\nCuando se trate de contratos de servicios sociales personalísimos.\n\n\n8.6.3.2 Procedimiento negociado sin publicidad\nRegulado en el artículo 168 LCSP.\nEs similar al procedimiento negociado estándar pero no requiere publicidad.\nRequiere que se de una compleja lista de condiciones, entre ellas:\nNo se haya presentado ninguna oferta; ninguna oferta adecuada; ninguna solicitud de participación; o ninguna solicitud de participación adecuada en respuesta a un procedimiento abierto o a un procedimiento restringido.\nCuando las obras, los suministros o los servicios solo puedan ser encomendados a un empresario determinado.\nCuando el contrato haya sido declarado\n\n\n\n8.6.4 Diálogo competitivo\nComparte los supuestos del procedimiento negociado.\nSupone mantener una mesa de diálogo.\nPermite el pago de primas o compensaciones a los licitadores que se presenten.\n\n\n8.6.5 Procedimiento de asociación para la innovación\nRelacionado con la innovación.\n\n\n8.6.6 Contrato menor\nUn contrato menor debe cumplir una serie de condiciones.\nCondiciones del contrato menor:\n\nCondiciones económicas\n\nContratos de obras: valor estimado &lt; 40.000.\nContratos de suministros o servicios: valor estimado &lt; 15.000 €.\n\n\nEn este caso se define también en valor estimado y no al importe base de licitación.\nSe debe solicitar al menos 3 prespuestos.\nNo se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente.\nLos contratos menores NO son susceptbiles de prórroga.\nSegún los apuntes de Andreu Bosa, lleva un mes su tramitación.\n\n\n8.6.7 Contratación centralizada\nModalidades dentro de la contratación centralizada:\n\nAcuerdo marco\nSistema dinámico de adquisición (SDA)\nContratos centralizados\nEncargos a medios propios\n\nPor encima de 862.000 € no se puede ir por contratación centralizada y habría que ir muy probablemente a procedimiento abierto.\nSe pueden revisar el catálogo en la página oficial:\nPágina web del catálogo de contratación centralizada\nLa tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.\nLa Secretaría General de la Administración Digital (SGAD) agrega todas las peticiones y la DGRCC coordina el proceso de compra conjunto.\n\n\n8.6.8 Acuerdos Marco\nLa duración máxima de un acuerdo marco es de 2 años prorrogables a otros 2. Durante el plazo de vigencia del acuerdo marco no pueden entrar más proveedores.\nEn caso de que no estén todos los términos o condiciones fijados hay que añadir una segunda fase en la que hay que contactar a los proveedores.\nEn caso de contratos SARA hay que contactar a todos los proveedores del acuerdo marco.\nEn caso de contratos no SARA es suficiente con contactar con 3 proveedores.\nEl órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).\n\n8.6.8.1 Acuerdos marcos relevantes para IT\nHay que saberse los números de los acuerdos marcos.\nSon relevantes los siguientes acuerdos marcos:\n\nAM 02/2023. Ordenadores de mesa, portátiles monitores y otras soluciones del puesto de trabajo\nAM 05/2023. Impresoras, fotocopiadoras y escáneres\nAM 08/2021. Sistemas de seguridad\n\n\n\n\n8.6.9 Sistemas Dinámicos de Adquisición\nSistemas dinámicos de adquisición (SDA) tiene una duración de 5 años.\nDurante su vigencia se permiten que salgan y entren empresas.\n\n8.6.9.1 SDAs relevantes para TI\nHay que saberse los números de los acuerdos marcos.\nSDAs relevantes para TI:\n\nSDA 25/2022. Suministro de software\nSDA 26/2021. Servicios de desarrollo\nSDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento\n\nSDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales.\n\n\n\n8.6.10 Contratos centralizados\nLos contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.\nEn el caso de telecomunicaciones existen 4 lotes:\n\nLote 1. Fijo. Adjudicado a Telefónica\nLote 2: Móviles. Otorgado a Vodafone\nLote 3: Internet. Otorgado a Telefónica.\nLote 4: Internacional. Adjudicado a British Telecom (BT)",
+    "title": "9  Contratación",
+    "section": "9.6 Procedimientos de adjudicación",
+    "text": "9.6 Procedimientos de adjudicación\nProcedimientos o formas de adjudicación:\n\nProcedimiento abierto\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\nProcedimiento restringido\nProcedimiento de negociación\nProcedimiento negociado sin publicidad\nContrato menor\nDiálogo competitivo\nProcedimiento de asociación para la innovación\nContrato menor\nContratación centralizada\n\nLa plataforma para realizar contratación es Conecta-Contratación.\nPágina web de Conecta-Contratación.\nLos contratos sujetos a contratación armonizada se llaman también contratos SARA.\n\n9.6.1 Procedimiento abierto\nUn procedimientos abierto se denomina así ya que cualquiera puede licitar al mismo.\nExisten varios subtipos de procedimiento abierto:\n\nProcedimiento abierto (estándar)\nProcedimiento abierto simplificado\nProcedimiento abierto simplificado abreviado\n\n\n9.6.1.1 Procedimiento abierto estándar\nEl procedimiento abierto es el ordinario de contratación. Se le llama en este apartado procedimiento abierto estándar para distinguirlo de variantes como el simplificado y el abreviado, aunque este no sea su nombre oficial.\nEl plazo de presentación de proposiciones es:\nEn caso de regulación NO armonizada: 15 días\nEn caso de regulación armonizada\nEn situación estándar: 35 días\nSi se publicó un anuncio previo o en situación de emergencia: 15 días\nSi se aceptan propuestas de ofertas por medios electrónicos, reducen los plazos en 5 días. Esto se define en el art. 156.3.c.\nNo tiene restricciones respecto al importe del contrato.\n\n\n9.6.1.2 Procedimiento abierto simplificado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 2.000.000 €\nPara contratos de suministro y de servicios, valor estimado &lt;= 100.000 €\nCriterios de adjudicación\nEn prestación de carácter no intelectual, los juicios de valor deben ser &lt;25%\nEn prestación intelectual, los juicios de valor deben ser &lt;40%\nPlazo de presentación de proposiciones mínimo:\nObras: 20 días\nOtros: 15 días\n\n\n9.6.1.3 Procedimiento abierto simplificado abreviado\nCondiciones para su aplicación:\nCriterio económico\nPara contratos de obras, valor estimado &lt;= 80.000 €.\nPara contratos de suministros y servicios, valor estimado &lt;= 60.000 €\nTipo de prestación\nSolo prestación de carácter no intelectual\nPlazo de presentación de proposiciones mínimo:\nCompras corrientes disponibles en el mercado: 5 días hábiles\nOtros: 10 días hábiles\nNo es necesaria la acreditación de la solvencia económica y financiera y técnica o profesional de los licitadores.\nLa oferta se entregará en un único sobre y se evaluará con arreglo a criterios de adjudicación cuantificables mediante la mera aplicación de fórmulas establecidas en los pliegos.\nCon “sobre único” se refiere a que solo se hace una oferta con valores cuantificables y que, a diferencia de otros procesos, no hace falta emitir aparte la oferta con valores subjetivos o cualitativos.\n\n\n\n9.6.2 Procedimiento restringido\nSolo puede licitar quien pasa un filtro.\nNo permite negociaciones en el precio.\n\n\n9.6.3 Procedimiento con negociación\nEstos procedimientos permiten negociación, a diferencia del abierto y el restringido.\nExisten dos tipos:\n\nProcedimiento con negociación [estándar]\nProcedimiento con negociación sin publicidad\n\n\n9.6.3.1 Procedimiento con negociación estándar\nViene recogido en el artículo 167 de la LCSP.\nPermite negociar con los licitadores las condiciones, quedando fuera los aspectos esenciales y los criterios de adjudicación.\nLa versión estándar requiere publicidad.\nSolo se puede aplicar en un número de casos:\nCuando requiera que los licitadores realicen un trabajo previo de diseño o adaptación.\nCuando se trate de una solución innovadoras\nCuando las negociaciones sean ineludibles.\nCuando el órgano de contratación con puede precisar suficientemente las especificaciones.\nCuando no se haya recibido nada aceptable tras realizar un procedimiento abierto o restringido.\nCuando se trate de contratos de servicios sociales personalísimos.\n\n\n9.6.3.2 Procedimiento negociado sin publicidad\nRegulado en el artículo 168 LCSP.\nEs similar al procedimiento negociado estándar pero no requiere publicidad.\nRequiere que se de una compleja lista de condiciones, entre ellas:\nNo se haya presentado ninguna oferta; ninguna oferta adecuada; ninguna solicitud de participación; o ninguna solicitud de participación adecuada en respuesta a un procedimiento abierto o a un procedimiento restringido.\nCuando las obras, los suministros o los servicios solo puedan ser encomendados a un empresario determinado.\nCuando el contrato haya sido declarado\n\n\n\n9.6.4 Diálogo competitivo\nComparte los supuestos del procedimiento negociado.\nSupone mantener una mesa de diálogo.\nPermite el pago de primas o compensaciones a los licitadores que se presenten.\n\n\n9.6.5 Procedimiento de asociación para la innovación\nRelacionado con la innovación.\n\n\n9.6.6 Contrato menor\nUn contrato menor debe cumplir una serie de condiciones.\nCondiciones del contrato menor:\n\nCondiciones económicas\n\nContratos de obras: valor estimado &lt; 40.000.\nContratos de suministros o servicios: valor estimado &lt; 15.000 €.\n\n\nEn este caso se define también en valor estimado y no al importe base de licitación.\nSe debe solicitar al menos 3 prespuestos.\nNo se requerirá la aprobación del gasto, pero sí la incorporación al expediente de la factura correspondiente.\nLos contratos menores NO son susceptbiles de prórroga.\nSegún los apuntes de Andreu Bosa, lleva un mes su tramitación.\n\n\n9.6.7 Contratación centralizada\nModalidades dentro de la contratación centralizada:\n\nAcuerdo marco\nSistema dinámico de adquisición (SDA)\nContratos centralizados\nEncargos a medios propios\n\nPor encima de 862.000 € no se puede ir por contratación centralizada y habría que ir muy probablemente a procedimiento abierto.\nSe pueden revisar el catálogo en la página oficial:\nPágina web del catálogo de contratación centralizada\nLa tendencia es convertir los acuerdos marcos en sistemas dinámicos de adquisición (SDA), ya que son más flexibles y fomenta la competitividad y ofrece mayor transparencia.\nLa Secretaría General de la Administración Digital (SGAD) agrega todas las peticiones y la DGRCC coordina el proceso de compra conjunto.\n\n\n9.6.8 Acuerdos Marco\nLa duración máxima de un acuerdo marco es de 2 años prorrogables a otros 2. Durante el plazo de vigencia del acuerdo marco no pueden entrar más proveedores.\nEn caso de que no estén todos los términos o condiciones fijados hay que añadir una segunda fase en la que hay que contactar a los proveedores.\nEn caso de contratos SARA hay que contactar a todos los proveedores del acuerdo marco.\nEn caso de contratos no SARA es suficiente con contactar con 3 proveedores.\nEl órgano de contratación es, como norma general, la Dirección General de Racionalización y Centralización de la Contratación (DGRCC).\nAcuerdos marcos relevantes para IT:\n\nAM 02/2023. Ordenadores de mesa, portátiles monitores y otras soluciones del puesto de trabajo\nAM 05/2023. Impresoras, fotocopiadoras y escáneres\nAM 08/2021. Sistemas de seguridad\n\nHay que saberse los números de los acuerdos marcos.\n\n\n9.6.9 Sistemas Dinámicos de Adquisición\nSistemas dinámicos de adquisición (SDA) tiene una duración de 5 años.\nDurante su vigencia se permiten que salgan y entren empresas.\nSDAs relevantes para TI:\n\nSDA 25/2022. Suministro de software\nSDA 26/2021. Servicios de desarrollo\nSDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento\n\n\n9.6.9.1 SDA 25/2022. Suministro de software\n\n\n9.6.9.2 SDA 26/2021. Servicios de desarrollo\nSDA 26/2021, de servicios de desarrollo, permite contratos de hasta un máximo de 862.000 € excluidos impuestos, prórrogas y modificaciones contractuales.\n\n\n9.6.9.3 SDA 24/2022. Suministro de equipos de comunicaciones, servidores y sistemas de almacenamiento\n\n\n\n9.6.10 Contratos centralizados\nLos contratos centralizados son aquellos que se sirven a todas las administraciones públicas en un único contrato.\nEn el caso de telecomunicaciones existen 4 lotes:\n\nLote 1. Fijo. Adjudicado a Telefónica\nLote 2: Móviles. Otorgado a Vodafone\nLote 3: Internet. Otorgado a Telefónica.\nLote 4: Internacional. Adjudicado a British Telecom (BT)",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#modificación-de-contratos",
     "href": "01-supuesto/contratacion.html#modificación-de-contratos",
-    "title": "8  Contratación",
-    "section": "8.7 Modificación de Contratos",
-    "text": "8.7 Modificación de Contratos\nLos pliegos de cláusulas administrativas particulares deben advertir expresamente la posibilidad de modificación y el importe de esta no podrá superar el veinte por ciento del precio inicial del contrato.\n\n8.7.1 Encargos a medios propios\nLos encargos a medios propios son mecanismos para que se hagan encargos a organismos relacionados con la AGE.\nLas encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.\nSon disitntos los encargos a medios propios y las encomiendas de gestión.\nLa definición de medio propio incluye:\nNo tener inversión privada.\nNo tener más de un 20% de actividad en sector privado.\nUn ejemplo de medio propio sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).",
+    "title": "9  Contratación",
+    "section": "9.7 Modificación de Contratos",
+    "text": "9.7 Modificación de Contratos\nLos pliegos de cláusulas administrativas particulares deben advertir expresamente la posibilidad de modificación y el importe de esta no podrá superar el veinte por ciento del precio inicial del contrato.\n\n9.7.1 Encargos a medios propios\nLos encargos a medios propios son mecanismos para que se hagan encargos a organismos relacionados con la AGE.\nLas encomiendas de gestión no hay una relación vinculante entre encomentante y encomendado.\nSon disitntos los encargos a medios propios y las encomiendas de gestión.\nLa definición de medio propio incluye:\nNo tener inversión privada.\nNo tener más de un 20% de actividad en sector privado.\nUn ejemplo de medio propio sería la Fábrica Naciona de Moneda y Timbre-Real Casa de la Moneda (FNMT-RCM).",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#anuncios-de-licitaciones-público",
     "href": "01-supuesto/contratacion.html#anuncios-de-licitaciones-público",
-    "title": "8  Contratación",
-    "section": "8.8 Anuncios de licitaciones público",
-    "text": "8.8 Anuncios de licitaciones público\nLos procedimientos negociados sin publicidad no se publican.\nEl resto de licitaciones se anuncian en la Plataforma de Contratación del Sector Público.\nLas licitación de organismos de la AGE se publican además en el Boletín Oficial del Estado.\nLas licitaciones sujetas a regulación armonizada (SARA) se publica en el Diario Oficial de la Unión Europea.",
+    "title": "9  Contratación",
+    "section": "9.8 Anuncios de licitaciones público",
+    "text": "9.8 Anuncios de licitaciones público\nLos procedimientos negociados sin publicidad no se publican.\nEl resto de licitaciones se anuncian en la Plataforma de Contratación del Sector Público.\nLas licitación de organismos de la AGE se publican además en el Boletín Oficial del Estado.\nLas licitaciones sujetas a regulación armonizada (SARA) se publica en el Diario Oficial de la Unión Europea.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
     "objectID": "01-supuesto/contratacion.html#procedimiento-general-de-contratación-tic",
     "href": "01-supuesto/contratacion.html#procedimiento-general-de-contratación-tic",
-    "title": "8  Contratación",
-    "section": "8.9 Procedimiento general de contratación TIC",
-    "text": "8.9 Procedimiento general de contratación TIC\nPasos técnicos:\n\nAnálisis de necesidades\nEspecificaciones ténico-funcionales\nEvaluación y selección de ofertas\nValidación y pruebas\n\nActividades del análisis de contratación:\n\nPlanificación de la capacidad del S.I.\nDecisiones HW / SW\nDecisiones sobre la rentabilidad económica\n\nEstos tres puntos se desarrollan en los temas 2023.40, 2024.41 y 2024.42 de TIC, que no sueen entrar mucho.\nExpediente de contratación:\n\nMemoria\nCertificado\nPliegos\n\nPliego de Cláusulas Administrativas Particulares (PCAP).\nPliego de Prescripciones Técnicas (PPT).\n\nInformes preceptivos de la Memoria y de los Pliegos\n\nPara el PCAP, lo realiza el servicio jurítico de la abogacía del estado\nLa memoria y el PPT lo realiza el SGAD\n\nInforme de fiscalización por la Intervención Delegada\n\nEl Pliego de Cláusulas Administrativas general (PCAG) consta de unas diapositivas.\nEl PCAP tiene carácter legal y contractual.\nEn la administración pública nunca se contratan personas. Se contratan solamente servicios y se necesitan personas para cubrir esos servicios.\nEn caso de retraso en al ejecución del contrato en proporción de 0,60 € por cada 1.000 €. En caso de que se supere el 5% del total se puede rescindir el contrato.\nHay un proceso de recepción de la inversión. En ella está involucrado un técnico gestor.\nCorenet es una aplicación de la Intervención General de la Administración del Estado (IGAE) para revisar la recepción de contrato de más de 50.000 € a través de un interventaror de la IGAE. Suele ser un perfil TIC dentro de este organismo.",
+    "title": "9  Contratación",
+    "section": "9.9 Procedimiento general de contratación TIC",
+    "text": "9.9 Procedimiento general de contratación TIC\nPasos técnicos:\n\nAnálisis de necesidades\nEspecificaciones ténico-funcionales\nEvaluación y selección de ofertas\nValidación y pruebas\n\nActividades del análisis de contratación:\n\nPlanificación de la capacidad del S.I.\nDecisiones HW / SW\nDecisiones sobre la rentabilidad económica\n\nEstos tres puntos se desarrollan en los temas 2023.40, 2024.41 y 2024.42 de TIC, que no sueen entrar mucho.\nExpediente de contratación:\n\nMemoria\nCertificado\nPliegos\n\nPliego de Cláusulas Administrativas Particulares (PCAP).\nPliego de Prescripciones Técnicas (PPT).\n\nInformes preceptivos de la Memoria y de los Pliegos\n\nPara el PCAP, lo realiza el servicio jurítico de la abogacía del estado\nLa memoria y el PPT lo realiza el SGAD\n\nInforme de fiscalización por la Intervención Delegada\n\nEl Pliego de Cláusulas Administrativas general (PCAG) consta de unas diapositivas.\nEl PCAP tiene carácter legal y contractual.\nEn la administración pública nunca se contratan personas. Se contratan solamente servicios y se necesitan personas para cubrir esos servicios.\nEn caso de retraso en al ejecución del contrato en proporción de 0,60 € por cada 1.000 €. En caso de que se supere el 5% del total se puede rescindir el contrato.\nHay un proceso de recepción de la inversión. En ella está involucrado un técnico gestor.\nCorenet es una aplicación de la Intervención General de la Administración del Estado (IGAE) para revisar la recepción de contrato de más de 50.000 € a través de un interventaror de la IGAE. Suele ser un perfil TIC dentro de este organismo.",
     "crumbs": [
       "Supuesto práctico",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Contratación</span>"
-    ]
-  },
-  {
-    "objectID": "01-supuesto/riesgos.html",
-    "href": "01-supuesto/riesgos.html",
-    "title": "9  Riesgos",
-    "section": "",
-    "text": "Temas\n\n\nAnálisis y gestión de riesgos\n\n\n\n\nEste apartado trata sobre la evaluación de riesgos en proyectos de sistemas de la información.",
-    "crumbs": [
-      "Supuesto práctico",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Riesgos</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Contratación</span>"
     ]
   },
   {
@@ -663,7 +740,7 @@
     "href": "02-analisis/index.html",
     "title": "10  Introducción al análisis pormenorizado",
     "section": "",
-    "text": "Este documento es un resumen de información relevante para la preparación del ejercicio práctico",
+    "text": "Este documento es un resumen de información relevante para la preparación del ejercicio práctico\nEl análisis pormenorizado está relacionado con el sistema desarrollado en el supuesto práctico. Si bien el candidato conserva el enunciado del supuesto (siempre y cuando no se hayan realizado notas sobre el mismo), no tiene permitido consultar las hojas de respuesta o de sucio escritas durante el ejercicio anterior.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Introducción al análisis pormenorizado</span>"
@@ -729,7 +806,18 @@
     "href": "02-analisis/regulaciones.html#CELEX:32021R0694",
     "title": "12  Marco normativo",
     "section": "12.2 R(UE) 2021/694. Programa Europa Digital",
-    "text": "12.2 R(UE) 2021/694. Programa Europa Digital\n\nReferencias\n\nR(UE) 2021/694 en EUR-Lex\n\n\n\n12.2.1 R(UE) 2022/868. Ley de Gobernanza de Datos\n\nReferencias\n\nR(UE) 2022/868 en EUR-Lex\n\n\n\n\n12.2.2 R(UE) 2023/2854. Ley de Datos\n\nReferencias\n\nR(UE) 2023/2854 en EUR-Lex\n\n\nLey de Datos (Data Act), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.\n\n\n12.2.3 R(UE) 2024/1689. Ley de Inteligencia Artificial\nReferencias - R(UE) 2024/1689 en EUR-Lex",
+    "text": "12.2 R(UE) 2021/694. Programa Europa Digital\n\nReferencias\n\nR(UE) 2021/694 en EUR-Lex\n\n\n\n12.2.1 R(UE) 2022/868. Ley de Gobernanza de Datos\n\nReferencias\n\nR(UE) 2022/868 en EUR-Lex\n\n\n\n\n12.2.2 R(UE) 2023/2854. Ley de Datos\n\nReferencias\n\nR(UE) 2023/2854 en EUR-Lex\n\n\nLey de Datos (Data Act), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.",
+    "crumbs": [
+      "Análisis pormenorizado",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
+    ]
+  },
+  {
+    "objectID": "02-analisis/regulaciones.html#CELEX:32024R0903",
+    "href": "02-analisis/regulaciones.html#CELEX:32024R0903",
+    "title": "12  Marco normativo",
+    "section": "12.3 R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI)",
+    "text": "12.3 R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI)\n\nReferencias\n\nR(UE) 2024/903 en EUR-Lex\n\n\n\n12.3.1 R(UE) 2024/1689. Ley de Inteligencia Artificial\nReferencias - R(UE) 2024/1689 en EUR-Lex",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -739,8 +827,8 @@
     "objectID": "02-analisis/regulaciones.html#marco-normativo-español",
     "href": "02-analisis/regulaciones.html#marco-normativo-español",
     "title": "12  Marco normativo",
-    "section": "12.3 Marco normativo español",
-    "text": "12.3 Marco normativo español\n\n12.3.1 L 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\nReferencias:\n\nL 19/2013 en BOE\n\n\n\n\n12.3.2 L 9/2017. CSP\n\nReferencias\n\nhttps://www.boe.es/eli/es/l/2017/11/08/9/con\n\n\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.3.3 LO 3/2018 (LPD-GDD)\n\nReferencias\n\nhttps://www.boe.es/eli/es/lo/2018/12/05/3/con\n\n\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.",
+    "section": "12.4 Marco normativo español",
+    "text": "12.4 Marco normativo español\n\n12.4.1 RD 4/2010. ENI\n\nReferencias:\n\nRD 4/2010 en BOE\n\n\nRegula el Esquema Nacional de Interoperabilidad.\n\n\n12.4.2 L 19/2013. Transparencia, acceso a la información pública y buen gobierno\n\nReferencias:\n\nL 19/2013 en BOE\n\n\n\n\n12.4.3 L 9/2017. CSP\n\nReferencias\n\nhttps://www.boe.es/eli/es/l/2017/11/08/9/con\n\n\nLa ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.\nEl art. 1 define los principios de contratación:\n\nLibertad de acceso a las licitaciones.\nPublicidad y transparencia de los procedimientos.\nNo discriminación e igualdad de trato entre los licitadores.\n\n\n\n12.4.4 LO 3/2018 (LPD-GDD)\n\nReferencias\n\nhttps://www.boe.es/eli/es/lo/2018/12/05/3/con\n\n\nLey Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Marco normativo</span>"
@@ -806,7 +894,7 @@
     "href": "02-analisis/iniciativas.html#iniciativas-españolas",
     "title": "14  Iniciativas",
     "section": "",
-    "text": "14.1.1 CTT (Centro de Transferencia de Tecnología)\n\nReferencias\n\nRepositorio forja-CTT en GitHub\n\n\n\nEl Centro de Transferencia de Tecnología (CTT) es un portal web que tiene como objetivo favorecer la reutilización de soluciones tecnológicas a lo largo.\nEs gestionado por la AEAD.\nContiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de soluciones}, que es un catálogo de soluciones tecnológicas reutilizables en las AAPP.\nEl repositorio forja-CTT de GitHub alberga proyectos de código abierto de las AAPP.\n\n\n14.1.2 Guías CCN-STIC\n\nReferencias\n\nhttps://runmodule.com/2026/06/09/ccn-cert/\n\n\nLa serie 800 de las guías CCN-STIC está relacionada con ciberseguridad.\n\nCCN-STIC-802. Auditoría del ENS.\nCCN-STIC-803. Valoración de Sistemas en el ENS.\nCCN-STIC-817. Gestión de Incidentes de Seguridad en el ENS.\nCCN-STIC-824. Informe nacional del estado de seguridad de los sistemas TIC.",
+    "text": "14.1.1 Guías CCN-STIC\n\n\n\n\n\n\nNota\n\n\n\n\nReferencias\n\nhttps://runmodule.com/2026/06/09/ccn-cert/\n\n\n\n\nLa serie 800 de las guías CCN-STIC está relacionada con ciberseguridad.\n\nCCN-STIC-802. Auditoría del ENS.\nCCN-STIC-803. Valoración de Sistemas en el ENS.\nCCN-STIC-817. Gestión de Incidentes de Seguridad en el ENS.\nCCN-STIC-824. Informe nacional del estado de seguridad de los sistemas TIC.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Iniciativas</span>"
@@ -890,11 +978,11 @@
     ]
   },
   {
-    "objectID": "02-analisis/transversales.html#interoperabilidad",
-    "href": "02-analisis/transversales.html#interoperabilidad",
+    "objectID": "02-analisis/transversales.html#interoperabilidad-análisis-pormenorizado",
+    "href": "02-analisis/transversales.html#interoperabilidad-análisis-pormenorizado",
     "title": "16  Temáticas transversales",
-    "section": "16.4 Interoperabilidad",
-    "text": "16.4 Interoperabilidad\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nRegulaciones\n\nES\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.\n\n\nOrganismos\n\nCTT (Centro de Transferencia de Tecnología)\nCISE (Centro de Interoperabilidad Semántica)\n\nTemas\n\n\nENI\n\n\nNTI\n\n\n\n\n\nEsquema Nacional de Interoperabilidad (ENI).",
+    "section": "16.4 Interoperabilidad (análisis pormenorizado)",
+    "text": "16.4 Interoperabilidad (análisis pormenorizado)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nRegulaciones\n\nUE\n\nDeclaración Ministerial de Tallín sobre la administración electrónica\nR (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI)\neIDAS\n\nES\n\nRD 4/2010. Esquema Nacional de Interoperabilidad\nL 37/2007. Reutilización de datos en Sector Público.\n\n\nOrganismos\n\nCTT (Centro de Transferencia de Tecnología)\nCISE (Centro de Interoperabilidad Semántica)\n\nTemas\n\n\nENI\n\n\nNTI\n\n\n\n\n\nVer sección sobre interoperabilidad en la AGE",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>16</span>  <span class='chapter-title'>Temáticas transversales</span>"
@@ -1037,7 +1125,7 @@
     "href": "02-analisis/especificas.html#seguridad-social",
     "title": "17  Temáticas específicas",
     "section": "17.3 Seguridad Social",
-    "text": "17.3 Seguridad Social\n\nCE\n\nArt. 41. Seguridad Social\n\n\nEl art. 41 de la Constitución establece que:\n\nLos poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.",
+    "text": "17.3 Seguridad Social\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nArt. 41. Seguridad Social\n\n\n\n\nEl art. 41 de la Constitución establece que:\n\nLos poderes públicos mantendrán un régimen público de Seguridad Social para todos los ciudadanos, que garantice la asistencia y prestaciones sociales suficientes ante situaciones de necesidad, especialmente en caso de desempleo. La asistencia y prestaciones complementarias serán libres.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1059,7 +1147,7 @@
     "href": "02-analisis/especificas.html#hacienda",
     "title": "17  Temáticas específicas",
     "section": "17.5 Hacienda",
-    "text": "17.5 Hacienda\n\nCE\n\nTítulo VII “Economía y Hacienda” (arts. 128-136)\n\n\n\n17.5.1 Recaudación",
+    "text": "17.5 Hacienda\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nTítulo VII “Economía y Hacienda” (arts. 128-136)\n\n\n\n\n\n17.5.1 Recaudación",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1070,7 +1158,7 @@
     "href": "02-analisis/especificas.html#atención-al-usuario",
     "title": "17  Temáticas específicas",
     "section": "17.6 Atención al usuario",
-    "text": "17.6 Atención al usuario\n\nCE\n\nArt. 51\nArt. 105\n\nRegulación\n\nL 39/2015. PACAP\n\n\nArt. 51 CE (Defensa de los consumidores):\n51.1: Garantiza la defensa de los consumidores y usuarios, protegiendo su seguridad, salud y legítimos intereses económicos.\n\n51.2: Obliga a los poderes públicos a promover la información y la educación de los consumidores y usuarios, así como a fomentar sus organizaciones.\nArt. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).",
+    "text": "17.6 Atención al usuario\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nArt. 51\nArt. 105\n\nRegulación\n\nL 39/2015. PACAP\n\n\n\n\nArt. 51 CE (Defensa de los consumidores):\n51.1: Garantiza la defensa de los consumidores y usuarios, protegiendo su seguridad, salud y legítimos intereses económicos.\n\n51.2: Obliga a los poderes públicos a promover la información y la educación de los consumidores y usuarios, así como a fomentar sus organizaciones.\nArt. 105.b) CE: Regula el acceso de los ciudadanos a los archivos y registros administrativos (derecho a la información y transparencia).",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1081,7 +1169,7 @@
     "href": "02-analisis/especificas.html#presupuestación-análisis-pormenorizado",
     "title": "17  Temáticas específicas",
     "section": "17.7 Presupuestación (análisis pormenorizado)",
-    "text": "17.7 Presupuestación (análisis pormenorizado)\n\nCE\n\nArt. 134. Presupuestos Generales del Estado\nArt. 135. Estabilidad y sostenibilidad\n\nMarco normativo\n\nUE\n\nSEC 2010 (Sistema Europeo de Cuentas)\n\nES\n\nL 47/2003. General Presupuestaria (LGP)\nLO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)\n\n\nTemas\n\n\nLos presupuestos generales del Estado\n\n\n\n\nEl art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.\nEl art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.\nLey Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF): Desarrolla el Art. 135 de la CE. Es la norma transversales aplicable al Estado, Comunidades Autónomas (CCAA) y Entidades Locales (EELL). Consolida los principios de eficiencia en la asignación de recursos, transparencia, plurianualidad y la regla de gasto.\nB. Sector Público Estatal\nLey 47/2003, General Presupuestaria (LGP): Es el «código contable y presupuestario» del Estado. Regula con detalle las fases del presupuesto (elaboración, gestión, modificación, liquidación) y la contabilidad pública de la Administración General del Estado y sus organismos vinculados.",
+    "text": "17.7 Presupuestación (análisis pormenorizado)\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nArt. 134. Presupuestos Generales del Estado\nArt. 135. Estabilidad y sostenibilidad\n\nMarco normativo\n\nUE\n\nSEC 2010 (Sistema Europeo de Cuentas)\n\nES\n\nL 47/2003. General Presupuestaria (LGP)\nLO 2/2012. Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)\n\n\nTemas\n\n\nLos presupuestos generales del Estado\n\n\n\n\n\nEl art. 134 (Presupuestos Generales del Estado - PGE) regula el ciclo de los PGE. Define la competencia exclusiva del Gobierno para elaborarlos y de las Cortes Generales para su examen, enmienda y aprobación. Establece su carácter anual y la regla de prórroga automática.\nEl art. 135 de la Constitución, sobre estabilidad y sostenibilidad, fue reformado en 2011 a raíz de la crisis financiera. Obliga a todas las AAPP a adecuar sus actuaciones al principio de estabilidad presupuestaria (equilibrio o superávit) y fija límites de déficit estructural y volumen de deuda alineados con la normativa de la UE. Además, establece que el pago de la deuda pública goza de prioridad absoluta frente a cualquier otro gasto.\nLey Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF): Desarrolla el Art. 135 de la CE. Es la norma transversales aplicable al Estado, Comunidades Autónomas (CCAA) y Entidades Locales (EELL). Consolida los principios de eficiencia en la asignación de recursos, transparencia, plurianualidad y la regla de gasto.\nB. Sector Público Estatal\nLey 47/2003, General Presupuestaria (LGP): Es el «código contable y presupuestario» del Estado. Regula con detalle las fases del presupuesto (elaboración, gestión, modificación, liquidación) y la contabilidad pública de la Administración General del Estado y sus organismos vinculados.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1092,7 +1180,7 @@
     "href": "02-analisis/especificas.html#casa-real",
     "title": "17  Temáticas específicas",
     "section": "17.8 Casa Real",
-    "text": "17.8 Casa Real\n\nConstitución 1976\n\nArt. 1 “La forma política del Estado español es la Monarquía parlamentaria”\nTítulo II “De la Corona” (arts. 56-65)",
+    "text": "17.8 Casa Real\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nArt. 1 “La forma política del Estado español es la Monarquía parlamentaria”\nTítulo II “De la Corona” (arts. 56-65)\n\n\n\n\nEl artículo 1 de la Constitución establece que la forma política del Estado español es la Monarquía parlamentaria.\nEl título II de la CE trata sobre la Corona.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1103,7 +1191,7 @@
     "href": "02-analisis/especificas.html#industria",
     "title": "17  Temáticas específicas",
     "section": "17.9 Industria",
-    "text": "17.9 Industria\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "text": "17.9 Industria\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1114,7 +1202,7 @@
     "href": "02-analisis/especificas.html#comercio",
     "title": "17  Temáticas específicas",
     "section": "17.10 Comercio",
-    "text": "17.10 Comercio\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "text": "17.10 Comercio\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1125,7 +1213,7 @@
     "href": "02-analisis/especificas.html#españoles-en-el-extranjero",
     "title": "17  Temáticas específicas",
     "section": "17.11 Españoles en el extranjero",
-    "text": "17.11 Españoles en el extranjero\n\nCE\n\nCE, art. 19 (libertad de residencia y circulación)",
+    "text": "17.11 Españoles en el extranjero\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nCE, art. 19 (libertad de residencia y circulación)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1136,7 +1224,7 @@
     "href": "02-analisis/especificas.html#turismo",
     "title": "17  Temáticas específicas",
     "section": "17.12 Turismo",
-    "text": "17.12 Turismo\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
+    "text": "17.12 Turismo\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1147,7 +1235,7 @@
     "href": "02-analisis/especificas.html#demografía",
     "title": "17  Temáticas específicas",
     "section": "17.13 Demografía",
-    "text": "17.13 Demografía\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\nEstadísticas\n\nEstadística Continua de Población (ECP)\nCenso Anual de Población (CAP)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
+    "text": "17.13 Demografía\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nOrganismos\n\nMinisterio para la Transición Ecológica y Reto Demográfico\n\nEstadísticas\n\nEstadística Continua de Población (ECP)\nCenso Anual de Población (CAP)\n\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nFecha\nValor aprox.\nValor exacto\nFuente\n\n\n\n\nPoblación total\n01/01/2025\n41M\n49128297\nCenso Anual de Población (CAP) del INE\n\n\nEspañoles\n01/01/2025\n42M\n42216326\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n7M\n6911971\nCAP del INE\n\n\nEspañoles\n01/01/2025\n40M\n39.664.087\nCAP del INE\n\n\nExtranjeros\n01/01/2025\n9M\n9.464.210\nCAP del INE\n\n\nHombres\n01/04/2026\n24M\n24400285\nEstadística Continua de Población (ECP) del INE\n\n\nMujeres\n01/04/2026\n25M\n25286835\nECP del INE",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1158,7 +1246,7 @@
     "href": "02-analisis/especificas.html#empleo",
     "title": "17  Temáticas específicas",
     "section": "17.14 Empleo",
-    "text": "17.14 Empleo\n\nTemas\n\n\nEl mercado de trabajo\n\n\nTIC, economía y mercado de trabajo\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”\n\nIndicadores\n\nEPA (Encuesta de Población Activa)\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nValor aprox.\nValor\nFuente\n\n\n\n\nTasa de paro\n&lt;10%\n9,87%\nEPA",
+    "text": "17.14 Empleo\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nTemas\n\n\nEl mercado de trabajo\n\n\nTIC, economía y mercado de trabajo\n\n\nODS\n\nObjetivo 8 “Trabajo decente y crecimiento económico”\n\nIndicadores\n\nEPA (Encuesta de Población Activa)\n\n\n\n\nEstadísticas relevantes:\n\n\n\nEstadística\nValor aprox.\nValor\nFuente\n\n\n\n\nTasa de paro\n&lt;10%\n9,87%\nEPA",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1169,7 +1257,7 @@
     "href": "02-analisis/especificas.html#función-pública",
     "title": "17  Temáticas específicas",
     "section": "17.15 Función pública",
-    "text": "17.15 Función pública\n\nCE\n\nArt. 103.3. Funcionarios públicos\n\n\nEl art. 103 de la Constitución incluye el siguiente apartado sobre el empleo público:\n\nLa ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
+    "text": "17.15 Función pública\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nCE\n\nArt. 103.3. Funcionarios públicos\n\n\n\n\nEl art. 103 de la Constitución incluye el siguiente apartado sobre el empleo público:\n\nLa ley regulará el estatuto de los funcionarios públicos, el acceso a la función pública de acuerdo con los principios de mérito y capacidad, las peculiaridades del ejercicio de su derecho a sindicación, el sistema de incompatibilidades y las garantías para la imparcialidad en el ejercicio de sus funciones.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1180,7 +1268,7 @@
     "href": "02-analisis/especificas.html#igualdad",
     "title": "17  Temáticas específicas",
     "section": "17.16 Igualdad",
-    "text": "17.16 Igualdad\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nODS\n\nObjetivo 5 “Igualdad de género”",
+    "text": "17.16 Igualdad\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nODS\n\nObjetivo 5 “Igualdad de género”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1191,7 +1279,7 @@
     "href": "02-analisis/especificas.html#violencia-de-género",
     "title": "17  Temáticas específicas",
     "section": "17.17 Violencia de género",
-    "text": "17.17 Violencia de género\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nIndicadores\n\nEVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)",
+    "text": "17.17 Violencia de género\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nConstitución\n\nArt. 1: valores superiores del ordenamiento jurídico de la Constitución: la libertad, la justicia, la igualdad y el pluralismo político\n\nIndicadores\n\nEVGVD (Estadísticas de Violencia de Género y Violencia Doméstica)",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1202,7 +1290,7 @@
     "href": "02-analisis/especificas.html#educación",
     "title": "17  Temáticas específicas",
     "section": "17.18 Educación",
-    "text": "17.18 Educación\n\nODS\n\nObjetivo 4 “Educación de calidad”",
+    "text": "17.18 Educación\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nODS\n\nObjetivo 4 “Educación de calidad”",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
@@ -1213,7 +1301,7 @@
     "href": "02-analisis/especificas.html#subvenciones",
     "title": "17  Temáticas específicas",
     "section": "17.19 Subvenciones",
-    "text": "17.19 Subvenciones\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
+    "text": "17.19 Subvenciones\n\n\n\n\n\n\nNota📋 Marco de referencia\n\n\n\n\nRegulaciones\n\nL 38/2003. General de Subvenciones.",
     "crumbs": [
       "Análisis pormenorizado",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Temáticas específicas</span>"
