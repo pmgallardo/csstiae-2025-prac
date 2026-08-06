@@ -4,7 +4,7 @@ Por convenio, se refieren las regulaciones europeas y españolas de la siguiente
 
 | Ámbito | Cód. título | Cód. referencia | Convención URL |
 | - | - | - | - |
-| UE | X(UE) 2000/123 | CELEX:12345X1234 | ELI |
+| UE | X(UE) 2015/123 | CELEX:12345X1234 | ELI |
 | ES | X 123/2000 | BOE-A-2000-12345 | ELI |
 
 ELI (*European Legislation Identifier*) es un identificador único para la legislación europea y nacional que ha sido adoptado también por España.
@@ -22,59 +22,96 @@ Abreviaturas usadas para cada tipo de regulación:
 
 ## Marco normativo europeo
 
+A partir de 2015 se cambió la numeración de las normativas, poniendo primero el año y después el número de la normativa.
+
+### R(UE) 910/2014. eIDAS {#CELEX:32014R0910}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - [R(UE) 910/2014 en EUR-Lex](https://eur-lex.europa.eu/eli/reg/2014/910/oj?locale=es)
+:::
+
 ### R(UE) 2016/679. RGPD {#CELEX:32016R0679}
 
 R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [RGPD en EUR-Lex]( http://data.europa.eu/eli/reg/2016/679/oj){target="_blank"}
   - <https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
+:::
 
-## R(UE) 2021/694. Programa Europa Digital {#CELEX:32021R0694}
+### R(UE) 2021/694. Programa Europa Digital {#CELEX:32021R0694}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
     - [R(UE) 2021/694 en EUR-Lex](http://data.europa.eu/eli/reg/2021/694/oj){target="_blank"}
+:::
 
 ### R(UE) 2022/868. Ley de Gobernanza de Datos {#CELEX:32022R0868}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [R(UE) 2022/868 en EUR-Lex](http://data.europa.eu/eli/reg/2022/868/oj?locale=es){target="_blank"}
+:::
 
 ### R(UE) 2023/2854. Ley de Datos {#CELEX:32023R2854}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [R(UE) 2023/2854 en EUR-Lex](http://data.europa.eu/eli/reg/2023/2854/oj?locale=es){target="_blank"}
+:::
 
 Ley de Datos (*Data Act*), regula el acceso y uso de datos generados por productos y servicios conectados, y establece normas para la portabilidad de datos y la interoperabilidad.
 
-## R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI) {#CELEX:32024R0903}
+### R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI) {#CELEX:32024R0903}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - [R(UE) 2024/903 en EUR-Lex](http://data.europa.eu/eli/reg/2024/903/oj){target="_blank"}
+:::
 
 ### R(UE) 2024/1689. Ley de Inteligencia Artificial {#CELEX:32024R1689}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 Referencias
  - [R(UE) 2024/1689 en EUR-Lex](http://data.europa.eu/eli/reg/2024/1689/oj){target="_blank"}
+:::
 
 ## Marco normativo español
 
 ### RD 4/2010. ENI {#BOE-A-2010-1331}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias:
   - [RD 4/2010 en BOE](https://www.boe.es/eli/es/rd/2010/01/08/4/con){target="_blank"}
+:::
 
 Regula el Esquema Nacional de Interoperabilidad.
 
 ### L 19/2013. Transparencia, acceso a la información pública y buen gobierno {#BOE-A-2013-12887}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias:
   - [L 19/2013 en BOE](https://www.boe.es/eli/es/l/2013/12/09/19/con){target="_blank"}
+:::
 
 ### L 9/2017. CSP {#BOE-A-2017-12902}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
     - <https://www.boe.es/eli/es/l/2017/11/08/9/con>{target="_blank"}
+:::
 
 La ley 9/2017, de Contratación en el Sector Público (CSP) traspone las directivas 2014/23/UE, Directiva 2014/24/UE y Directiva 2014/25/UE.
 
@@ -86,7 +123,10 @@ El art. 1 define los principios de contratación:
 
 ### LO 3/2018 (LPD-GDD) {#BOE-A-2018-16673}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Referencias
   - <https://www.boe.es/eli/es/lo/2018/12/05/3/con>{target="_blank"}
+:::
 
 Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.

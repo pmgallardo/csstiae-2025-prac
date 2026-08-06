@@ -20,9 +20,11 @@ book:
     
   chapters:
     - index.qmd
-    - part: "Presentación"
+    - part: "Ejercicio práctico"
       chapters:
-        - 00-presentacion/index.qmd
+        - 00-practico/index.qmd
+        - 00-practico/temas.qmd
+        - 00-practico/repo-ejercicios.qmd
     - part: "Supuesto práctico"
       chapters:
         - 01-supuesto/index.qmd

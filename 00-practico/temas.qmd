@@ -1,0 +1,50 @@
+# Temas del ejercicio práctico
+
+## Temas más relevantes del ejercicio práctico
+
+El temario del proceso de selección abarca más de 100 temas, pero de ellos hay algunos que son más importantes o recurrentes de cara al ejercicio práctico.
+
+Temas más relevantes, de acuerdo a la numeración de temas de la convocatoria 2025:
+
+- A. Temas generales
+  - I. Marco constitucional español y Unión Europea
+    - 1. Constitución Española (I)
+    - 2. Constitución Española (II). Poder Judicial
+    - 3. Constitución Española (III). Organización Territorial
+    - 4. Constitución Española (IV). Administración
+    - 5. Unión Europea
+    - 6. Organización territorial de la AGE
+  - II. Actuación administrativa y gestión financiera 
+    - 7. Fuentes del Derecho Administrativo
+    - 8. Régimen jurídico de las AAPP. Procedimiento administrativo
+    - 9. Revisión de los actos en vía administrativa. Recursos
+    - 10. La responsabilidad patrimonial de las Administraciones Públicas
+    - 11. Los contratos de las Administraciones Públicas
+    - 12. Los presupuestos generales del Estado
+    - 13. Convenios. Encomiendas de gestión. Colaboración público-privada
+  - III. Estructura social y económica de España
+    - 14. El modelo económico español
+    - 15. Los sectores de la economía
+    - 16. Estructura social y políticas de igualdad
+    - 17. El mercado de trabajo
+    - 18. TIC y sociedad
+    - 19. TIC, economía y mercado de trabajo
+  - IV. Dirección pública
+    - 24. Empleo Público
+    - 25. Gobernanza, Gobierno Abierto y Transparencia
+- B. Temas específicos
+  - 27. Protección de Datos
+  - 39. Ley de contratos
+  - 44. Accesibilidad y usabilidad
+  - 45. ENI
+  - 46. NTI
+  - 49. Infraestructuras y servicios comunes
+  - 51. Agenda Digital para España. Mercado Único Digital
+  - 70. Inteligencia artificial
+  - 78. Comercio electrónico
+  - 80. Identificación y firma electrónica I
+  - 81. Identificación y firma electrónica II
+  - 82. Adaptación LOPD
+  - 89. Análisis del dominio de los sistemas
+  - 95. Métrica
+  - 99. Estimación de recursos

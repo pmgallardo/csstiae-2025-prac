@@ -20,6 +20,11 @@ En caso de optar por la nube, se puede proponer el uso de NubeSARA, una nube pú
 
 ### NubeSARA {#nubesara}
 
+::: {.callout-warning icon="false" collapse="true"}
+## 👑Temática candidata
+La secretaria suplente del Tribunal trabajó en nubeSARA entre 2018 y 2026.
+:::
+
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Referencias

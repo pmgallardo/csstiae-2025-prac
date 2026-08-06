@@ -4,6 +4,11 @@ En esta entra se revisan temáticas que pueden ser comunes a proyectos de distin
 
 ## Relaciones con las AAPP
 
+::: {.callout-warning icon="false" collapse="true"}
+## 👑Temática candidata
+El vocal titular del Tribunal J. M. Daza dirige los proyectos de atención ciudadana.
+:::
+
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 
@@ -52,11 +57,13 @@ La descentralización se refiere a la delegación de competencias entre distinta
 - Regulaciones
   - UE
     - Declaración Ministerial de Tallín sobre la administración electrónica
-    - R (UE) 2024/903. Reglamento Europeo sobre la Interoperabilidad (REI)
-    - eIDAS
+    - [R(UE) 2024/903](regulaciones.qmd#CELEX:32024R0903). Reglamento Europeo sobre la Interoperabilidad (REI)
+    - R(UE) 910/2014. eIDAS
   - ES
     - RD 4/2010. Esquema Nacional de Interoperabilidad
     - L 37/2007. Reutilización de datos en Sector Público.
+- ODS
+  - Obj. 17. Alianza para lograr los objetivos
 - Organismos
   - CTT (Centro de Transferencia de Tecnología)
   - CISE (Centro de Interoperabilidad Semántica)
@@ -190,6 +197,11 @@ La Ley de Gobernanza de Datos (*Data Governance Act*, DGA) regula la reutilizaci
 :::
 
 ## Nube
+
+::: {.callout-warning icon="false" collapse="true"}
+## 👑Temática candidata
+La secretaria titular del Tribunal trabajó en nubeSARA entre 2018 y 2026.
+:::
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
