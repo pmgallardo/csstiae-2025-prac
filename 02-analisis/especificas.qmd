@@ -72,7 +72,8 @@ El art. 50 de la Constitución establece que:
 ## Hacienda
 
 ::: {.callout-warning icon="false" collapse="true"}
-## 👑Temática candidata
+## 🥈Temática candidata N2
+El vocal titular R. Acebes es técnico de Hacienda destinado a la recaudación, y fue inspector de Hacienda en la AEAT.
 La vocal suplente del Tribunal M. del C. Bárcena trabaja en la Secretaría de Presupuestos y Gastos de Hacienda.
 Los vocales suplente S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
 :::
@@ -85,10 +86,17 @@ Los vocales suplente S. Díaz y P. Gálvez trabajan en la Oficina de Informátic
 
 ### Recaudación
 
+::: {.callout-warning icon="false" collapse="true"}
+## 🥈Temática candidata N2
+El vocal titular R. Acebes es técnico de Hacienda destinado a la recaudación, y fue inspector de Hacienda en la AEAT.
+La vocal suplente del Tribunal M. del C. Bárcena trabaja en la Secretaría de Presupuestos y Gastos de Hacienda.
+Los vocales suplente S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
+:::
+
 ### Intervención
 
 ::: {.callout-warning icon="false" collapse="true"}
-## 👑Temática candidata N3
+## 🥉Temática candidata N3
 Los vocales suplentes S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
 El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervención Delegada en el Ministerio de Sanidad y en el Ministerio de Juventud e Infancia.
 :::
@@ -96,7 +104,7 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 ## Presupuestación (análisis pormenorizado)
 
 ::: {.callout-warning icon="false" collapse="true"}
-## 👑Temática candidata N3
+## 🥉Temática candidata N3
 La vocal suplente del Tribunal M. del C. Bárcena trabaja en la Secretaría de Presupuestos y Gastos de Hacienda.
 Los vocales suplentes S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
 :::
