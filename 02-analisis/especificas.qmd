@@ -1,8 +1,8 @@
 # Temáticas específicas
 
-Este apartado trata temáticas específicas de ejercicios concretos.
+Este apartado trata temáticas específicas que puede que apliquen a ejercicios concretos.
 
-## Temas relacionados con el Tribunal
+## Temas relacionados con el Tribunal de la convocatoria 2025
 
 En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios titulares y suplentes, y solo vocales titulares) de la convocatoria 2025 se encuentran los siguientes temas:
 
@@ -16,9 +16,11 @@ En los CVs de los miembros del tribunal (incluyendo presidentes y secretarios ti
 - Turismo
 - Seguridad Social / GISS
 - Atención al usuario (~Consumo)
+- Representación consular (exteriores)
 - Infraestructuras TIC
 - Hacienda. Recaudación
 - nubeSARA
+- Migraciones
 
 ## Justicia
 
@@ -74,6 +76,7 @@ El art. 50 de la Constitución establece que:
 ::: {.callout-warning icon="false" collapse="true"}
 ## 🥈Temática candidata N2
 El vocal titular R. Acebes es técnico de Hacienda destinado a la recaudación, y fue inspector de Hacienda en la AEAT.
+La vocal M. T. Martínez de Marigorta trabajó en Hacienda.
 La vocal suplente del Tribunal M. del C. Bárcena trabaja en la Secretaría de Presupuestos y Gastos de Hacienda.
 Los vocales suplente S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
 :::
@@ -105,6 +108,7 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 
 ::: {.callout-warning icon="false" collapse="true"}
 ## 🥉Temática candidata N3
+El vocal titular K. Rincón trabajó en la Oficina de Informática Presupuestaria.
 La vocal suplente del Tribunal M. del C. Bárcena trabaja en la Secretaría de Presupuestos y Gastos de Hacienda.
 Los vocales suplentes S. Díaz y P. Gálvez trabajan en la Oficina de Informática Presupuestaria de la IGAE de Hacienda.
 :::
@@ -204,17 +208,30 @@ El título II de la CE trata sobre la Corona.
   - CE, art. 19 (libertad de residencia y circulación)
 :::
 
+## Industria
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Organismos
+  - ES
+    - Ministerio de Industria y Turismo
+:::
+
 ## Turismo
 
 ::: {.callout-warning icon="false" collapse="true"}
 ## 🥇Temática candidata N1
 La presidenta titular del Tribunal A. M. Román trabajó en temas relacionados con turismo en 2002-2005 y 2014-2019.
+La vocal titular A. Iglesias trabaja en el TURESPAÑA del Ministerio de Industria y Turismo.
 :::
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+- Organismos
+  - ES
+    - Ministerio de Industria y Turismo
 - Estadísticas
   - FRONTUR (Estadísticas de movimientos turísticos de frontera)
   - EGATUR (Encuesta de gasto turístico)
@@ -248,6 +265,13 @@ Estadísticas relevantes:
 | Extranjeros | 01/01/2025 | 9M  | 9.464.210  |[CAP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736176992&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
 | Hombres | 01/04/2026 | 24M | 24400285 | [Estadística Continua de Población (ECP)](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
 | Mujeres | 01/04/2026 | 25M | 25286835 | [ECP](https://www.ine.es/dyngs/INEbase/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981){target="_blank"} del INE |
+
+## Migración
+
+::: {.callout-warning icon="false" collapse="true"}
+## 🥈Temática candidata N2
+El vocal titular Á. Martín es estadístico que trabaja en la Secretaría de Estado de Migraciones.
+:::
 
 ## Empleo
 
@@ -326,6 +350,7 @@ El art. 103 de la Constitución incluye el siguiente apartado sobre el empleo p�
 ::: {.callout-warning icon="false" collapse="true"}
 ## 🥈Temática candidata N2
 La presidenta titular del Tribunal trabajó en Educación en 2010-2012. 
+La vocal titular M. E. Díaz-Santos trabajó en el Ministerio de Universidades.
 :::
 
 ::: {.callout-note icon="false"}
@@ -376,8 +401,6 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 
 ## Telecomunicaciones
 
-
-
 ## Investigacion e innovación
 
 ::: {.callout-note icon="false"}
@@ -398,12 +421,28 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 
 El tema 13, en su largo título, incluye el "regímen jurídico de subvenciones públicas" y su procedimiento.
 
-## CNMC
-
 ## Cooperación
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - ODS
   - Obj. 17. Alianza para lograr los objetivos
+- Organismos
+  - Ministerio de Exteriores, Unión Europea y Cooperación
 :::
+
+## Exteriores
+
+::: {.callout-warning icon="false" collapse="true"}
+## 🥈Temática candidata N2
+La vocal titular M. E. Díaz-Santos trabaja en el Plan de Digitalización Consular del Ministerio de Exteriores, Unión Europea y Cooperación del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+:::
+
+## CNMC
+
+::: {.callout-warning icon="false" collapse="true"}
+## 🥈Temática candidata N2
+El vocal titular K. Rincón es Inspector jefe de competencia en la CNMC
+:::
+
+La Comisión Nacional de los Mercados y la Competencia (CNMC) es una Autoridad Administrativa Independiente (AAI) que pertenece al sector público institucional estatal, y no pertenece a la AGE.

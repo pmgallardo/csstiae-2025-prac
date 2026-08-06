@@ -1,6 +1,6 @@
 # Temáticas transversales
 
-En esta entra se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.
+En este apartado se revisan temáticas que pueden ser comunes a proyectos de distinta naturaleza.
 
 ## Relaciones con las AAPP
 
@@ -186,6 +186,11 @@ RD 1112/2018 es la trasposición de la directiva UE 2016/2102. Requieren seguir 
 La Ley de Gobernanza de Datos (*Data Governance Act*, DGA) regula la reutilización de datos protegidos del sector público (como datos de salud o secretos comerciales), crea la figura de los intermediarios de datos neutros y regula el "altruismo de datos" (donar datos para el bien común).
 
 ## Inteligencia artificial
+
+::: {.callout-warning icon="false" collapse="true"}
+## 🥈Temática candidata N2
+El vocal titular L. A. Hernández es profesor universitario de Inteligencia Artificial.
+:::
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
