@@ -105,6 +105,18 @@ Regula el Esquema Nacional de Interoperabilidad.
   - [L 19/2013 en BOE](https://www.boe.es/eli/es/l/2013/12/09/19/con){target="_blank"}
 :::
 
+### RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos {#BOE-A-2015-8048}
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - [RD 668/2015](https://www.boe.es/eli/es/rd/2015/07/17/668){target="_blank"}
+:::
+
+Una frase plantilla que se puede añadir para el RD 668/2015:
+
+> El sistema bajo análisis se encuentra plenamente alineado con las directrices del Real Decreto 668/2015, de acceso electrónico de los ciudadanos a los servicios públicos, garantizando los principios de accesibilidad universal, interoperabilidad y seguridad en la prestación del servicio público por medios electrónicos.
+
 ### L 9/2017. CSP {#BOE-A-2017-12902}
 
 ::: {.callout-note icon="false"}

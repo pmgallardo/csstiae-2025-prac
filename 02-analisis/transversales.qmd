@@ -15,7 +15,7 @@ El vocal titular del Tribunal J. M. Daza dirige los proyectos de atención ciuda
 - **Regulaciones:**
   - ES:
     - L 39/2015. Procedimiento Administrativo Común AAPP (PACAP).
-    - RD 668/2015. Acceso electrónico de los ciudadanos a los servicios públicos.
+    - [RD 668/2015](regulaciones.qmd#BOE-A-2015-8048). Acceso electrónico de los ciudadanos a los servicios públicos.
     - L 29/1999. Contencioso-administrativo.
 :::
 
