@@ -277,6 +277,12 @@ Estadísticas relevantes:
 El vocal titular Á. Martín es estadístico que trabaja en la Secretaría de Estado de Migraciones.
 :::
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Organismos
+  - Ministerio de Inclusión, Seguridad Social y Migraciones
+:::
+
 ## Empleo
 
 ::: {.callout-note icon="false"}
@@ -337,6 +343,8 @@ El art. 103 de la Constitución incluye el siguiente apartado sobre el empleo p�
   - Obj. 1 "Fin de la pobreza"
   - Obj. 5 "Igualdad de género"
   - Obj. 10 "Reducción de desigualdades"
+- Organismos
+  - Ministerio de Igualdad
 :::
 
 ## Violencia de género

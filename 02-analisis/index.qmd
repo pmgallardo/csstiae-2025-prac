@@ -18,12 +18,12 @@ En análisis pormenorizado no tiene una estructura fija, sino que cada candidato
 
 A modo de guía, se sugiere una posible estructura:
 
-1. Descripción introductoria del sistema en alto nivel
-2. Contexto, con métricas, indicadores y estadísticas
-3. Iniciativas nacionales y europeas que afectan a la AGE y con las que se entronca el sistema
-4. Organismos con los que está relacionado el sistema.
-5. Marco normativo, o contexto legal.
-6. Conclusión, incluyendo beneficios y bondades
+1. **Descripción** introductoria del **sistema** en alto nivel
+2. **Contexto**, con métricas, indicadores y **estadísticas**
+3. **Iniciativas** nacionales y europeas que afectan a la AGE y con las que se entronca el sistema
+4. **Marco normativo**, o contexto legal.
+5. **Organismos** con los que está relacionado el sistema.
+6. **Conclusión**, incluyendo beneficios y bondades
 
 ### Preparación del análisis pormenorizado
 
@@ -36,10 +36,10 @@ En caso de aplicar "plantillazos", asegurarse que estos encajan correctamente co
 Consejos generales para el desarrollo del análisis pormenorizado:
 
 - Escribir párrafos bien desarrollados, evitando los listados de viñetas o puntos.
-- Un análisis pormenorizado demasiado corto puede penalizar la nota final, por ello se sugiere escribir rápido y produciendo un gran volumen. No obstante, se debe tratar de encontrar un equilibrio entre calidad y cantidad.
-- Ser positivo hacia la AGE y evitar discursos críticos contra ella, y en todo caso enfocar las deficiencias encontradas como propuestas de mejora.
+- Un análisis pormenorizado demasiado corto puede penalizar la nota final, por ello se sugiere escribir rápido y produciendo una alta extensión. No obstante, se debe tratar de encontrar un equilibrio entre calidad y cantidad, pues no siempre una mayor extensión es sinónimo de mayor calificación.
+- Ser positivo hacia la AGE y evitar discursos críticos contra ella, y en todo caso enfocar las deficiencias detectadas como propuestas de mejora.
 - Ser políticamente imparcial y evitar alabar o detractar a gobiernos o grupos políticos concretos.
-- Las alabanzas son mejor recibidas si van dirigidas a comunidades u organismos del sector público sin afinidad política concreta.
+- Los elogios son mejor recibidos si van dirigidas a comunidades u organismos del sector público sin afinidad política concreta.
 - Vigilar los tiempos, de manera que según este finalice el candidato haya podido cerrar el análisis con su conclusión correspondiente, aun cuando esto suponga dejar fuera parte del material planificado.
 
 ## Valoración del análisis pormenorizado
@@ -48,4 +48,4 @@ Desde la convocatoria 2023 es necesario obtener al menos la mitad de la nota má
 
 No se compensa la nota del supuesto práctico con la del análisis pormenorizado, por lo que es necesario aprobar ambas partes por separado.
 
-La valoración del Tribunal del análisis pormenorizado se realiza tras la lectura por el candidato, y se publica junto con el resto de puntuaciones del ejercicio práctico.
+La valoración del Tribunal del análisis pormenorizado se realiza tras la lectura por el candidato, y se publica junto con el resto de puntuaciones del ejercicio práctico tras su finalización.
