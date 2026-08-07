@@ -43,6 +43,10 @@ R(UE) 2016/679. Reglamento General de Protección de Datos (RGPD).
   - <https://eur-lex.europa.eu/ES/legal-content/summary/general-data-protection-regulation-gdpr.html>{target="_blank"}
 :::
 
+### R (UE) 2021/241
+
+Exige que los hitos y objetivos finales de las reformas e inversiones de los planes nacionales se hayan completado, como máximo, el 31/08/2026.
+
 ### R(UE) 2021/694. Programa Europa Digital {#CELEX:32021R0694}
 
 ::: {.callout-note icon="false"}
@@ -146,3 +150,12 @@ El art. 1 define los principios de contratación:
 :::
 
 Ley Orgánica de Protección de Datos y Garantía de Derechos Digitales (LOPD-GDD) complementa el RGPD.
+
+### RDL 36/2020 (PRTR) {#BOE-A-2020-17340}
+
+## 📋 Marco de referencia
+- Referencias
+  - <https://www.boe.es/eli/es/lo/2018/12/05/3/con>{target="_blank"}
+:::
+
+Se detalla en el apartado [PRTR](estrategias.qmd#PRTR) de Estrategias.

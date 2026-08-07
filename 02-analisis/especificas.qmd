@@ -397,20 +397,30 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
-- ODS
-  - Objetivo 6 "Agua limpia y saneamiento"
-  - Objetivo 11 "Ciudades y comunidades sostenibles"
-  - Objetivo 13 "Acción por el clima"
-  - Objetivo 14 "Vida submarina"
+- Estrategias
+  - INT
+    - ODS
+      - Objetivo 6 "Agua limpia y saneamiento"
+      - Objetivo 11 "Ciudades y comunidades sostenibles"
+      - Objetivo 13 "Acción por el clima"
+      - Objetivo 14 "Vida submarina"
+  - UE
+    - Brújula para la Competividad
+      - Necesidad 2 "Descarbonizar nuestra economía"
+    - Pacto por una Industria Limpia
+    - Plan de Acción para una Energía Asequible 
 :::
 
 ## Energía
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
-- ODS
-  - Objetivo 7 "Energía asequible y no contaminante"
-  - Objetivo 11 "Ciudades y comunidades sostenibles"
+- Estrategias
+  - ODS
+    - Objetivo 7 "Energía asequible y no contaminante"
+    - Objetivo 11 "Ciudades y comunidades sostenibles"
+  - UE
+    - Plan de Acción para una Energía Asequible 
 :::
 
 ## Telecomunicaciones
@@ -419,6 +429,8 @@ El vocal suplente J. M. García es jefe de Área Intersectorial en la Intervenci
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
+- Estrategias
+  - Brújula para la Competividad. Necesidad 1 "Colmar las lagunas en materia de innovación"
 - ODS
   - Objetivo 9 "Industria, innovación e infraestructura"
 :::

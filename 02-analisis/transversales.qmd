@@ -5,7 +5,7 @@ En este apartado se revisan temáticas que pueden ser comunes a proyectos de dis
 ## Relaciones con las AAPP
 
 ::: {.callout-warning icon="false" collapse="true"}
-## 👑Temática candidata
+## 🥈Temática candidata N2
 El vocal titular del Tribunal J. M. Daza dirige los proyectos de atención ciudadana.
 :::
 
@@ -194,6 +194,9 @@ El vocal titular L. A. Hernández es profesor universitario de Inteligencia Arti
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
+- Estrategias
+  - UE
+    - Estrategia para la innovación de la IA
 - Regulaciones
   - UE
     - [Reglamento UE 2024/1689. Ley de Inteligencia Artificial](regulaciones.qmd#CELEX:32024R1689)
@@ -204,7 +207,7 @@ El vocal titular L. A. Hernández es profesor universitario de Inteligencia Arti
 ## Nube
 
 ::: {.callout-warning icon="false" collapse="true"}
-## 👑Temática candidata
+## 🥇Temática candidata N1
 La secretaria titular del Tribunal trabajó en nubeSARA entre 2018 y 2026.
 :::
 

@@ -33,10 +33,33 @@ Ministerios de España en el año 2026:
 - Ministerio para la Transformación Digital y de la Función Pública
 - Ministerio para la Transición Ecológica y el Reto Demográfico
 
+| Nombre | Acrónimo |
+| - | - |
+| [Agricultura, Pesca y Alimentación](https://www.mapa.gob.es/es/) | MAPA |
+| [Asuntos Exteriores, Unión Europea y Cooperación](https://www.exteriores.gob.es/en/Paginas/index.aspx) | Exteriores |
+| [Ciencia, Innovación y Universidades](https://www.ciencia.gob.es/en/) | Ciencia |
+| Cultura | Cultura |
+| Defensa | Defensa |
+| [Derechos Sociales, Consumo y Agenda 2030](https://www.dsca.gob.es/es) | DSCA |
+| [Economía, Comercio y Empresa](https://portal.mineco.gob.es) | MINECO |
+| [Educación, Formación Profesional y Deportes](https://www.educacionfpydeportes.gob.es/portada.html) | EPYD |
+| Hacienda | Hacienda |
+| Igualdad | Igualdad |
+| [Inclusión, Seguridad Social y Migraciones](https://www.inclusion.gob.es/) | Inclusión |
+| [Industria y Turismo](https://www.mintur.gob.es/) | MINTUR |
+| [Juventud e Infancia](https://www.juventudeinfancia.gob.es/es) | JeI |
+| [Presidencia, Justicia y Relaciones con las Cortes](https://www.mpr.gob.es/Paginas/index.aspx) | MPR |
+| [Política Territorial y Memoria Democrática](https://mptmd.gob.es/) | MPTMD  |
+| Sanidad | Sanidad |
+| Trabajo y Economía Social | [MITES](https://www.mites.gob.es/) |
+| [Transportes y Movilidad Sostenible](https://www.transportes.gob.es/) | Transportes |
+| [Vivienda y Agenda Urbana](https://www.mivau.gob.es/) | MIVAU |
+| Interior | Interior |
+| [Transformación Digital y de la Función Pública](https://digital.gob.es/) | Digital |
+| [Transición Ecológica y el Reto Demográfico](https://www.miteco.gob.es/es.html) | MITECO |
+
 ### AEAD (Agencia Española de Administración Digital)
 
 La Agencia Española de Administración Digital (AEAD).
 
 Precede de la Secretaría General de la Administración (SGAD).
-
-### CISE (Centro de Interoperabilidad Semántica)

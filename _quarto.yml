@@ -34,6 +34,7 @@ book:
         - 01-supuesto/seguridad.qmd
         - 01-supuesto/interoperabilidad.qmd
         - 01-supuesto/dimensionamiento.qmd
+        - 01-supuesto/costes.qmd
         - 01-supuesto/contratacion.qmd
     - part: "Análisis pormenorizado"
       chapters:

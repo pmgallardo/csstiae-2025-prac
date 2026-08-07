@@ -5,8 +5,7 @@
 ### Agenda 2030 {#Agenda-2030}
 
 ::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-
+## 📋Marco de referencia
 - Referencias
   - <https://runmodule.com/2026/07/30/2030-agenda-for-sustainable-development/>{target="_blank"}
 :::
@@ -45,11 +44,12 @@ Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
 
 ### Segunda Agenda Digital / Década Digital de Europa {#Década-Digital-de-Europa}
 
+## 📋Marco de referencia
 - Referencias
-  - [La Década Digital de Europa](https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade)
+  - [La Década Digital de Europa](https://digital-strategy.ec.europa.eu/en/policies/europes-digital-decade){target="_blank"}
   - <https://runmodule.com/2027/03/10/second-digital-agenda-for-europe/>{target="_blank"}
+:::
 
-\
 La Unión Europea ha lanzado dos planes estratégicos para impulsar la economía digital:
 
 - La Primera Agenda Digital de Europa (2010-2020)
@@ -61,134 +61,140 @@ La Década Digital de la UE, también llamado Década Digital 2030, es un progra
 
 La Brújula Digital 2030 es una herramienta métrica, creada en 2021 y enmarcada dentro de la Década Digital, define objetivos mediables para 2030 categorizados por cuatro puntos cardinales:
 
-1. Competencias: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.
-2. Empresas: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.
-3. Infraestructura: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.
-4. Servicios públicos: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.
+1. *Competencias*: 80% de adultos con competencias digitales básicas; 20M de especialistas en TIC.
+2. *Empresas*: 75% de empresas usan nube, datos e IA; 90% de pymes con presencia online.
+3. *Infraestructura*: conectividad de altísima velocidad; cobertura 5G en zonas pobladas; primer ordenador cuántico.
+4. *Servicios públicos*: 100% de servicios públicos digitales; 100% de ciudadanos con acceso a historial médico electrónico; 80% de ciudadanos usan identificación digital.
 
 El Índice de la Economía y la Sociedad Digitales (DESI) se emplea para medir si se han obtenido los objetivos de la Década Digital de Europa.
 
 El Programa Europa Digital (2021-2027), introducido en el R(UE) 2021/694, es un programa de financiación de la UE que apoya la transformación digital de la sociedad y la economía europeas. Tiene un presupuesto de 7.500M €.
 
+### Plan de Recuperación para Europa: NextGenerationEU
+
+:::{.callout-warning}
+## 🕸️Obsoleto
+Este tema está obsoleto desde agosto 2026. 
+##
+
+::: {.callout-note icon="false"}
+## 📋Marco de referencia
+- Marco normativo
+  - [Reglamento (UE) 2020/2094](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32020R2094){target="_blank"}: modernización AAPP y PRTR.
+  - R (UE) 2021/241. Mecanismo de Recuperación y Resiliencia (MRR).
+  - [C/2026/2614](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:52026XC02614){target="_blank"}.
+- Referencias
+  - [Plan de Recuperación para Europa](https://planderecuperacion.gob.es/plan-de-recuperacion-para-europa), Gobierno de España.
+:::
+
+En 2020, tras la crisis provocada por la COVID-19, la Unión Europea diseñó el plan de Recuperación para Europa NextGenerationEU (NGEU) para abordar las consecuencias económicas y sociales de la pandemia.
+
+La base legal del NGEU se encuentra en el Marco Financiero Plurianual (MFP) 2021-2027, que fue adoptado por el Consejo Europeo en diciembre de 2020. Además, se creó un instrumento jurídico conocido como el Instrumento de Recuperación de la Unión Europea (RRF, por sus siglas en inglés), que establece las condiciones para la distribución y el uso de los fondos de NextGen EU, y que fue regulado en el Reglamento (UE) 2020/2094.
+
+Los estados miembros de la UE debían desarrollar sus planes nacionales correspondientes. El Mecanismo de Recuperación y Resiliencia (MRR), regulado por el R (UE) 2021/241, establecía que la fecha límite es el 31/08/2026.
+
+En mayo de 2026 la Comisión emitió sus instrucciones para el cierre en el C/2026/2614: cualquier actuación realizada después del 31 de agosto de 2026 no puede computarse para considerar cumplido un hito u objetivo del MRR.
+
+Se postulan como herederos del MRR los futuros Planes Nacionales y Regionales de Asociación (*National and Regional Partnership Plans*, NRPP) y el Fondo Europe de Competividad (*European Competitiveness Fund*, ECF), ambos propuestos para 2028.
+
 ### Estrategia Europea del Dato {#Estrategia-Europea-del-Dato}
+
+### Brújula para la Competividad
+
+::: {.callout-note icon="false"}
+## 📋Marco de referencia
+- Referencias
+  - [Brújula para la Competividad](https://commission.europa.eu/topics/competitiveness/competitiveness-compass_es), Comisión Europea.
+:::
+
+La Brújula para la Competividad es una hoja de ruta impulsar el crecimiento económico en Europa. Está vigente desde enero 2025.
+
+Está basada en las **necesidades** identificadas en el informe Draghi sobre el futuro de la competividad europea:
+
+1. Colmar las lagunas en materia de **innovación** 
+2. **Descarbonizar** la economía
+3. Reducir **dependencias**
+
+En innovación, se destaca la Estrategia para la Innovación de la IA.
+
+Para la descarbonización, se destaca el Pacto por una Industria Limpia.
+
+**Facilitadores horizontales** para aumentar la competividad:
+
+1. Reducción de la **burocracia**
+2. Eliminación de obstáculos del **mercado interior**
+3. Permitir una **financiación** más eficiente
+4. Promoción de **competencias y empleos de calidad**
+5. Garantizar una **mejor coordinación**
+
+### Estrategia para la Innovación de la IA
+
+<https://commission.europa.eu/news-and-media/news/keeping-european-industry-and-science-forefront-ai-2025-10-08_en?prefLang=es>
+
+### Pacto por una Industria Limpia
+
+Vigente desde febrero 2025
 
 ## Estrategias españolas
 
 ### Plan España Digital {#Plan-España-Digital}
 
 ::: {.callout-note icon="false"}
-## 📋 Marco de referencia
+## 📋Marco de referencia
 - Referencias
   - <https://runmodule.com/2027/07/27/plan-espana-digital/>{target="_blank"}
 :::
 
 ### Estrategia Nacional de Seguridad {#ENS}
 
+::: {.callout-note icon="false"}
+## 📋Marco de referencia
 - Referencias
   - <https://runmodule.com/2026/07/28/seguridad-de-la-informacion-en-el-sector-publico-en-espana/>{target="_blank"}
+:::
 
 ### Plan de Transformación Digital de la Administración General del Estado y sus Organismos Públicos (Estrategia TIC)  
 
-### Plan de Recuperación, Transformación y Resiliencia {#PRTR}
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Marco normativo
+  - 
+:::
 
+### Plan de Recuperación, Transformación y Resiliencia (PRTR) {#PRTR}
+
+:::{.callout-warning}
+## 🕸️Obsoleto
+Este tema está obsoleto desde agosto 2026. 
+##
+
+::: {.callout-note icon="false"}
+## 📋Marco de referencia
 - Regulaciones
   - UE
-    - [Reglamento (UE) 2020/2094](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32020R2094){target="_blank"}: modernización AAPP y PRTR
     - [Reglamento (UE) 2021/241](https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32021R0241){target="_blank"}: PRTR justicia, función pública, régimen local y mecenazgo
   - España
-    - [RDL 36/2020](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17340){target="_blank"}: Modernización AAPP y PRTR
+    - [RDL 36/2020](regulaciones.qmd#BOE-A-2020-17340): Modernización AAPP y PRTR
     - [RDL 6/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-25758){target="_blank"}: PRTR justicia, función pública, régimen local y mecenazgo
 - Referencias
   - Gobierno de España; "[Plan de Recuperación, Transformación y Resiliencia](https://planderecuperacion.gob.es/){target="_blank"}"; Gobierno de España
   - <https://runmodule.com/2027/06/15/plan-de-recuperacion-transformacion-y-resiliencia/>{target="_blank"}
+:::
 
-\
-El Plan de Recuperación, Transformación y Resiliencia (PRTR) fue emitido por el Gobierno de España en 2023.
-
-#### Contexto del PRTR
-
-En 2020, tras la crisis provocada por la COVID-19, la Unión Europea diseñó el plan de recuperación Next Generation EU (NGEU) para abordar las consecuencias económicas y sociales de la pandemia.
-
-La base legal del NGEU se encuentra en el Marco Financiero Plurianual (MFP) 2021-2027, que fue adoptado por el Consejo Europeo en diciembre de 2020. Además, se creó un instrumento jurídico conocido como el Instrumento de Recuperación de la Unión Europea (RRF, por sus siglas en inglés), que establece las condiciones para la distribución y el uso de los fondos de NextGen EU, y que fue regulado en el Reglamento (UE) 2020/2094.
+El Plan de Recuperación, Transformación y Resiliencia (PRTR) fue un plan nacional español de implantación del Plan Europeo de Recuperación para Europa NextGen.
 
 Estas ayudas se canalizaron en España a través del Plan de Recuperación, Transformación y Resiliencia (PRTR), que se promulgó a través del Real Decreto-Ley 36/2020.
 
-La duración del PRTR es de 2021 a 2026.
+La duración del PRTR fue de 2021 a 2026. Estaba compuesta por 10 palancas y 31 
 
-#### Estructura del PRTR
+El Gobierno aprobó el 28/07/2026 la Adenda de Cierre del PRTR, señalando expresamente el 31/08/2026 como fecha límite para la ejecución de estos fondos y cumplir actuaciones del MRR.
 
-El PRTR se estructura en:
+## Fondo España Crece
 
-- 4 ejes
-- 10 políticas palanca
-- 31 componentes
+::: {.callout-note icon="false"}
+## 📋Marco de referencia
+- Referencias
+  - [El Gobierno pone en marcha la inyección de 13.300 millones al ICO para activar el fondo España Crece](https://portal.mineco.gob.es/es-es/comunicacion/Paginas/El-Gobierno-pone-marcha-inyeccion-de-13.300-millones-al-ICO-para-activar-fondo-Espana-Crece.aspx), Ministerio de Economía, Comercio y Empresa, 19/05/2026.
+:::
 
-#### Ejes del PRTR
-
-4 ejes del PRTR:
-
-- Transformación ecológica
-- Transformación digital
-- Cohesión social y territorial
-- Igualdad de género
-
-#### Políticas palanca del PRTR
-
-10 palancas:
-
-1. Agenda urbana y rural, lucha contra la despoblación y desarrollo de la agricultura
-2. Infraestructuras y ecosistemas resilientes
-3. Transición energética justa e inclusiva
-4. Una Administración para el siglo XXI
-5. Modernización y digitalización del tejido industrial y de la pyme, recuperación del turismo e impulso a una España nación emprendedora
-6. Pacto por la ciencia y la innovación. Refuerzo a las capacidades del Sistema Nacional de Salud
-7. Educación y conocimiento, formación continua y desarrollo de capacidades
-8. Nueva economía de los cuidados y políticas de empleo
-9. Impulso de la industria de la cultura y el deporte
-10. Modernización del sistema fiscal para un crecimiento inclusivo y sostenible
-
-#### Componentes del PRTR
-
-31 componentes asociados a sus palancas:
-
-- Agenda urbana y rural, lucha contra la despoblación y desarrollo de la agricultura
-  - Componente 1: Plan de choque de movilidad sostenible, segura y conectada en entornos urbanos y metropolitanos
-  - Componente 2: Plan de rehabilitación de vivienda y regeneración urbana
-  - Componente 3: Transformación ambiental y digital del sistema agroalimentario y pesquero
-  - Infraestructuras y ecosistemas resilientes
-  - Componente 4: Conservación y restauración de ecosistemas y su biodiversidad
-  - Componente 5: Preservación del litoral y recursos hídricos
-  - Componente 6: Movilidad sostenible, segura y conectada
-- Transición energética justa e inclusiva
-  - Componente 7: Despliegue e integración de energías renovables
-  - Componente 8: Infraestructuras eléctricas, promoción de redes inteligentes y despliegue de la flexibilidad y el almacenamiento
-  - Componente 9: Hoja de ruta del hidrógeno renovable y su integración sectorial
-  - Componente 10: Estrategia de Transición Justa
-  - Componente 31: REPowerEU
-- Una Administración para el siglo XXI
-  - Componente 11: Modernización de las Administraciones públicas
-- Modernización y digitalización del tejido industrial y de la pyme, recuperación del turismo e impulso a una España nación emprendedora
-  - Componente 12: Política Industrial España 2030
-  - Componente 13: Impulso a la pyme
-  - Componente 14: Plan de modernización y competitividad del sector turístico
-  - Componente 15: Conectividad Digital, impulso de la ciberseguridad y despliegue del 5G
-- Pacto por la ciencia y la innovación. Refuerzo a las capacidades del Sistema Nacional de Salud
-  - Componente 16: Estrategia Nacional de Inteligencia Artificial
-  - Componente 17: Reforma institucional y fortalecimiento de las capacidades del sistema nacional de ciencia, tecnología e innovación
-  - Componente 18: Renovación y ampliación de las capacidades del Sistema Nacional de Salud
-- Educación y conocimiento, formación continua y desarrollo de capacidades
-  - Componente 19: Plan Nacional de Competencias Digitales (digital skills)
-  - Componente 20: Plan estratégico de impulso de la Formación Profesional
-  - Componente 21: Modernización y digitalización del sistema educativo, incluida la educación temprana de 0 a 3 años
-- Nueva economía de los cuidados y políticas de empleo
-  - Componente 22: Plan de choque para la economía de los cuidados y refuerzo de las políticas de inclusión
-  - Componente 23: Nuevas políticas públicas para un mercado de trabajo dinámico, resiliente e inclusivo
-- Impulso de la industria de la cultura y el deporte
-  - Componente 24: Revalorización de la industria cultural
-  - Componente 25: España hub audiovisual de Europa (Spain AVS Hub)
-  - Componente 26: Plan de fomento del sector del deporte
-- Modernización del sistema fiscal para un crecimiento inclusivo y sostenible
-  - Componente 27: Medidas y actuaciones de prevención y lucha contra el fraude fiscal
-  - Componente 28: Adaptación del sistema impositivo a la realidad del siglo XXI
-  - Componente 29: Mejora de la eficacia del gasto público
-  - Componente 30: Sostenibilidad a largo plazo del sistema público de pensiones en el marco del Pacto de Toledo
+El fondo España Crece fue aprobado en diciembre 2025 y prolonga sin límite temporal el impulso inversor del PRTR.

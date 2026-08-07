@@ -101,7 +101,7 @@ Infraestructuras y Sistemas de Documentación Electrónica (InSiDe).
 
 Archive es un archivo definitivo de expedientes y documentos.
 
-### CTT (Centro de Transferencia de Tecnología) {#ctt}
+## CTT (Centro de Transferencia de Tecnología) {#ctt}
 
 ::: {.callout-note icon="false"}
 - Referencias
@@ -115,3 +115,12 @@ Es gestionado por la AEAD.
 Contiene el directorio de soluciones del CTT (DS-CTT)/index{CTT!directorio de soluciones}, que es un catálogo de soluciones tecnológicas reutilizables en las AAPP.
 
 El repositorio forja-CTT\index{CTT!forja-CTT} de GitHub alberga proyectos de código abierto de las AAPP.
+
+### CISE (Centro de Interoperabilidad Semántica) {#cise}
+
+::: {.callout-note icon="false"}
+- Referencias
+  - [CISE en PAe](https://administracionelectronica.gob.es/ctt/378/activosSemanticos){target="_blank"}
+:::
+
+El Centro de Interoperabilidad Semántica (CISE) sirve para almacenar, publicar y difundir modelos de datos comunes y sectoriales a las AAPP de la AGE, garantizando que las diferentes administraciones públicas y ciudadanos entiendan la información intercambiada de forma automática.

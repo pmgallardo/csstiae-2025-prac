@@ -1,0 +1,40 @@
+# Costes
+
+Los costes dependen del personal.
+
+## Servicios
+
+En este apartado se determinan los costes asociados a servicios.
+
+### Servicios de desarrollo
+
+Es importante dejar claro de que se trata de contratación de servicios de desarrollo, no de personal.
+
+El SDA 26/2021 (servicios de desarrollo) se puede emplear solamente si:
+
+- El importe es menor de 862.000 €.
+- Se contrata durante su vigencia, es decir, antes del 01/02/2027
+
+En los pliegos de la AGE se manejan una serie de perfiles estándar:
+
+- Jefe de Proyecto
+- Consultor
+- Analista
+- Analista Programador
+- Programador
+
+Estos perfiles eran los que históricamente se empleaban como categorías profesionales en los convenios colectivos y por tanto también en los pliegos. A pesar de que actualmente el convenio colectivo estatal de empresas de consultoría, tecnologías de información, y de estudios de mercado incluye otras categorías más asociadas a los niveles profesionales (A1, A2, B1, etc.), los pliegos públicos siguen usando las categorías históricas.
+
+En 2026, no se trabaja con perfiles tasados y el precio de cada perfil depende de cada pliego. De cara al ejercicio práctico y procurando tener números redondos, los posibles son los siguientes:
+
+| Perfil | Precio hora | Precio jornada |
+| - | - | - |
+| Jefe de Proyecto | 60 | 480 |
+| Consultor | 50 | 400 |
+| Analista | 45 |  |
+| Analista Programador | 40 | 320 |
+| Programador | 30 | 240 |
+
+### Servidores
+
+En 2026, no se trabaja con perfiles tasados. Un precio posible es el encontrado en pliegos.

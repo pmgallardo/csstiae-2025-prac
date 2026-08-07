@@ -1,5 +1,7 @@
 # Contratación
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - Regulaciones
   - UE
     - Directiva 2014/24/UE
@@ -15,6 +17,7 @@
     - 11. Los contratos de las Administraciones Públicas
 - Referencias
   - <https://runmodule.com/2026/01/27/contratacion-en-el-sector-publico-de-espana/>
+:::
 
 Este apartado trata sobre la contratación en la Administración General del Estado (AGE).
 
