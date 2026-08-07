@@ -64,8 +64,11 @@ El art. 41 de la Constitución establece que:
 
 ## Pensiones / Tercera Edad
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
 - CE
   - Art. 50. Protección de la tercera edad
+###
 
 El art. 50 de la Constitución establece que:
 
@@ -197,6 +200,9 @@ El título II de la CE trata sobre la Corona.
 ## 📋 Marco de referencia
 - ODS
   - Objetivo 8 "Trabajo decente y crecimiento económico"
+- Organismos
+  - ES
+    - Ministerio de Industria y Turismo
 :::
 
 ## Comercio
@@ -213,15 +219,6 @@ El título II de la CE trata sobre la Corona.
 ## 📋 Marco de referencia
 - CE
   - CE, art. 19 (libertad de residencia y circulación)
-:::
-
-## Industria
-
-::: {.callout-note icon="false"}
-## 📋 Marco de referencia
-- Organismos
-  - ES
-    - Ministerio de Industria y Turismo
 :::
 
 ## Turismo
