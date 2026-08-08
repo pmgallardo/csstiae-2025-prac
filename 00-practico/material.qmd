@@ -1,6 +1,20 @@
-# Repositorio de ejercicios prácticos
+# Material de preparación
 
-## Ejercicios prácticos oficiales del INAP
+## Material teórico
+
+Se pueden consultar las siguientes fuentes de teoría:
+
+- [Temario ofrecido por Astic](https://www.astic.es/temario-tic-a1/) (de pago)
+- [Material ofrecido por Preparatic](https://www.preparatic.org/material-preparatic-31/) (gratuito)
+- Material adicional facilitado por academias y preparadores
+
+Los materiales teóricos de Astic y Preparatic están organizados en función del temario de convocatorias recientes.
+
+De cara al ejercicio práctico conviene realizar cierta preparación de material propio para recopilar información sobre estrategias, marcos normativos, iniciativas o costes de recursos actualizados. 
+
+## Repositorio de ejercicios prácticos
+
+### Ejercicios prácticos oficiales del INAP
 
 El INAP recopila los enunciados de los ejercicios prácticos más recientes, mientras que Preparatic comparte los volcados de soluciones de algunos candidatos que voluntariamente los han compartido.
 
@@ -18,11 +32,10 @@ El INAP recopila los enunciados de los ejercicios prácticos más recientes, mie
 | 2012-2013 | 21 | 4 | Sistema integrado de información y seguimiento del PEFJ | [PDF](https://www.inap.es/es/documents/10136/1698123/Cuarto_ejercicio%202013.pdf/40b87770-ba50-25b1-e2b9-160bc28999a7) | - |
 | 2011 | 20 | 4 | Particip@Web | [PDF](https://www.inap.es/es/documents/10136/1698123/Cuarto_ejercicio%202011.pdf/d897c040-84e2-70a4-434c-63a9da73bd8f) | - |
 
-
-## Ejercicios prácticos de otras AAPP
+### Ejercicios prácticos de otras AAPP
 
 Los ejercicios prácticos de procesos de selección de contenido similar al CSSTIAE y fuera de la AGE pueden emplearse para ensayar.
 
-## Ejercicios prácticos no oficiales
+### Ejercicios prácticos no oficiales
 
 Adicionalmente, algunas academias y preparadores desarrollan sus propios enunciados y comparten las propuestas de solución de los candidatos.

@@ -6,3 +6,20 @@ En la planificación temporal hay que tener en cuenta los siguientes factores:
 
 - Tiempo mínimo de contratación
 - Esfuerzo de desarrollo
+
+## Fases de un proyecto
+
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias
+  - Manuel Cillero, [Métrica v3](https://manuel.cillero.es/doc/metodologia/metrica-3/), manuel.cillero.es.
+:::
+
+Las fases de un proyecto de sistemas informáticos de la AGE se pueden definir en base al Desarrollo de Sistemas de Información de Métrica v3:
+
+1. Estudio de viabilidad del sistema (EVS)
+2. Análisis del sistema de información (ASI)
+3. Diseñó del sistema de información (DSI)
+4. Construcción del sistema de información (CSI)
+5. Implantación y aceptación del sistema (IAS)
+6. Mantenimiento del sistema de información (MSI)

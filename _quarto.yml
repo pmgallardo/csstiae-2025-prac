@@ -24,7 +24,7 @@ book:
       chapters:
         - 00-practico/index.qmd
         - 00-practico/temas.qmd
-        - 00-practico/repo-ejercicios.qmd
+        - 00-practico/material.qmd
     - part: "Supuesto práctico"
       chapters:
         - 01-supuesto/index.qmd

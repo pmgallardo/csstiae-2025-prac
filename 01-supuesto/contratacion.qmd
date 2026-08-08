@@ -314,6 +314,10 @@ Acuerdos marcos relevantes para IT:
 
 Hay que saberse los números de los acuerdos marcos.
 
+#### AM 02/2023 {am022023}
+
+<https://contratacioncentralizada.gob.es/web/dgrcc/-/ficha-ami-suministro-ordenadores>
+
 ### Sistemas Dinámicos de Adquisición
 
 Sistemas dinámicos de adquisición (SDA) tiene una duración de 5 años.

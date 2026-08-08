@@ -115,7 +115,7 @@ La identificación de dominios/subdominios funcionales se refiere a dividir el s
 
 ### Arquitectura conceptual
 
-En la arquitectura conceptual se pueden definir agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.
+En la arquitectura conceptual se pueden agrupar las acciones a realizar de manera pública por un lado, las acciones del área por otro, y añadir un proceso pasarela que sea autenticación de usuario y que conecte ambos grupos.
 
 ### Arquitectura de sistemas
 

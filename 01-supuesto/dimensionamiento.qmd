@@ -1,10 +1,14 @@
 # Dimensionamiento de recursos
 
-Para dimensionar los recursos necesarios de un sistema informático es necesario tener en cuenta al menos:
+Durante el diseño de un sistema informático se deben dimensionar cada uno de los elementos que forman parte del mismo.
+
+Estos elementos se puede dividir en distintas tipologías de recursos que pueden dimensionarse por separado. Las tipologías a tener en cuenta son al menos:
 
 - Desarrollo
 - Licencias de software
 - Infraestructura
+
+Una vez dimensionadas cada tipología de recursos debe calcularse el coste asociado a cada una. Para ello, se debe revisar el apartado de [costes](costes.qmd).
 
 ## Dimensionamiento de desarrollo
 
@@ -13,66 +17,130 @@ Para dimensionar los recursos necesarios de un sistema informático es necesario
 - **🎯 Temas:**
   - 99. Estimación de recursos
 - **🔗 Referencias de consulta:**
-  - [Software Estimation (RunModule, 2026)](https://runmodule.com/2026/06/25/software-estimation/)
+  - [Software Estimation](https://runmodule.com/2026/06/25/software-estimation/). RunModule, 2026.
 :::
 
 En caso de que el enunciado del ejercicio incluya un importe de presupuesto, el coste total del proyecto debe aproximarse lo más posible al indicado.
 
 Los costes de un proyecto vienen definidos principalmente por:
 
-- Personal
-- Equipos informáticos
-- Licencias de software
+- Esfuerzo de servicios de desarrollo
+- Equipos informáticos de desarrollo
+- Licencias de software de desarrollo
 
 Las tarifas de personal no las he encontrado como estándares.
 
 No obtante, las tarifas aparecen en algunas licitaciones públicas, como por ejemplo:
 
- o en el Anexo IX de este otro contrato de la Comunidad de Madrid.
-
-Memoria económica del expediente 300/ 2021/00023 del Ayto de Madrid
-
-Servicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid
+- en el Anexo IX de este otro contrato de la Comunidad de Madrid.
+- Memoria económica del expediente 300/ 2021/00023 del Ayto de Madrid
+- Servicio desarrollos evolutivos portales Madrid Destino del Ayto. de Madrid
 
 Se realiza esta tabla buscando números redondos y ligeramente superiores a los de los expedientes citados.
 
-Este capítulo resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.
+### Esfuerzo de servicios de desarrollo
 
-Las técnicas aquí reflejadas son las reseñadas en el temario ofrecido por Astic.
+En este apartado resume métodos de estimación de esfuerzo y costes en el desarrollo de software, que es una tarea habitual en el supuesto práctico.
 
-### COSMIC-FSM
+De cara al supuesto práctico, se propone aplicar cada una de las técnicas de dimensionamiento de desarrollo en las siguientes situaciones:
+
+- Si se ha pedido realizar un diagrama de casos de uso: UCP.
+- Si se he pedido realizar un modelo entidad-relación (ER) o un diagrama de clases: staffing size.
+- En otro caso: COSMIC-FSM
+
+Todas estas técnicas se presentan en el temario de Astic, además de otras reseñadas como el enfoque COCOMO o las métricas bang. Adicionalmente, existen otras técnicas de estimación no cubiertas en estos apuntes.
+
+#### UCP
+
+Para User Case Points (UCP), se puede considerar que el TCF y el ECF son 0.8 y 1.25 (en el orden que se considera) para facilitar las cuentas ya que su producto es 1.
+
+Estimación por puntos de función (versión simplificada de Andreu, problemente basada en COSMIC-FSM):
+
+1. Identificar los puntos de función de enunciado
+2. Estimar puntos de función
+   Interfaz de usuario = 10 PF
+   Módulo = 10, 20 ó 30 PF
+3. Estimar horas
+   Donde 1 PF = 10 horas
+
+Una vez que se obtienen las horas de construcción (que se correspondería con la fase CSI de Métrica v3), se puede inferir que es el 40% o 50% del esfuerzo total.
+
+El esfuerzo total en horas se obtendría multiplicando las horas de construcción por 2,5 (ya que 1/0,40 = 2,5), o incluso multiplicando por 2 (suponiendo un 50%, ya que 1/0,50 = 2).
+
+#### Staffing size
+
+#### COSMIC-FSM
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 <https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/>
 :::
 
-### UCP
-
-User Case Points (UCP)
-
-### Enfoque COCOMO
-
-### Métricas Bang
-
-## Dimensionamiento de licencias de software
+### Servicios de desarrollo
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
 - Contratación
   - SDA 25/2022 de suministros
+- Referencia
+  - Manuel Cillero, [Participantes](https://manuel.cillero.es/doc/metodologia/metrica-3/participantes/), manuel.cillero.es.
 :::
 
-Las licencias de software se recogen mediante el SDA 25/2022 de suministros.
+Es importante dejar claro en el ejercicio práctico y durante las preguntas de la lectura de que para el sistema se contratan servicios de desarrollo, no de personal.
 
-Revisar las secciones de  y SDA
+En los pliegos de la AGE se manejan una serie de perfiles estándar:
+
+- Directivo
+- Jefe de Proyecto
+- Consultor
+- Analista
+- Programador
+
+Adicionalmente, en ciertos pliegos (como [este](https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=tNPjeO7M69nK%2BJEppP2WhnzXW3zzgJBktRjJpSJDeGVqean%2FKThYS%2Bkgg1JnKHv8t0vVPmZvaP7Bqss5p37%2FNFsxObzsp3%2FUnFfyMeR6S1h45ClyWkoJ44mKM70IFcOu&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D)) se menciona también el perfil de analista programador. A efectos prácticos, esta guía considera análogos los perfiles de analista y analista programador (al menos respecto a categoría y precio), justificándose en que en Métrica v3 no existe el perfil mixto.
+
+El origen del uso de estos perfiles en las licitaciones puede provenir de que históricamente empleados como categorías profesionales en los convenios colectivos y por tanto también en los pliegos. A pesar de que actualmente el convenio colectivo estatal de empresas de consultoría, tecnologías de información, y de estudios de mercado incluye otras categorías más asociadas a los niveles profesionales (A1, A2, B1, etc.), los pliegos públicos siguen usando las categorías históricas.
+
+Otra teoría posible es que estos son los perfiles definidos en Métrica v3. Pero queda la duda de quién precedía a quién: si los convenios históricos o Métrica v3.
+
+Se puede establecer que un desarrollo necesita el siguiente número de perfiles:
+
+- 1 jefe de proyecto por proyecto
+- Tantos analistas-programadores como sea necesario para tener el proyecto en la fecha indicada en el enunciado o en un periodo razonable (6-18 meses).
+- Analistas en un ratio de 0,25-0,5 respecto al número total de programadores.
+- Opcionalmente 1 o 2 consultores, en función del presupuesto disponible.
+
+Se suele reducir el ratio de analistas por programador cuando interesa reducir el coste de desarrollo.
+
+También se puede convertir a un analista en analista programador cuando no interesa aumentar el número perfiles de programadores pero tampoco se ve conveniente reducir el ratio de analistas por cada programador.
+
+Este criterio está basada en la definición de Unidad de Trabajo de la licitación de los [Servicios de Desarrollo y Mantenimiento del Registro Único de Protonterapia (RUP) para el Sistema Nacional de Salud](https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=tNPjeO7M69nK%2BJEppP2WhnzXW3zzgJBktRjJpSJDeGVqean%2FKThYS%2Bkgg1JnKHv8t0vVPmZvaP7Bqss5p37%2FNFsxObzsp3%2FUnFfyMeR6S1h45ClyWkoJ44mKM70IFcOu&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D), donde se definía que una unidad de trabajo estaba formada por:
+
+- 1 jefe de proyecto
+- 3 analistas
+- 6 analistas-programadores
+
+Otro criterio es suponer que un proyecto típico tiene 12 personas: 1 jefe de proyecto, 2 analistas y 8 programadores. Adicionalmente se puede poner 1 consultor, jugando con esto en función del presupuesto disponible.
+
+### Equipos informáticos de desarrollo
+
+Cada uno de los perfiles necesarios para el proyecto requiere un equipo informático.
+
+### Licencias de software para desarrollo
+
+Las estaciones de trabajo (*workstations*) de la AGE suelen usar el SO Microsoft Windows. Puesto que los equipos de desarrollo se adquieren con licencias OEM (*original equipment manufacturer*) del sistema operativo, no es necesario dimensionar por separado estas licencias.
+
+Se puede justificar el no incluir licencias de herramientas de desarrollo argumentando que se emplean herramientas de software libre y de código abierto.
 
 ## Dimensionamiento de infraestructuras
 
-Para la infraestructura.
+Para realizar el dimensionamiento de infraestructuras se requiere haber diseñado previamente un 
 
 Si el sistema cuenta con infraestructura *on premise*, se puede emplear el [SDA 24/2022](contratacion#sda242022) de sistemas de comunicación, servidores y sistemas de almacenamiento.
 
 Si el sistema depende de infraestructura en la nube, se demostrará al Tribunal conocimiento sobre la AGE al proponer el uso de la [NubeSARA](infr-comunes.qmd#nubesara). Conviene revisar y aplicar las tarifas correspondientes.
 
-###
+### Servidores
+
+Se debe contar el número de servidores
+
+También se deben dimensionar las licencias de software de los servidores.
