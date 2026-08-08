@@ -98,9 +98,9 @@ En los pliegos de la AGE se manejan una serie de perfiles estándar:
 
 Adicionalmente, en ciertos pliegos (como [este](https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?DocumentIdParam=tNPjeO7M69nK%2BJEppP2WhnzXW3zzgJBktRjJpSJDeGVqean%2FKThYS%2Bkgg1JnKHv8t0vVPmZvaP7Bqss5p37%2FNFsxObzsp3%2FUnFfyMeR6S1h45ClyWkoJ44mKM70IFcOu&cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D)) se menciona también el perfil de analista programador. A efectos prácticos, esta guía considera análogos los perfiles de analista y analista programador (al menos respecto a categoría y precio), justificándose en que en Métrica v3 no existe el perfil mixto.
 
-El origen del uso de estos perfiles en las licitaciones puede provenir de que históricamente empleados como categorías profesionales en los convenios colectivos y por tanto también en los pliegos. A pesar de que actualmente el convenio colectivo estatal de empresas de consultoría, tecnologías de información, y de estudios de mercado incluye otras categorías más asociadas a los niveles profesionales (A1, A2, B1, etc.), los pliegos públicos siguen usando las categorías históricas.
+El origen de estos perfiles empleados en las licitaciones proviene de que eran los históricamente empleados como categorías profesionales en los convenios colectivos y por tanto también en los pliegos. A pesar de que actualmente el convenio colectivo estatal de empresas de consultoría, tecnologías de información, y de estudios de mercado incluye otras categorías más asociadas a los niveles profesionales (A1, A2, B1, etc.), los pliegos públicos siguen usando las categorías históricas.
 
-Otra teoría posible es que estos son los perfiles definidos en Métrica v3. Pero queda la duda de quién precedía a quién: si los convenios históricos o Métrica v3.
+Estos perfiles históricos fueron recogidos en Métrica v1, desarrollado en 1989-1990, y sus versiones posteriores.
 
 Se puede establecer que un desarrollo necesita el siguiente número de perfiles:
 
