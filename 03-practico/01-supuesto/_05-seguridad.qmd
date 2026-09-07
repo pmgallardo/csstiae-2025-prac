@@ -1,6 +1,6 @@
 ## Seguridad
 
-### Riesgos
+### Gestión de riesgos
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -22,7 +22,7 @@ Este apartado trata sobre la evaluación de riesgos en proyectos de sistemas de 
   - 48. ENS
 :::
 
-El Esquema Nacional de Seguridad (ENS) es una pregunta permanente en todos los ejercicios prácticas del CSSTIAE.
+El Esquema Nacional de Seguridad (ENS) es una pregunta permanente en los ejercicios prácticas del CSSTIAE, ya sea por mención expresa o necesidad de considerarla en los diseños.
 
 Las **categorías de seguridad del ENS** son:
 

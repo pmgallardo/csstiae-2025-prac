@@ -58,13 +58,23 @@ La AGE emplea habitualmente Docker para empaquetado y Kubernetes o soluciones em
 
 #### Mensajería e integración
 
-Para mensajería e integración en la AGE se emplen herramientas como Apache Kafka o RabbitMQ.
+Para mensajería e integración en la AGE se emplen herramientas de código abierto como RabbitMQ o Apache Kafka.
 
-#### API Manager
+RabbitMQ se emplea más en mensajería tradicional y arquitecturas monolíticas, mientras que Apache Kafka se emplea más en big data y arquitecturas de microservicios.
 
-Para entornos on premise, la opción de código abierto WSO2 es popular en la AGE
+#### API manager
 
-Para micro servicios, la opción de Kong Enterprise también popular.
+Una opción comercial de API manager (o gestor de APIs) habitual en la AGE es MuleSoft AnyPoint Platform.
+
+Entre las opciones de código abierto que ofrecen un API manager completo se encuentra WSO2 API Manager.
+
+### API gateway
+
+La funcionalidad de API gateway (o pasarela de APIs) está habitualmente incluida en las suites de API manager. Por ello, si el sistema ya cuenta con un API manager, no es necesario implementar un API gateway adicional.
+
+Por ejemplo, MuleSoft AnyPoint Plaform incluye MuleSoft API Gateway, mientras que WSO2 API Manager incluye WSO2 API Gateway.
+
+Una opción de código abierto centrada en la funcionalidad de API gateway es Kong API Gateway Community Edition (CE). El API manager completo Kong Manager sería de pago.
 
 ### Ecosistemas de tecnologías
 

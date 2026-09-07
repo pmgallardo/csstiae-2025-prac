@@ -60,8 +60,8 @@ Cronograma de pruebas selectivas de la convocatoria 2025:
 | Inicio inscripción| 19/12/25 |
 | Límite inscripción | 20/01/26 |
 | Realización ej. test | 16/07/26 |
-| Relación def. aprobados test | - |
-| Realización ej. prác. | > 15/09/26 |
+| Relación def. aprobados test | 27/08/26 |
+| Realización ej. prác. | 16/10/26 |
 | Fin lecturas ej. prác. PI | < 15/11/26 |
 | Realización ej. inglés PI | > 15/11/26 |
 | Relación def. aprobados ej. inglés PI | - |

@@ -7,10 +7,47 @@ Convocatorias: 2023.
 
 La arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas capas que posee el sistema.
 
-Ejemplos de modelos de arquitectura de sistemas:
+La arquitectura lógica suele incluir:
 
-- Modelo-vista-controlador (MVC)
-- Microservicios
+  - Actores
+  - Dispositivos de usuario (portátil, móvil, etc.)
+  - Sistemas externos
+  - API gateway
+  - Estilos y patrones de arquitectura de software
+  - Servidores virtuales (con su función)
+
+Por el contrario, suelen excluir:
+
+  - Elementos de red (redes, enrutadores, cortafuegos, etc.)
+  - Elementos duplicados para obtener alta disponibilidad (HA)
+
+ como seguridad, interoperabilidad, orquestación o accesibilidad.
+
+A menudo los candidatos incluyen bloques transversales, incluyendo algunos como:
+
+- Seguridad
+- Interoperabilidad
+- Accesibilidad
+- Administración
+  - Orquestación
+  - Monitorización
+
+Un **API gateway** (pasarela API) es un bloque que se encuentra entre los dispositivos de usuario y el servidor de presentación, y que se encarga de gestionar las solicitudes de los usuarios hacia las APIs del sistema.
+
+Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.
+
+Habitualmente en sector público se usa la integración de lado de servidor (*server-side integration*). Esto se hace a través de un *front-end UI composer*.
+
+Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).
+
+Estilos y patrones de arquitectura de software que pueden aparecer en arquitecturas lógicas:
+
+- Monolítico
+- Multicapa
+  - Modelo-vista-controlador (MVC)
+  - Arquitectura hexagonal
+- Orientado a servicios (SOA)
+  - Microservicios
 
 **MVC**
 
@@ -20,7 +57,7 @@ Ejemplos de modelos de arquitectura de sistemas:
   - <https://runmodule.com/2024/12/03/mvc-architecture/>
 :::
 
-En el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.
+En el modelo-vista-controlador (MVC) existiría una capa de presentación, otra de aplicación o negocio y una última de datos.
 
 Se suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.
 
@@ -29,6 +66,26 @@ Propuesta de niveles principales:
 - Presentación
 - Lógica de negocio
 - Acceso a datos y servicios
+
+**Arquitectura hexagonal**
+
+Considera tres capas:
+
+- Aplicación
+- Adaptadores
+- Sistemas externos
+
+La capa de aplicación contiene la lógica propia del dominio. Excluye cualquier referencia a interfaces, tecnologías o sistemas externos. 
+
+La capa de adaptadores sirve de adaptación entre los sistemas externos y la aplicación. En el borde exterior de esta capa se encuentran los puertos, que son interfaces abstractas entre los sistemas externos y la aplicación. Los adaptadores son implementaciones de estos puertos.
+
+Una de las particularidades de esta arquitectura es que considera a las bases de datos actores, ya que se considera dependiente de tecnología, intercambiable y por tanto externa al dominio.
+
+Los puertos y adaptadores pueden ser primarios y secundarios. Los adaptadores primarios son los que permiten a los actores o sistemas externos interactuar con la aplicación, mientras que los adaptadores secundarios son los que permiten a la aplicación interactuar con actos externos.
+
+La capa de sistemas externos considera los actores y sistemas fuera del control del sistema gestionado.
+
+En la arquitectura lógica debería representarse cada adaptador entre la aplicación como un recuadro distinto.
 
 **Microservicios**
 
@@ -42,17 +99,7 @@ En microservicios se suele pintar un API gateway al inicio de la lógica de nego
 
 El API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.
 
-Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.
-
-Habitualmente en sector público se usa la integración de lado de servidor (*server-side integration*). Esto se hace a través de un *front-end UI composer*.
-
-De manera transversal:
-
-- Administración
-- Seguridad
-- Monitorización
-
-Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).
+En la arquitectura de microservicios es obligatorio colocar un broker de mensajes o bus de eventos transversal junto a todos los microservicios, y dar a entender que la comunicación entre ellos se realiza a través de este módulo.
 
 ## Arquitecturas de sistemas
 
@@ -84,12 +131,16 @@ La arquitectura física implica especificar los componentes técnicos a emplear,
 
 Elementos que deben considerarse en la arquitectura física:
 
-- Servidores (bare-metal o virtuales)
+- Servidores físicos (bare-metal)
 - Clústeres
 - Almacenamiento
-- Cortafuegos
+- Elementos de red
 - Bases de datos
 - Proveedores cloud
+
+Elementos que se suelen excluir:
+
+- Arquitectura de software
 
 Para las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.
 
@@ -163,7 +214,8 @@ Se representan como nubes las WLANs como red SARA y otras intranets:
 - Las redes de entidades locales (EELL) siempre están conectadas a redes de comunidades autónomas (CCAA), nunca se conectan directamente a red SARA.
 
 Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.
-En la red perimetral, conectados con directamente con el cortafuegos exterior, suelen estar presentes:
+
+En la red perimetral, conectados directamente con el cortafuegos exterior, suelen estar presentes:
 
 - Balanceadores
 - Servidores de presentación / web
@@ -175,6 +227,8 @@ En la red perimetral, conectados con directamente con el cortafuegos exterior, s
 - Sonda SAT Inet
 
 El **balanceador** puede software o *appliance*.
+
+Referencias:
 
 - CCN-STIC-140 Anexo F.88: Balanceadores de carga
 
