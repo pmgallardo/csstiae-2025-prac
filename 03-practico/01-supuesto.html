@@ -449,7 +449,7 @@ window.Quarto = {
   </ul></li>
   <li><a href="#seguridad" id="toc-seguridad" class="nav-link" data-scroll-target="#seguridad"><span class="header-section-number">8.8</span> Seguridad</a>
   <ul class="collapse">
-  <li><a href="#riesgos" id="toc-riesgos" class="nav-link" data-scroll-target="#riesgos"><span class="header-section-number">8.8.1</span> Riesgos</a></li>
+  <li><a href="#gestión-de-riesgos" id="toc-gestión-de-riesgos" class="nav-link" data-scroll-target="#gestión-de-riesgos"><span class="header-section-number">8.8.1</span> Gestión de riesgos</a></li>
   <li><a href="#esquema-nacional-de-seguridad-ens" id="toc-esquema-nacional-de-seguridad-ens" class="nav-link" data-scroll-target="#esquema-nacional-de-seguridad-ens"><span class="header-section-number">8.8.2</span> Esquema Nacional de Seguridad (ENS)</a></li>
   <li><a href="#protección-de-datos" id="toc-protección-de-datos" class="nav-link" data-scroll-target="#protección-de-datos"><span class="header-section-number">8.8.3</span> Protección de datos</a></li>
   <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic" class="nav-link" data-scroll-target="#guías-ccn-stic"><span class="header-section-number">8.8.4</span> Guías CCN-STIC</a></li>
@@ -478,7 +478,8 @@ window.Quarto = {
   <li><a href="#tecnología" id="toc-tecnología" class="nav-link" data-scroll-target="#tecnología"><span class="header-section-number">8.12</span> Tecnología</a>
   <ul class="collapse">
   <li><a href="#tecnologías-según-contexto" id="toc-tecnologías-según-contexto" class="nav-link" data-scroll-target="#tecnologías-según-contexto"><span class="header-section-number">8.12.1</span> Tecnologías según contexto</a></li>
-  <li><a href="#ecosistemas-de-tecnologías" id="toc-ecosistemas-de-tecnologías" class="nav-link" data-scroll-target="#ecosistemas-de-tecnologías"><span class="header-section-number">8.12.2</span> Ecosistemas de tecnologías</a></li>
+  <li><a href="#api-gateway" id="toc-api-gateway" class="nav-link" data-scroll-target="#api-gateway"><span class="header-section-number">8.12.2</span> API gateway</a></li>
+  <li><a href="#ecosistemas-de-tecnologías" id="toc-ecosistemas-de-tecnologías" class="nav-link" data-scroll-target="#ecosistemas-de-tecnologías"><span class="header-section-number">8.12.3</span> Ecosistemas de tecnologías</a></li>
   </ul></li>
   <li><a href="#dimensionamiento" id="toc-dimensionamiento" class="nav-link" data-scroll-target="#dimensionamiento"><span class="header-section-number">8.13</span> Dimensionamiento</a>
   <ul class="collapse">
@@ -1210,8 +1211,8 @@ Nota
 </section>
 <section id="seguridad" class="level2" data-number="8.8">
 <h2 data-number="8.8" class="anchored" data-anchor-id="seguridad"><span class="header-section-number">8.8</span> Seguridad</h2>
-<section id="riesgos" class="level3" data-number="8.8.1">
-<h3 data-number="8.8.1" class="anchored" data-anchor-id="riesgos"><span class="header-section-number">8.8.1</span> Riesgos</h3>
+<section id="gestión-de-riesgos" class="level3" data-number="8.8.1">
+<h3 data-number="8.8.1" class="anchored" data-anchor-id="gestión-de-riesgos"><span class="header-section-number">8.8.1</span> Gestión de riesgos</h3>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1264,7 +1265,7 @@ Nota
 </ul>
 </div>
 </div>
-<p>El Esquema Nacional de Seguridad (ENS) es una pregunta permanente en todos los ejercicios prácticas del CSSTIAE.</p>
+<p>El Esquema Nacional de Seguridad (ENS) es una pregunta permanente en los ejercicios prácticas del CSSTIAE, ya sea por mención expresa o necesidad de considerarla en los diseños.</p>
 <p>Las <strong>categorías de seguridad del ENS</strong> son:</p>
 <ul>
 <li>Básica</li>
@@ -1494,10 +1495,48 @@ Nota
 </div>
 </div>
 <p>La arquitectura lógica, a la que también se pueden referir como arquitectura de sistema (en singular), representa las distintas capas que posee el sistema.</p>
-<p>Ejemplos de modelos de arquitectura de sistemas:</p>
+<p>La arquitectura lógica suele incluir:</p>
+<ul>
+<li>Actores</li>
+<li>Dispositivos de usuario (portátil, móvil, etc.)</li>
+<li>Sistemas externos</li>
+<li>API gateway</li>
+<li>Estilos y patrones de arquitectura de software</li>
+<li>Servidores virtuales (con su función)</li>
+</ul>
+<p>Por el contrario, suelen excluir:</p>
+<ul>
+<li>Elementos de red (redes, enrutadores, cortafuegos, etc.)</li>
+<li>Elementos duplicados para obtener alta disponibilidad (HA)</li>
+</ul>
+<p>como seguridad, interoperabilidad, orquestación o accesibilidad.</p>
+<p>A menudo los candidatos incluyen bloques transversales, incluyendo algunos como:</p>
+<ul>
+<li>Seguridad</li>
+<li>Interoperabilidad</li>
+<li>Accesibilidad</li>
+<li>Administración
+<ul>
+<li>Orquestación</li>
+<li>Monitorización</li>
+</ul></li>
+</ul>
+<p>Un <strong>API gateway</strong> (pasarela API) es un bloque que se encuentra entre los dispositivos de usuario y el servidor de presentación, y que se encarga de gestionar las solicitudes de los usuarios hacia las APIs del sistema.</p>
+<p>Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.</p>
+<p>Habitualmente en sector público se usa la integración de lado de servidor (<em>server-side integration</em>). Esto se hace a través de un <em>front-end UI composer</em>.</p>
+<p>Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).</p>
+<p>Estilos y patrones de arquitectura de software que pueden aparecer en arquitecturas lógicas:</p>
+<ul>
+<li>Monolítico</li>
+<li>Multicapa
 <ul>
 <li>Modelo-vista-controlador (MVC)</li>
+<li>Arquitectura hexagonal</li>
+</ul></li>
+<li>Orientado a servicios (SOA)
+<ul>
 <li>Microservicios</li>
+</ul></li>
 </ul>
 <p><strong>MVC</strong></p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
@@ -1518,7 +1557,7 @@ Nota
 </ul>
 </div>
 </div>
-<p>En el modelo-vista-controlador existiría una capa de presentación, otra de aplicación o negocio y una última de datos.</p>
+<p>En el modelo-vista-controlador (MVC) existiría una capa de presentación, otra de aplicación o negocio y una última de datos.</p>
 <p>Se suelen representar la base de datos, el directorio y el gestor documental para almacenar datos.</p>
 <p>Propuesta de niveles principales:</p>
 <ul>
@@ -1526,6 +1565,19 @@ Nota
 <li>Lógica de negocio</li>
 <li>Acceso a datos y servicios</li>
 </ul>
+<p><strong>Arquitectura hexagonal</strong></p>
+<p>Considera tres capas:</p>
+<ul>
+<li>Aplicación</li>
+<li>Adaptadores</li>
+<li>Sistemas externos</li>
+</ul>
+<p>La capa de aplicación contiene la lógica propia del dominio. Excluye cualquier referencia a interfaces, tecnologías o sistemas externos.</p>
+<p>La capa de adaptadores sirve de adaptación entre los sistemas externos y la aplicación. En el borde exterior de esta capa se encuentran los puertos, que son interfaces abstractas entre los sistemas externos y la aplicación. Los adaptadores son implementaciones de estos puertos.</p>
+<p>Una de las particularidades de esta arquitectura es que considera a las bases de datos actores, ya que se considera dependiente de tecnología, intercambiable y por tanto externa al dominio.</p>
+<p>Los puertos y adaptadores pueden ser primarios y secundarios. Los adaptadores primarios son los que permiten a los actores o sistemas externos interactuar con la aplicación, mientras que los adaptadores secundarios son los que permiten a la aplicación interactuar con actos externos.</p>
+<p>La capa de sistemas externos considera los actores y sistemas fuera del control del sistema gestionado.</p>
+<p>En la arquitectura lógica debería representarse cada adaptador entre la aplicación como un recuadro distinto.</p>
 <p><strong>Microservicios</strong></p>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
@@ -1547,15 +1599,7 @@ Nota
 </div>
 <p>En microservicios se suele pintar un API gateway al inicio de la lógica de negocio.</p>
 <p>El API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.</p>
-<p>Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.</p>
-<p>Habitualmente en sector público se usa la integración de lado de servidor (<em>server-side integration</em>). Esto se hace a través de un <em>front-end UI composer</em>.</p>
-<p>De manera transversal:</p>
-<ul>
-<li>Administración</li>
-<li>Seguridad</li>
-<li>Monitorización</li>
-</ul>
-<p>Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).</p>
+<p>En la arquitectura de microservicios es obligatorio colocar un broker de mensajes o bus de eventos transversal junto a todos los microservicios, y dar a entender que la comunicación entre ellos se realiza a través de este módulo.</p>
 </section>
 <section id="arquitecturas-de-sistemas" class="level2" data-number="8.10">
 <h2 data-number="8.10" class="anchored" data-anchor-id="arquitecturas-de-sistemas"><span class="header-section-number">8.10</span> Arquitecturas de sistemas</h2>
@@ -1599,12 +1643,16 @@ Nota
 <p>La arquitectura física implica especificar los componentes técnicos a emplear, ya sean físicos o virtuales.</p>
 <p>Elementos que deben considerarse en la arquitectura física:</p>
 <ul>
-<li>Servidores (bare-metal o virtuales)</li>
+<li>Servidores físicos (bare-metal)</li>
 <li>Clústeres</li>
 <li>Almacenamiento</li>
-<li>Cortafuegos</li>
+<li>Elementos de red</li>
 <li>Bases de datos</li>
 <li>Proveedores cloud</li>
+</ul>
+<p>Elementos que se suelen excluir:</p>
+<ul>
+<li>Arquitectura de software</li>
 </ul>
 <p>Para las bases de datos se debe elegir entre bases de datos relacionales o bases de datos NoSQL.</p>
 <p>Se suele usar datos NoSQL cuando el volumen es alto y se busca escalabilidad horizontal (BBDD de columna ancha), cuando se busca flexibilidad estructural respecto a tablas (BBDD documental, BBDD de grafos) o se requiere simplicidad y rapidez (BBDD clave-valor).</p>
@@ -1708,7 +1756,8 @@ Nota
 <li>Las redes de comunidades autónomas (CCAA) se conectan con la red SARA, nunca directamente al organismo de la AGE.</li>
 <li>Las redes de entidades locales (EELL) siempre están conectadas a redes de comunidades autónomas (CCAA), nunca se conectan directamente a red SARA.</li>
 </ul>
-<p>Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA. En la red perimetral, conectados con directamente con el cortafuegos exterior, suelen estar presentes:</p>
+<p>Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.</p>
+<p>En la red perimetral, conectados directamente con el cortafuegos exterior, suelen estar presentes:</p>
 <ul>
 <li>Balanceadores</li>
 <li>Servidores de presentación / web</li>
@@ -1720,6 +1769,7 @@ Nota
 <li>Sonda SAT Inet</li>
 </ul>
 <p>El <strong>balanceador</strong> puede software o <em>appliance</em>.</p>
+<p>Referencias:</p>
 <ul>
 <li>CCN-STIC-140 Anexo F.88: Balanceadores de carga</li>
 </ul>
@@ -2036,16 +2086,23 @@ LIFO report</code></pre>
 </section>
 <section id="mensajería-e-integración" class="level4" data-number="8.12.1.8">
 <h4 data-number="8.12.1.8" class="anchored" data-anchor-id="mensajería-e-integración"><span class="header-section-number">8.12.1.8</span> Mensajería e integración</h4>
-<p>Para mensajería e integración en la AGE se emplen herramientas como Apache Kafka o RabbitMQ.</p>
+<p>Para mensajería e integración en la AGE se emplen herramientas de código abierto como RabbitMQ o Apache Kafka.</p>
+<p>RabbitMQ se emplea más en mensajería tradicional y arquitecturas monolíticas, mientras que Apache Kafka se emplea más en big data y arquitecturas de microservicios.</p>
 </section>
 <section id="api-manager" class="level4" data-number="8.12.1.9">
-<h4 data-number="8.12.1.9" class="anchored" data-anchor-id="api-manager"><span class="header-section-number">8.12.1.9</span> API Manager</h4>
-<p>Para entornos on premise, la opción de código abierto WSO2 es popular en la AGE</p>
-<p>Para micro servicios, la opción de Kong Enterprise también popular.</p>
+<h4 data-number="8.12.1.9" class="anchored" data-anchor-id="api-manager"><span class="header-section-number">8.12.1.9</span> API manager</h4>
+<p>Una opción comercial de API manager (o gestor de APIs) habitual en la AGE es MuleSoft AnyPoint Platform.</p>
+<p>Entre las opciones de código abierto que ofrecen un API manager completo se encuentra WSO2 API Manager.</p>
 </section>
 </section>
-<section id="ecosistemas-de-tecnologías" class="level3" data-number="8.12.2">
-<h3 data-number="8.12.2" class="anchored" data-anchor-id="ecosistemas-de-tecnologías"><span class="header-section-number">8.12.2</span> Ecosistemas de tecnologías</h3>
+<section id="api-gateway" class="level3" data-number="8.12.2">
+<h3 data-number="8.12.2" class="anchored" data-anchor-id="api-gateway"><span class="header-section-number">8.12.2</span> API gateway</h3>
+<p>La funcionalidad de API gateway (o pasarela de APIs) está habitualmente incluida en las suites de API manager. Por ello, si el sistema ya cuenta con un API manager, no es necesario implementar un API gateway adicional.</p>
+<p>Por ejemplo, MuleSoft AnyPoint Plaform incluye MuleSoft API Gateway, mientras que WSO2 API Manager incluye WSO2 API Gateway.</p>
+<p>Una opción de código abierto centrada en la funcionalidad de API gateway es Kong API Gateway Community Edition (CE). El API manager completo Kong Manager sería de pago.</p>
+</section>
+<section id="ecosistemas-de-tecnologías" class="level3" data-number="8.12.3">
+<h3 data-number="8.12.3" class="anchored" data-anchor-id="ecosistemas-de-tecnologías"><span class="header-section-number">8.12.3</span> Ecosistemas de tecnologías</h3>
 <p>En la AGE se pueden encontrar principalmente tres ecosistemas genéricos:</p>
 <ul>
 <li>Oracle</li>
@@ -2053,8 +2110,8 @@ LIFO report</code></pre>
 <li>Código abierto</li>
 </ul>
 <p>Como norma general, no se considera una buena práctica mezclar tecnologías de distintos fabricantes, con la excepción de si se trata de alguna de las soluciones de código abierto.</p>
-<section id="oracle" class="level4" data-number="8.12.2.1">
-<h4 data-number="8.12.2.1" class="anchored" data-anchor-id="oracle"><span class="header-section-number">8.12.2.1</span> Oracle</h4>
+<section id="oracle" class="level4" data-number="8.12.3.1">
+<h4 data-number="8.12.3.1" class="anchored" data-anchor-id="oracle"><span class="header-section-number">8.12.3.1</span> Oracle</h4>
 <p>Stack genérico empleando tecnologías propias del ecosistema Oracle:</p>
 <ul>
 <li>Framework frontend: Angular (TypeScript)</li>
@@ -2066,8 +2123,8 @@ LIFO report</code></pre>
 <p>Angular no es nativo del ecosistema Oracle, pero está bien integrado y suele ser una opción habitual. Oracle JET sería el framework front nativo de Oracle, pero este no es tan popular en la AGE como Angular.</p>
 <p>Una alternativa también común en la AGE a Oracle Weblogic es IBM WebSphere, ambos propietarios.</p>
 </section>
-<section id="microsoft" class="level4" data-number="8.12.2.2">
-<h4 data-number="8.12.2.2" class="anchored" data-anchor-id="microsoft"><span class="header-section-number">8.12.2.2</span> Microsoft</h4>
+<section id="microsoft" class="level4" data-number="8.12.3.2">
+<h4 data-number="8.12.3.2" class="anchored" data-anchor-id="microsoft"><span class="header-section-number">8.12.3.2</span> Microsoft</h4>
 <p>El ecosistema de Microsoft no suele ser la primera opción, pero también se puede encontrar en la AGE.</p>
 <p>Stack genérico empleando tecnologías propias del ecosistema Microsoft:</p>
 <ul>
@@ -2077,8 +2134,8 @@ LIFO report</code></pre>
 <li>Base de datos: Microsoft Server SQL</li>
 </ul>
 </section>
-<section id="código-abierto" class="level4" data-number="8.12.2.3">
-<h4 data-number="8.12.2.3" class="anchored" data-anchor-id="código-abierto"><span class="header-section-number">8.12.2.3</span> Código abierto</h4>
+<section id="código-abierto" class="level4" data-number="8.12.3.3">
+<h4 data-number="8.12.3.3" class="anchored" data-anchor-id="código-abierto"><span class="header-section-number">8.12.3.3</span> Código abierto</h4>
 <ul>
 <li>Framework front: Angular (TypeScript)</li>
 <li>Servidor web: Nginx / Apache HTTP Server</li>
@@ -2144,7 +2201,7 @@ LIFO report</code></pre>
 <li>Si se cuenta con un modelo entidad-relación (ER) o un diagrama de clases: staffing size.</li>
 <li>En otro caso: COSMIC-FSM.</li>
 </ul>
-<p>Algunas de estas técnicas se presentan en la documentación de estimación de recursos del temario de Astic (UCP y COSMIC-FSM), junto a otras no reseñadas en esta guía como el enfoque COCOMO o las métricas bang, mientras que otras provienen de Métrica v3 (staffing size). Adicionalmente, existen otras técnicas de estimación no cubiertas ni en la documentación de Astic ni en esta guía, y que nada impide que sean usadas en el ejercicio práctico.</p>
+<p>Algunas de estas técnicas se presentan en la documentación de estimación de recursos del temario de Astic (UCP y COSMIC-FSM) o en Métrica v3 (staffing size). El temario de Astic adicionalmente presenta los métodos como el enfoque COCOMO o las métricas bang, mientras que otras provienen. Además, existen otras técnicas de estimación no cubiertas ni en la documentación de Astic ni en esta guía, y que nada impide que sean usadas en el ejercicio práctico.</p>
 <section id="user-case-points-ucp" class="level5 unnumbered unlisted">
 <h5 class="unnumbered unlisted anchored" data-anchor-id="user-case-points-ucp">User Case Points (UCP)</h5>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
@@ -2261,6 +2318,7 @@ LIFO report</code></pre>
 <ul>
 <li>Ministerio de Administraciones Pública. Apartado “Staffing size (Orientación a objetos)”. En: <a href="https://administracionelectronica.gob.es/pae_Home/dam/jcr:da7d91fa-d6bd-467c-be32-a72e27c603b3/METRICA_V3_Tecnicas.pdf" target="_blank">Métrica v3. Técnicas</a>. PAe.</li>
 <li>Manuel Cillero. <a href="https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/staffing-size/" target="_blank">Staffing size (Orientación a objetos)</a>. manuel.cillero.es</li>
+<li>Estimación. Preparatic 28.</li>
 <li><a href="https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/" target="_blank">https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/</a></li>
 </ul></li>
 <li>Temas:
@@ -2278,14 +2336,36 @@ LIFO report</code></pre>
 </section>
 <section id="puntos-de-función" class="level5 unnumbered unlisted">
 <h5 class="unnumbered unlisted anchored" data-anchor-id="puntos-de-función">Puntos de función</h5>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>📋 Marco de referencia
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li>Referencias:
+<ul>
+<li>Método Puntos Función (caso práctico). Preparatic 25, junio 2018.</li>
+<li>Estimación. Preparatic 28.</li>
+</ul></li>
+</ul>
+</div>
+</div>
 <p>Estimación por puntos de función (versión simplificada, problemente basada en COSMIC-FSM):</p>
 <ol type="1">
 <li>Identificar los puntos de función de enunciado</li>
 <li>Estimar puntos de función Interfaz de usuario = 10 PF Módulo = 10, 20 ó 30 PF</li>
+<li>Estimar el factor de ajuste (FA) Donde FA = 1</li>
 <li>Estimar horas Donde 1 PF = 10 horas</li>
 </ol>
 <p>Una vez que se obtienen las horas de construcción (que se correspondería con la fase CSI de Métrica v3), se puede inferir que es el 40% o 50% del esfuerzo total.</p>
 <p>El esfuerzo total en horas se obtendría multiplicando las horas de construcción por 2,5 (ya que 1/0,40 = 2,5), o incluso multiplicando por 2 (suponiendo un 50%, ya que 1/0,50 = 2).</p>
+<p>Suponiendo que se trata de externos y que sus con jornadas de 40 horas/semana, el total de horas-hombres al mes son:</p>
+<p><span class="math display">\[40 * (52 / 12) = 173.33 \approx 180 \approx 200 \text{horas-hombre/mes}\]</span></p>
 </section>
 <section id="cosmic-fsm" class="level5 unnumbered unlisted">
 <h5 class="unnumbered unlisted anchored" data-anchor-id="cosmic-fsm">COSMIC-FSM</h5>
