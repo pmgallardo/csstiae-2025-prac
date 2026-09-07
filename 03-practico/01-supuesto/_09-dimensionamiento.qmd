@@ -48,7 +48,7 @@ De cara al supuesto práctico, se propone aplicar cada una de las técnicas de d
 - Si se cuenta con un modelo entidad-relación (ER) o un diagrama de clases: staffing size.
 - En otro caso: COSMIC-FSM.
 
-Algunas de estas técnicas se presentan en la documentación de estimación de recursos del temario de Astic (UCP y COSMIC-FSM), junto a otras no reseñadas en esta guía como el enfoque COCOMO o las métricas bang, mientras que otras provienen de Métrica v3 (staffing size). Adicionalmente, existen otras técnicas de estimación no cubiertas ni en la documentación de Astic ni en esta guía, y que nada impide que sean usadas en el ejercicio práctico.
+Algunas de estas técnicas se presentan en la documentación de estimación de recursos del temario de Astic (UCP y COSMIC-FSM) o en Métrica v3 (staffing size). El temario de Astic adicionalmente presenta los métodos como el enfoque COCOMO o las métricas bang, mientras que otras provienen. Además, existen otras técnicas de estimación no cubiertas ni en la documentación de Astic ni en esta guía, y que nada impide que sean usadas en el ejercicio práctico.
 
 ##### User Case Points (UCP) {.unnumbered .unlisted}
 
@@ -116,6 +116,7 @@ Una vez obtenidos los UCP, estos se transforman a horas. Puede ser tan sencillo 
 - Referencias:
   - Ministerio de Administraciones Pública. Apartado "Staffing size (Orientación a objetos)". En: [Métrica v3. Técnicas](https://administracionelectronica.gob.es/pae_Home/dam/jcr:da7d91fa-d6bd-467c-be32-a72e27c603b3/METRICA_V3_Tecnicas.pdf){target="_blank"}. PAe.
   - Manuel Cillero. [Staffing size (Orientación a objetos)](https://manuel.cillero.es/doc/metodologia/metrica-3/tecnicas/staffing-size/){target="_blank"}. manuel.cillero.es
+  - Estimación. Preparatic 28.
   - <https://runmodule.com/2027/04/27/cosmic-functional-size-measurement/>{target="_blank"}
 - Temas:
   - 99. Estimación de recursos
@@ -129,18 +130,31 @@ Se puede asumir que cada clase de producción lleva entre 10-15 días (100 horas
 
 ##### Puntos de función {.unnumbered .unlisted}
 
+::: {.callout-note icon="false"}
+## 📋 Marco de referencia
+- Referencias:
+  - Método Puntos Función (caso práctico). Preparatic 25, junio 2018.
+  - Estimación. Preparatic 28.
+:::
+
 Estimación por puntos de función (versión simplificada, problemente basada en COSMIC-FSM):
 
 1. Identificar los puntos de función de enunciado
 2. Estimar puntos de función
    Interfaz de usuario = 10 PF
    Módulo = 10, 20 ó 30 PF
+3. Estimar el factor de ajuste (FA)
+   Donde FA = 1
 3. Estimar horas
    Donde 1 PF = 10 horas
 
 Una vez que se obtienen las horas de construcción (que se correspondería con la fase CSI de Métrica v3), se puede inferir que es el 40% o 50% del esfuerzo total.
 
 El esfuerzo total en horas se obtendría multiplicando las horas de construcción por 2,5 (ya que 1/0,40 = 2,5), o incluso multiplicando por 2 (suponiendo un 50%, ya que 1/0,50 = 2).
+
+Suponiendo que se trata de externos y que sus con jornadas de 40 horas/semana, el total de horas-hombres al mes son:
+
+$$40 * (52 / 12) = 173.33 \approx 180 \approx 200 \text{horas-hombre/mes}$$
 
 ##### COSMIC-FSM {.unnumbered .unlisted}
 
