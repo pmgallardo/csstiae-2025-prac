@@ -124,7 +124,7 @@ La Dirección Electrónica Habilitada única (DEHú) es un punto único de notif
 
 ###  Servicio común de generación y validación de firmas electrónicas
 
-#### Cl@ve Firma {#clave-firma}
+#### Cl@ve {#clave}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -134,23 +134,33 @@ La Dirección Electrónica Habilitada única (DEHú) es un punto único de notif
 
 Cl@ve es un servicio de autenticación orientado al ciudadano.
 
+No se debe confundir con el servicio transversal de firma electrónica Cl@ve Firma.
+
 #### AutenticA {#autentica}
 
-AutenticA tiene una función similar a Cl@ve pero está orientado a personal de AAPP.
+AutenticA tiene una función similar a Cl@ve pero está orientado al personal de AAPP.
 
 Funciona como un "Directorio Activo" o repositorio unificado que permite a los funcionarios y personal autorizado loguearse en las aplicaciones de gestión de la AGE (como GEISER o Portafirmas).
 
-#### VALIDe {valide}
+#### @firma {#firma}
 
-Validación de firmas y certificados online (VALIDe) sirve para la validación de firmas electrónicas.
+@firma es el servicio central de validación de firma electrónica de la AGE.
 
-#### @firma
+#### VALIDe {#valide}
 
-@firma es la infraestructura que utiliza VALIDe (el servicio).
+Validación de firmas y certificados online (VALIDe) es una aplicación web creada por la SGAD que permite a los ciudadanos validar la firma electrónica de los documentos. Emplea @firma como backend.
+
+#### Cl@ve Firma {#clave-firma}
+
+Cl@ve Firma es un servicio de firma electrónica en la nube.
+
+No se debe confundir con el servicio transversal de autenticación Cl@ve.
 
 #### FIRe
 
-Solución integral de firma electrónica (FIRe) unifica la firma local (Autofirma) con la de la Nube (Cl@ve).
+La solución integral de firma electrónica (FIRe) es una pasarela de software instalada en local que unifica las distintas soluciones que pueden emplear las aplicaciones cuando trabajan con firmas. No se trata, por tanto, de un servicio transversal, aunque trabaja con ellos.
+
+FIRe permite, por ejemplo, escoger entre realizar una firma con un servicio en local (mediante el software Autofirma) o con uno en la nube (Cl@ve Firma) o verificar una firma contra @firma.
 
 ###  Servicio de gestión y documentos electrónicos
 

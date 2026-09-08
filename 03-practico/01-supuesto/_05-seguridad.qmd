@@ -92,7 +92,7 @@ El listado de mecanismos del ENS es el siguiente:
   - op.nub. Servicios en la nube
     - Protección de servicios en la nube
   - op.cont. Continuidad del servicio
-    - Análisis de impacto *(n.a. básica)*
+    - **Análisis de impacto** *(n.a. básica)*
     - Plan de continuidad *(n.a. básica y media)*
     - Pruebas periódicas *(n.a. básica y media)*
     - Medios alternativos *(n.a. básica y media)*
@@ -134,17 +134,24 @@ El listado de mecanismos del ENS es el siguiente:
     - Desarrollo de aplicaciones *(n.a. básica)*
     - **Aceptación y puesta en servicio**
   - mp.info. Protección de la información
-    - Datos personales
-    - Calificación de la información *(n.a. básica)*
-    - Firma electrónica
-    - Sellos de tiempo *(n.a. básica y media)*
-    - Limpieza de documentos
-    - Copias de seguridad
+    1. Datos personales
+    2. Calificación de la información *(n.a. básica)*
+    3. Firma electrónica
+    4. Sellos de tiempo *(n.a. básica y media)*
+    5. Limpieza de documentos
+    6. Copias de seguridad
   - mp.s. Protección de los servicios
-    - Protección del correo electrónico
-    - Protección de servicios y aplicaciones web
-    - Protección de la navegación web
-    - Protección frente a denegación de servicio *(n.a. básica)*
+    1. Protección del correo electrónico
+    2. Protección de servicios y aplicaciones web
+    3. Protección de la navegación web
+    4. Protección frente a denegación de servicio *(n.a. básica)*
+
+Medidas para mecanismos:
+
+| Mecanismos | Descripción | B | M | Medidas |
+| - | - | - | - | - |
+| op.mon.3 | Vigilancia | ✓ | ✓ | SAT-inet |
+| mp.com.4 | **Separación flujos** | ✗ | ✓ | VLANs |
 
 ### Protección de datos
 

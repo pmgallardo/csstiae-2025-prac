@@ -40,16 +40,21 @@ Habitualmente en sector público se usa la integración de lado de servidor (*se
 
 Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).
 
+### Estilo y patrón de arquitectura de software
+
+La arquitectura lógica presentada debe reflejar el estilo y patrón de arquitectura empleado en 
+
 Estilos y patrones de arquitectura de software que pueden aparecer en arquitecturas lógicas:
 
 - Monolítico
 - Multicapa
   - Modelo-vista-controlador (MVC)
   - Arquitectura hexagonal
+  - Arquitectura clean
 - Orientado a servicios (SOA)
   - Microservicios
 
-**MVC**
+##### MVC {.unnumbered .unlisted}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -67,7 +72,7 @@ Propuesta de niveles principales:
 - Lógica de negocio
 - Acceso a datos y servicios
 
-**Arquitectura hexagonal**
+##### Arquitectura hexagonal {.unnumbered .unlisted}
 
 Considera tres capas:
 
@@ -87,7 +92,11 @@ La capa de sistemas externos considera los actores y sistemas fuera del control 
 
 En la arquitectura lógica debería representarse cada adaptador entre la aplicación como un recuadro distinto.
 
-**Microservicios**
+##### Arquitectura clean {.unnumbered .unlisted}
+
+Evolución de la arquitectura hexagonal.
+
+##### Microservicios {.unnumbered .unlisted}
 
 ::: {.callout-note icon="false"}
 ## 📋 Marco de referencia
@@ -183,8 +192,13 @@ Una **arquitectura de red** o **red de comunicaciones** suele incluir los siguie
 
 Hay varias arquitecturas de red privada posibles, y una bastante habitual es la del **cortafuegos dual**. Esta consiste en segmentar la red privadas en dos:
 
-- Red perimetral, en ocasiones llamada zona desmilitarizada (*demilitarized zone*, DMZ), expuesta a una red externa a través de un cortafuegos externo o perimetral y que alberga a los servidores públicos.
-- Subred apantallada, expuesta a la red perimetral a través de un cortafuegos interno, y que aloja servidores y equipos privados.
+- Red perimetral, en ocasiones llamada subred apantallada o zona desmilitarizada (*demilitarized zone*, DMZ), expuesta a una red externa a través de un cortafuegos externo o perimetral y que alberga a los servidores públicos.
+- Red privada, expuesta a la red perimetral a través de un cortafuegos interno, y que aloja servidores y equipos privados.
+
+A la hora de aplicar VLANs, una posible segmentación sería:
+
+- Servidores de presentación
+- Pasarelas / Middleware
 
 El **enrutador** (*router*) coloca en la parte más externa de la red perimetral para conectarse con otras redes, ya sea internet o intranets como red SARA. Se empleará un enrutador distinto para cada red conectada. Además, por seguridad que requiere que los enrutadores estén duplicados.
 
@@ -196,7 +210,7 @@ Se coloca por tanto un **cortafuegos** (*firewall*) detrás de cada enrutador da
 
 Los candidatos suelen configurar el par de cortafuegos externo como activo-pasivo y el par de cortafuegos interno como activo-activo.
 
-Varios enrutadores pueden emplear un mismo cortafuegos si este tiene libres interfaces de red o soporta VLANs. Los aspirantes habitualmente utilizan el mismo cortafuegos interno para conectar tanto el enrutador a las intranets como la subred apantallada.
+Varios enrutadores pueden emplear un mismo cortafuegos si este tiene libres interfaces de red o soporta VLANs. Los aspirantes habitualmente utilizan el mismo cortafuegos interno para conectar tanto el enrutador a las intranets como la red privada.
 
 El cortafuegos externo tendrá una conexión directa con el cortafuegos interno.
 
@@ -217,14 +231,27 @@ Los servicios comunes y transversales de las AAPP se ofrecen a través de la red
 
 En la red perimetral, conectados directamente con el cortafuegos exterior, suelen estar presentes:
 
-- Balanceadores
-- Servidores de presentación / web
-- Servidores proxy
-- Servidores de proxy inverso
-- Servidores VPN
-- Servidor DNS
-- API Gateway
-- Sonda SAT Inet
+- Sonda SAT-inet
+- VLAN 10: tráfico entrante
+  - Servidores de proxy inverso
+  - Balanceadores
+  - Servidor DNS
+- VLAN acceso externo:
+  - Servidores VPN
+- VLAN tráfico saliente:
+  - Servidores proxy
+- VLAN presentación:
+  - Servidores de presentación / web
+- VLAN middleware:
+  - API Gateway
+
+La **sonda SAT-inet** (acrónimo de Sistema de Alerta Temprana de Internet) es un elemento de monitorización que permite al CCN monitorizar la red del organismo de la AGE.
+
+La sonda SAT-inet se suele colocar en la red perimetral, conectada fuera de banda (*out-of-band*) a un puerto SPAN o Mirror del switch core o del cortafuegos, de manera que reciba una copia del tráfico para analizarlo de forma paralela. Es importante recalcar que NO corta el tráfico.
+
+Referencias:
+
+- [Sistema de Alerta Temprana (SAT-INET)](https://www.ccn-cert.cni.es/es/documentos-publicos/1306-sat-de-internet/file.html). CCN-CERT.
 
 El **balanceador** puede software o *appliance*.
 
@@ -236,7 +263,9 @@ Según el ENS, se debe aplicar sobre los sistemas de categoría media el refuerz
 
 Sobre los sistemas de categoría alta se debe aplicar el refuerzo R2 "segmentación lógica avanzada" por VPN o el R3 "segmentación física" con segmentos físicos separados, y el R4 "puntos de interconexión".
 
-En la subred apantallada se suelen colocar:
+En la **VLAN middleware** se instalan elementos como el API gateway o FIRe.
+
+En la red privada se suelen colocar:
 
 - Usuarios
   - Equipos personales
@@ -249,7 +278,11 @@ En la subred apantallada se suelen colocar:
   - Servidores de monitorización
   - Servidores de integración (CI/CD)
 
-Los aspirantes suelen definir una VLAN por cada una de estas categorías para asegurar la segmentación de red y aumentar la seguridad.
+Los aspirantes suelen definir una VLAN en la red privada por cada una de estas categorías para asegurar la segmentación de red y aumentar la seguridad. Los servidores de aplicación y las bases de datos se suelen poner por separado.
+
+En caso de requerirse trabajar con firma electrónica, es recomendable reflejar la instalación de un **servidor local FIRe** en una VLAN de integración, ya que los servidores de aplicación estos necesitan comunicarse con la API de FIRe para enviarle el documento original y recuperar el resultado firmado.
+
+El servidor FIRe se ubicaría dentro de la la red privada, y requeriría conectividad de salida hacia la intranet administrativa (Red SARA) para acceder a servicios transversales como @firma o Cl@ve Firma.
 
 #### Arquitectura de red con nube híbrida
 
