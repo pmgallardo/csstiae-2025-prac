@@ -38,7 +38,7 @@ Está compuesta por 17 Objetivos de Desarrollo Sostenible (ODS) con 169 metas:
 16. Paz, justicia e instituciones solidarias
 17. Alianzas para lograr los objetivos
 
-![Objetivos de desarrollo sostenible](https://www.un.org/sustainabledevelopment/wp-content/uploads/sites/3/2015/01/S-SDG-Poster_-Letter.jpg){target="_blank"}
+![Objetivos de Desarrollo Sostenible](/images/ods/S%20SDG%20Poster%20without%20UN%20emblem_WEB.png){target="_blank"}
 
 ### Estrategias europeas
 

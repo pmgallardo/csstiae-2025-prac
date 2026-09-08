@@ -60,6 +60,9 @@ book:
       - 07-adjudicacion/01-eleccion.qmd
       - 07-adjudicacion/02-func-carrera.qmd
       - 07-adjudicacion/03-posesion.qmd
+    - part: "Anexos"
+      chapters:
+      - 99_cierre/creditos.qmd
 
 lang: es
 
