@@ -455,7 +455,10 @@ window.Quarto = {
   <li><a href="#guías-ccn-stic" id="toc-guías-ccn-stic" class="nav-link" data-scroll-target="#guías-ccn-stic"><span class="header-section-number">8.8.4</span> Guías CCN-STIC</a></li>
   <li><a href="#autenticación" id="toc-autenticación" class="nav-link" data-scroll-target="#autenticación"><span class="header-section-number">8.8.5</span> Autenticación</a></li>
   </ul></li>
-  <li><a href="#arquitectura-lógica" id="toc-arquitectura-lógica" class="nav-link" data-scroll-target="#arquitectura-lógica"><span class="header-section-number">8.9</span> Arquitectura lógica</a></li>
+  <li><a href="#arquitectura-lógica" id="toc-arquitectura-lógica" class="nav-link" data-scroll-target="#arquitectura-lógica"><span class="header-section-number">8.9</span> Arquitectura lógica</a>
+  <ul class="collapse">
+  <li><a href="#estilo-y-patrón-de-arquitectura-de-software" id="toc-estilo-y-patrón-de-arquitectura-de-software" class="nav-link" data-scroll-target="#estilo-y-patrón-de-arquitectura-de-software"><span class="header-section-number">8.9.1</span> Estilo y patrón de arquitectura de software</a></li>
+  </ul></li>
   <li><a href="#arquitecturas-de-sistemas" id="toc-arquitecturas-de-sistemas" class="nav-link" data-scroll-target="#arquitecturas-de-sistemas"><span class="header-section-number">8.10</span> Arquitecturas de sistemas</a>
   <ul class="collapse">
   <li><a href="#dominiossubdominios-funcionales" id="toc-dominiossubdominios-funcionales" class="nav-link" data-scroll-target="#dominiossubdominios-funcionales"><span class="header-section-number">8.10.1</span> Dominios/subdominios funcionales</a></li>
@@ -1035,8 +1038,8 @@ window.Quarto = {
 </section>
 <section id="servicio-común-de-generación-y-validación-de-firmas-electrónicas" class="level3" data-number="8.4.12">
 <h3 data-number="8.4.12" class="anchored" data-anchor-id="servicio-común-de-generación-y-validación-de-firmas-electrónicas"><span class="header-section-number">8.4.12</span> Servicio común de generación y validación de firmas electrónicas</h3>
-<section id="clave-firma" class="level4" data-number="8.4.12.1">
-<h4 data-number="8.4.12.1" class="anchored" data-anchor-id="clave-firma"><span class="header-section-number">8.4.12.1</span> Cl@ve Firma</h4>
+<section id="clave" class="level4" data-number="8.4.12.1">
+<h4 data-number="8.4.12.1" class="anchored" data-anchor-id="clave"><span class="header-section-number">8.4.12.1</span> Cl@ve</h4>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1056,23 +1059,30 @@ window.Quarto = {
 </div>
 </div>
 <p>Cl@ve es un servicio de autenticación orientado al ciudadano.</p>
+<p>No se debe confundir con el servicio transversal de firma electrónica Cl@ve Firma.</p>
 </section>
 <section id="autentica" class="level4" data-number="8.4.12.2">
 <h4 data-number="8.4.12.2" class="anchored" data-anchor-id="autentica"><span class="header-section-number">8.4.12.2</span> AutenticA</h4>
-<p>AutenticA tiene una función similar a Cl@ve pero está orientado a personal de AAPP.</p>
+<p>AutenticA tiene una función similar a Cl@ve pero está orientado al personal de AAPP.</p>
 <p>Funciona como un “Directorio Activo” o repositorio unificado que permite a los funcionarios y personal autorizado loguearse en las aplicaciones de gestión de la AGE (como GEISER o Portafirmas).</p>
 </section>
-<section id="valide-valide" class="level4" data-number="8.4.12.3">
-<h4 data-number="8.4.12.3" class="anchored" data-anchor-id="valide-valide"><span class="header-section-number">8.4.12.3</span> VALIDe {valide}</h4>
-<p>Validación de firmas y certificados online (VALIDe) sirve para la validación de firmas electrónicas.</p>
+<section id="firma" class="level4" data-number="8.4.12.3">
+<h4 data-number="8.4.12.3" class="anchored" data-anchor-id="firma"><span class="header-section-number">8.4.12.3</span> <span class="citation" data-cites="firma">@firma</span></h4>
+<p><span class="citation" data-cites="firma">@firma</span> es el servicio central de validación de firma electrónica de la AGE.</p>
 </section>
-<section id="firma" class="level4" data-number="8.4.12.4">
-<h4 data-number="8.4.12.4" class="anchored" data-anchor-id="firma"><span class="header-section-number">8.4.12.4</span> <span class="citation" data-cites="firma">@firma</span></h4>
-<p><span class="citation" data-cites="firma">@firma</span> es la infraestructura que utiliza VALIDe (el servicio).</p>
+<section id="valide" class="level4" data-number="8.4.12.4">
+<h4 data-number="8.4.12.4" class="anchored" data-anchor-id="valide"><span class="header-section-number">8.4.12.4</span> VALIDe</h4>
+<p>Validación de firmas y certificados online (VALIDe) es una aplicación web creada por la SGAD que permite a los ciudadanos validar la firma electrónica de los documentos. Emplea <span class="citation" data-cites="firma">@firma</span> como backend.</p>
 </section>
-<section id="fire" class="level4" data-number="8.4.12.5">
-<h4 data-number="8.4.12.5" class="anchored" data-anchor-id="fire"><span class="header-section-number">8.4.12.5</span> FIRe</h4>
-<p>Solución integral de firma electrónica (FIRe) unifica la firma local (Autofirma) con la de la Nube (Cl@ve).</p>
+<section id="clave-firma" class="level4" data-number="8.4.12.5">
+<h4 data-number="8.4.12.5" class="anchored" data-anchor-id="clave-firma"><span class="header-section-number">8.4.12.5</span> Cl@ve Firma</h4>
+<p>Cl@ve Firma es un servicio de firma electrónica en la nube.</p>
+<p>No se debe confundir con el servicio transversal de autenticación Cl@ve.</p>
+</section>
+<section id="fire" class="level4" data-number="8.4.12.6">
+<h4 data-number="8.4.12.6" class="anchored" data-anchor-id="fire"><span class="header-section-number">8.4.12.6</span> FIRe</h4>
+<p>La solución integral de firma electrónica (FIRe) es una pasarela de software instalada en local que unifica las distintas soluciones que pueden emplear las aplicaciones cuando trabajan con firmas. No se trata, por tanto, de un servicio transversal, aunque trabaja con ellos.</p>
+<p>FIRe permite, por ejemplo, escoger entre realizar una firma con un servicio en local (mediante el software Autofirma) o con uno en la nube (Cl@ve Firma) o verificar una firma contra <span class="citation" data-cites="firma">@firma</span>.</p>
 </section>
 </section>
 <section id="servicio-de-gestión-y-documentos-electrónicos" class="level3" data-number="8.4.13">
@@ -1345,7 +1355,7 @@ Nota
 </ul></li>
 <li>op.cont. Continuidad del servicio
 <ul>
-<li>Análisis de impacto <em>(n.a. básica)</em></li>
+<li><strong>Análisis de impacto</strong> <em>(n.a. básica)</em></li>
 <li>Plan de continuidad <em>(n.a. básica y media)</em></li>
 <li>Pruebas periódicas <em>(n.a. básica y media)</em></li>
 <li>Medios alternativos <em>(n.a. básica y media)</em></li>
@@ -1404,23 +1414,51 @@ Nota
 <li><strong>Aceptación y puesta en servicio</strong></li>
 </ul></li>
 <li>mp.info. Protección de la información
-<ul>
+<ol type="1">
 <li>Datos personales</li>
 <li>Calificación de la información <em>(n.a. básica)</em></li>
 <li>Firma electrónica</li>
 <li>Sellos de tiempo <em>(n.a. básica y media)</em></li>
 <li>Limpieza de documentos</li>
 <li>Copias de seguridad</li>
-</ul></li>
+</ol></li>
 <li>mp.s. Protección de los servicios
-<ul>
+<ol type="1">
 <li>Protección del correo electrónico</li>
 <li>Protección de servicios y aplicaciones web</li>
 <li>Protección de la navegación web</li>
 <li>Protección frente a denegación de servicio <em>(n.a. básica)</em></li>
-</ul></li>
+</ol></li>
 </ul></li>
 </ul>
+<p>Medidas para mecanismos:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Mecanismos</th>
+<th>Descripción</th>
+<th>B</th>
+<th>M</th>
+<th>Medidas</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>op.mon.3</td>
+<td>Vigilancia</td>
+<td>✓</td>
+<td>✓</td>
+<td>SAT-inet</td>
+</tr>
+<tr class="even">
+<td>mp.com.4</td>
+<td><strong>Separación flujos</strong></td>
+<td>✗</td>
+<td>✓</td>
+<td>VLANs</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="protección-de-datos" class="level3" data-number="8.8.3">
 <h3 data-number="8.8.3" class="anchored" data-anchor-id="protección-de-datos"><span class="header-section-number">8.8.3</span> Protección de datos</h3>
@@ -1525,6 +1563,9 @@ Nota
 <p>Una aplicación de móvil se conecta directamente con el backend, ya que es la app instalada en el móvil quien lleva la carga del frontend.</p>
 <p>Habitualmente en sector público se usa la integración de lado de servidor (<em>server-side integration</em>). Esto se hace a través de un <em>front-end UI composer</em>.</p>
 <p>Se puede usar una CDN a la parte que sea más común a todos los usuarios, como contenido estático (una noticia, etc.).</p>
+<section id="estilo-y-patrón-de-arquitectura-de-software" class="level3" data-number="8.9.1">
+<h3 data-number="8.9.1" class="anchored" data-anchor-id="estilo-y-patrón-de-arquitectura-de-software"><span class="header-section-number">8.9.1</span> Estilo y patrón de arquitectura de software</h3>
+<p>La arquitectura lógica presentada debe reflejar el estilo y patrón de arquitectura empleado en</p>
 <p>Estilos y patrones de arquitectura de software que pueden aparecer en arquitecturas lógicas:</p>
 <ul>
 <li>Monolítico</li>
@@ -1532,13 +1573,15 @@ Nota
 <ul>
 <li>Modelo-vista-controlador (MVC)</li>
 <li>Arquitectura hexagonal</li>
+<li>Arquitectura clean</li>
 </ul></li>
 <li>Orientado a servicios (SOA)
 <ul>
 <li>Microservicios</li>
 </ul></li>
 </ul>
-<p><strong>MVC</strong></p>
+<section id="mvc" class="level5 unnumbered unlisted">
+<h5 class="unnumbered unlisted anchored" data-anchor-id="mvc">MVC</h5>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1565,7 +1608,9 @@ Nota
 <li>Lógica de negocio</li>
 <li>Acceso a datos y servicios</li>
 </ul>
-<p><strong>Arquitectura hexagonal</strong></p>
+</section>
+<section id="arquitectura-hexagonal" class="level5 unnumbered unlisted">
+<h5 class="unnumbered unlisted anchored" data-anchor-id="arquitectura-hexagonal">Arquitectura hexagonal</h5>
 <p>Considera tres capas:</p>
 <ul>
 <li>Aplicación</li>
@@ -1578,7 +1623,13 @@ Nota
 <p>Los puertos y adaptadores pueden ser primarios y secundarios. Los adaptadores primarios son los que permiten a los actores o sistemas externos interactuar con la aplicación, mientras que los adaptadores secundarios son los que permiten a la aplicación interactuar con actos externos.</p>
 <p>La capa de sistemas externos considera los actores y sistemas fuera del control del sistema gestionado.</p>
 <p>En la arquitectura lógica debería representarse cada adaptador entre la aplicación como un recuadro distinto.</p>
-<p><strong>Microservicios</strong></p>
+</section>
+<section id="arquitectura-clean" class="level5 unnumbered unlisted">
+<h5 class="unnumbered unlisted anchored" data-anchor-id="arquitectura-clean">Arquitectura clean</h5>
+<p>Evolución de la arquitectura hexagonal.</p>
+</section>
+<section id="microservicios" class="level5 unnumbered unlisted">
+<h5 class="unnumbered unlisted anchored" data-anchor-id="microservicios">Microservicios</h5>
 <div class="callout callout-style-default callout-note no-icon callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -1600,6 +1651,8 @@ Nota
 <p>En microservicios se suele pintar un API gateway al inicio de la lógica de negocio.</p>
 <p>El API gateway son el punto de entrada a los microservicios. Puede contenter una API separada para la web, que podría ser reactiva (diseño), y una de móvil.</p>
 <p>En la arquitectura de microservicios es obligatorio colocar un broker de mensajes o bus de eventos transversal junto a todos los microservicios, y dar a entender que la comunicación entre ellos se realiza a través de este módulo.</p>
+</section>
+</section>
 </section>
 <section id="arquitecturas-de-sistemas" class="level2" data-number="8.10">
 <h2 data-number="8.10" class="anchored" data-anchor-id="arquitecturas-de-sistemas"><span class="header-section-number">8.10</span> Arquitecturas de sistemas</h2>
@@ -1737,15 +1790,20 @@ Nota
 </ul>
 <p>Hay varias arquitecturas de red privada posibles, y una bastante habitual es la del <strong>cortafuegos dual</strong>. Esta consiste en segmentar la red privadas en dos:</p>
 <ul>
-<li>Red perimetral, en ocasiones llamada zona desmilitarizada (<em>demilitarized zone</em>, DMZ), expuesta a una red externa a través de un cortafuegos externo o perimetral y que alberga a los servidores públicos.</li>
-<li>Subred apantallada, expuesta a la red perimetral a través de un cortafuegos interno, y que aloja servidores y equipos privados.</li>
+<li>Red perimetral, en ocasiones llamada subred apantallada o zona desmilitarizada (<em>demilitarized zone</em>, DMZ), expuesta a una red externa a través de un cortafuegos externo o perimetral y que alberga a los servidores públicos.</li>
+<li>Red privada, expuesta a la red perimetral a través de un cortafuegos interno, y que aloja servidores y equipos privados.</li>
+</ul>
+<p>A la hora de aplicar VLANs, una posible segmentación sería:</p>
+<ul>
+<li>Servidores de presentación</li>
+<li>Pasarelas / Middleware</li>
 </ul>
 <p>El <strong>enrutador</strong> (<em>router</em>) coloca en la parte más externa de la red perimetral para conectarse con otras redes, ya sea internet o intranets como red SARA. Se empleará un enrutador distinto para cada red conectada. Además, por seguridad que requiere que los enrutadores estén duplicados.</p>
 <p>Algunos aspirantes sustituyen el enrutador hacia la red SARA por un elemento llamado Acceso de Conexión (AC).</p>
 <p>Los enrutadores suelen ser los últimos elementos que pertenecen a la red del organismo de la AGE gestionado.</p>
 <p>Se coloca por tanto un <strong>cortafuegos</strong> (<em>firewall</em>) detrás de cada enrutador da acceso a la red privada. Los cortafuegos se colocan en pares con característicias y configuración idéntica para asegurar que si falla uno el otro se encuentra disponible. No obstante, se suele recomendar que el interno y el externo sean de fabricantes distintos, para asegurar en caso de que uno de ellos tenga una vulnerabilidad explotable que no sea posible acceder a la red apantallada.</p>
 <p>Los candidatos suelen configurar el par de cortafuegos externo como activo-pasivo y el par de cortafuegos interno como activo-activo.</p>
-<p>Varios enrutadores pueden emplear un mismo cortafuegos si este tiene libres interfaces de red o soporta VLANs. Los aspirantes habitualmente utilizan el mismo cortafuegos interno para conectar tanto el enrutador a las intranets como la subred apantallada.</p>
+<p>Varios enrutadores pueden emplear un mismo cortafuegos si este tiene libres interfaces de red o soporta VLANs. Los aspirantes habitualmente utilizan el mismo cortafuegos interno para conectar tanto el enrutador a las intranets como la red privada.</p>
 <p>El cortafuegos externo tendrá una conexión directa con el cortafuegos interno.</p>
 <p>Cada cortafuegos (o par de cortafuegos) suelen ir acompañados de un IPS o un IDS. Algunos aspirantes colocan un IDS con el cortafuegos externo y un IPS con el cortafuegos interno. Otros aspirantes colocan un único IPS en mitad de la connexión entre el cortafuegos externo y el interno. El IPS es mencionado como elemento necesario en el ENS.</p>
 <p>La <strong>VPN</strong> debe estar disponible en caso de que haya usuarios que deban acceder a la red interna a través de la VPN. Se debe adaptar al [mp.com.2] del ENS. Para sistemas de categoría media estas VPN deberán utilizar algoritmos y parámetros autorizados por el CCN (refuerzo R1). Si se trata de sistemas de categoría alta, además, se debe utilizar un dispositivo hardware certificado para el establecimiento y utilización de la VPN (refuerzos R2 y R3).</p>
@@ -1759,14 +1817,35 @@ Nota
 <p>Los servicios comunes y transversales de las AAPP se ofrecen a través de la red SARA.</p>
 <p>En la red perimetral, conectados directamente con el cortafuegos exterior, suelen estar presentes:</p>
 <ul>
-<li>Balanceadores</li>
-<li>Servidores de presentación / web</li>
-<li>Servidores proxy</li>
+<li>Sonda SAT-inet</li>
+<li>VLAN 10: tráfico entrante
+<ul>
 <li>Servidores de proxy inverso</li>
-<li>Servidores VPN</li>
+<li>Balanceadores</li>
 <li>Servidor DNS</li>
+</ul></li>
+<li>VLAN acceso externo:
+<ul>
+<li>Servidores VPN</li>
+</ul></li>
+<li>VLAN tráfico saliente:
+<ul>
+<li>Servidores proxy</li>
+</ul></li>
+<li>VLAN presentación:
+<ul>
+<li>Servidores de presentación / web</li>
+</ul></li>
+<li>VLAN middleware:
+<ul>
 <li>API Gateway</li>
-<li>Sonda SAT Inet</li>
+</ul></li>
+</ul>
+<p>La <strong>sonda SAT-inet</strong> (acrónimo de Sistema de Alerta Temprana de Internet) es un elemento de monitorización que permite al CCN monitorizar la red del organismo de la AGE.</p>
+<p>La sonda SAT-inet se suele colocar en la red perimetral, conectada fuera de banda (<em>out-of-band</em>) a un puerto SPAN o Mirror del switch core o del cortafuegos, de manera que reciba una copia del tráfico para analizarlo de forma paralela. Es importante recalcar que NO corta el tráfico.</p>
+<p>Referencias:</p>
+<ul>
+<li><a href="https://www.ccn-cert.cni.es/es/documentos-publicos/1306-sat-de-internet/file.html">Sistema de Alerta Temprana (SAT-INET)</a>. CCN-CERT.</li>
 </ul>
 <p>El <strong>balanceador</strong> puede software o <em>appliance</em>.</p>
 <p>Referencias:</p>
@@ -1775,7 +1854,8 @@ Nota
 </ul>
 <p>Según el ENS, se debe aplicar sobre los sistemas de categoría media el refuerzo R1 “segmentación lógica básica”, que implica la configuración de VLANs. Las VLANs mínimas a considerar son “Usuarios”, “Servicios” y “Administración”.</p>
 <p>Sobre los sistemas de categoría alta se debe aplicar el refuerzo R2 “segmentación lógica avanzada” por VPN o el R3 “segmentación física” con segmentos físicos separados, y el R4 “puntos de interconexión”.</p>
-<p>En la subred apantallada se suelen colocar:</p>
+<p>En la <strong>VLAN middleware</strong> se instalan elementos como el API gateway o FIRe.</p>
+<p>En la red privada se suelen colocar:</p>
 <ul>
 <li>Usuarios
 <ul>
@@ -1794,7 +1874,9 @@ Nota
 <li>Servidores de integración (CI/CD)</li>
 </ul></li>
 </ul>
-<p>Los aspirantes suelen definir una VLAN por cada una de estas categorías para asegurar la segmentación de red y aumentar la seguridad.</p>
+<p>Los aspirantes suelen definir una VLAN en la red privada por cada una de estas categorías para asegurar la segmentación de red y aumentar la seguridad. Los servidores de aplicación y las bases de datos se suelen poner por separado.</p>
+<p>En caso de requerirse trabajar con firma electrónica, es recomendable reflejar la instalación de un <strong>servidor local FIRe</strong> en una VLAN de integración, ya que los servidores de aplicación estos necesitan comunicarse con la API de FIRe para enviarle el documento original y recuperar el resultado firmado.</p>
+<p>El servidor FIRe se ubicaría dentro de la la red privada, y requeriría conectividad de salida hacia la intranet administrativa (Red SARA) para acceder a servicios transversales como <span class="citation" data-cites="firma">@firma</span> o Cl@ve Firma.</p>
 <section id="arquitectura-de-red-con-nube-híbrida" class="level4" data-number="8.10.5.1">
 <h4 data-number="8.10.5.1" class="anchored" data-anchor-id="arquitectura-de-red-con-nube-híbrida"><span class="header-section-number">8.10.5.1</span> Arquitectura de red con nube híbrida</h4>
 <p>En caso de manejar de contratar un tentant en NubeSARA, los elementos de red del organismos serían los mismos pero deberían ir enmarcados con línea discontinúa que indique que se trata de un tentant de NubeSARA.</p>
